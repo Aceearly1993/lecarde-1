@@ -2,9 +2,11 @@
 A portion of source code of the fan-game Castlevania: The Lecarde Chronicles (1) made by Migami Games. Due to a HDD failure, the original source have been lost. This repo is an atempt to preserve, fix and improve this game.
 
 Unfortunately, the recovery process ended up corrupting all non-English characters, many transparency effects and more. So, if you know any of the following languages and is interested in helping us out by fixing and re-translating this project, feel free to contact us, we are in need of:
-- French
-- Spanish
-- German
+- French fix
+- Spanish fix
+- German fix
+- Somebody who're good at reverse engineering datas
+- Somebody who're both very good at using **Multimedia Fusion 2 Developer** (The version before the engine is updated into Clickteam Fusion 2.5) and a good French speaker
 
 
 ## Disclaimer
