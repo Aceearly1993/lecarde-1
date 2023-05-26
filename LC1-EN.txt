@@ -1,0 +1,987 @@
+- PROLOGUE BOSS
+
+P1:
+You've got the power: ITEM CRASH LEVEL 1
+
+P2:
+You can now use your subweapon in a more powerful way.
+
+P3:
+The red numbers indicate how many hearts are needed  to use the current item crash.
+
+P4:
+Press UP and item crash button to use it.
+
+P5:
+(With enough hearts)
+
+
+P6:
+
+
+-----------------------
+
+- OPENING
+
+P1: 
+Evil energy merges from that stone monument .
+
+P2:
+That is the emblem of    " Von Viltheim" .
+That noble family has lands in Austria .
+
+P3:
+Some of their noblemen came here in Spain in the early  century .
+
+P4:
+Their castle in Spain was mysteriously destroyed in 1725 .
+
+P5:
+The Von Viltheim main castle lies on a lake in northern Austria .
+
+P6:
+Two brothers Wilhelm and Leopold and the sister Katharina live there .
+
+P7:
+I should go in Austria and investigate ...
+
+
+-----------------------
+
+- ruhigestadt
+
+P1: 
+You must find some information before you leave this town.
+
+P2:
+This street will lead you outside of town.
+
+P3:
+PRESS UP in front of the street to leave the town.
+
+P4:
+Very disturbing events are occurring in this land.
+
+P5:
+This town is the only haven that is left in this land.
+
+P6:
+Nobody can approach the castle. An invisible barrier prevents anyone from entering it.
+
+P7:
+What happened to the respected Von Viltheim family?
+
+It's unsettling..
+
+
+P8:
+You must gather the 6 parts of the VON VILTHEIM crest.
+
+P9:
+It's the only way for you to enter the castle.
+
+P10:
+That house is abandoned. I'm pretty sure that  a valuable thing is hidden inside.
+
+P11:
+You got the power of the 
+DOUBLE SHOT
+
+P12:
+You can now throw 2 subweapons in a row.
+
+P13:
+You found the 
+ORB OF TRUTH
+
+P14:
+That valuable item reveal what hidden treasures can be found in an area.
+
+P15:
+When you select an area on the map, the items that can be found are displayed in the bottom-left corner of the screen.
+
+P16:
+Hello young knight! 
+I'm too old now to explore the world.
+
+P17:
+I've got a very valuable item that will surely help you in your quest.
+
+P18:
+You can pick it up in my room..
+
+P19:
+Please use the power of the orb to deliver our land from the shadows.
+
+P20:
+Welcome to my tavern "Der goldenen Adler". Lots of travelers come in to have a drink and talk about their travels.
+
+P21:
+I know that the Von Viltheim family has a powerful crest.
+
+P22:
+That crest has been broken into parts. The pieces of it are scattered across the land.
+
+P23:
+Are you a knight of the Church?
+
+P24:
+I know that the Vatican uses these knights when very unholy and strange events occur in the Christendom.
+
+P25:
+Henri Sardis the priest comes from France. He used to be a very comforting man .
+Now he looks very strange !
+
+P26:
+Some people say that he can bless weapons and reinforce them!
+
+P27:
+Welcome ! I see you're also a soul of the church .
+
+P28:
+I don't know what happen's to  me ... I fell bad...I'm weak ...
+
+P29:
+That is not a disease ... I feel a nasty presence coming from the roof of my church...
+Please help me !
+
+P30:
+My mother doesn't allow me to leave the town. She says that our land is becoming very dangerous.
+
+P31:
+You are from Spain! Why did you come so far in Austria?
+
+P32:
+The Von Viltheim family had a castle in Spain? I didn't know that. I hope that all will be ok.
+
+P33:
+The inn "Das weisse Einhorn" and the church are really close. If you could climb on the roof of the inn maybe you could reach the roof of the church.
+
+P34:
+Welcome to "Das weisse Eihnhorn". If you need to rest you are welcome here.
+
+P35:
+You can also eat very good specialties of Austria.
+
+P36:
+Areas are full of secrets! Sometimes when you strike a wall you will find hidden items.
+
+P37:
+Powerful monsters keep the parts of the crest. Be sure to be prepared to fight them.
+
+P38:
+Some people can master "ITEM CRASH LEVEL 3". At this level you could become invisible, regenerate your life, your SP etc.
+
+P39:
+Unfortunately these item crashes need lots of hearts to be utilized.
+
+P40:
+Welcome! I have some items you may be interested in..
+
+P41:
+LIFE MAX EXTEND
+
+It will increase your  life bar.
+Give me 70 Hearts and it will be yours.
+
+P42:
+SP MAX EXTEND
+
+It will increase your  SP bar.
+Give me 50 Hearts and it will be yours.
+
+P43:
+Your life bar increased.
+
+P44:
+Your SP bar increased.
+
+P45:
+Good afternoon!
+You want to find parts of the Von Viltheim crest?
+The family's members used to hunt and take rest in their summer estate.
+
+P46:
+That estate is in the southern forest ..
+There are also ruins lying in a little island which could keep some secrets.
+
+P47:
+RUINS and HUNTING GROUND are now available on the map.
+
+P48:
+Be careful because this land is full of danger!
+
+P49:
+CHAIN
+
+It will increase your strength.
+Give me 70 Hearts and it will be yours.
+
+P50:
+You've got the CHAIN.
+
+P51:
+I come from southern Austria.
+I went to Ungestadt to visit my family.
+
+P52:
+But I discovered that the city was abandoned. An evil mist covered the city and dangerous monsters invaded it.
+
+P53:
+I learned that the eastern monastery was also abandoned, and that the monks disappeared.
+
+P54:
+Oh, wait! A traveler I met said "Anyone who values their life shouldn't wander around northern mountains" .. These were his words.
+
+P55:
+UNGESTADT, MONASTERY and NORTHERN MOUNTAINS are now available on the map.
+
+P56:
+Should we leave this land? 
+
+P57:
+....................................
+
+P58:
+Oh I feel better. What happened?
+
+P59:
+What! A Yorik was walking on the roof of my church?
+
+P60:
+I'm very glad that you destroyed it.
+
+P61:
+I'm going to bless you..
+
+P62:
+SILVER DAGGER will now become: 
+GOLDEN DAGGER
+
+P63:
+CRIMSON CROSS will now become: 
+SILVER CROSS 
+
+P64:
+HAND AXE will now become: 
+HEAVY AXE
+
+P65:
+PINK DIAMOND will now become: 
+PURE DIAMOND
+
+P66:
+May god help you to fulfill your mission.
+
+P67:
+You need SP to use your special skills.
+(Green bar). If your SP drops to 0, do not panic.. After 5 seconds you will recover a little SP.
+
+P68:
+There are several members of the Von viltheim family who are famous.
+
+P69:
+Gerof was a great hunter.
+
+P70:
+Wilhelm was a great musician. He loved the sound of bats in flight.
+
+P71:
+Liese was a very beautiful girl. She died very young. Her tomb is full of roses.
+
+P72:
+Friedrich was a great scientist. He conducted many experiments.
+
+P73:
+Leopold's library is the largest in Europe. One day he found a necromancy book.
+
+P74:
+Duchess Katharina was so clever, wise and gorgeous.
+
+P75:
+They are all dead now.
+
+P76:
+You can turn back to exit an area, but only at the beginning of the area.
+
+
+-----------------------
+
+- text item name
+
+P1: 
+Heart
+
+P2:
+Medium heart
+
+P3:
+Big heart
+
+P4:
+Green heart
+
+P5:
+Medium green heart
+
+P6:
+Big green heart
+
+P7:
+Grapes
+
+P8:
+Rosario
+
+P9:
+Cheese
+
+P10:
+Chicken leg
+
+P11:
+Chicken
+
+P12:
+Silver dagger
+
+P13:
+Crimson cross
+
+P14:
+Hand axe
+
+P15:
+Holy water
+
+P16:
+Pink diamond
+
+P17:
+1 UP
+
+P18:
+Jar
+
+P19:
+Orb of power
+
+P20:
+Gold dagger
+
+P21:
+Silver cross
+
+P22:
+Heavy axe
+
+P23:
+Sacred water
+
+P24:
+Pure diamond
+
+P25:
+White orb
+
+P26:
+Gold orb
+
+P27:
+Life container
+
+P28:
+Green container
+
+P29:
+Heart container
+
+P30:
+Double shot
+
+P31:
+Triple shot
+
+P32:
+Blessing
+
+P33:
+Wind statuette
+
+P34:
+Pilgrim statuette
+
+P35:
+Angel statuette
+
+P36:
+Eagle statuette
+
+P37:
+Medusa statuette
+
+P38:
+Globe of truth
+
+P39:
+Crest part
+
+P40:
+Boss enemy
+
+
+-----------------------
+
+- text weapons
+
+P1:
+Alcarde
+       peitsche
+
+
+P2:
+Langpeitsche
+
+P3:
+Kettenpeitsche
+
+P4:
+Eiserne 
+       Rose
+
+P5:
+ Goldener 
+         M鰎der
+
+P6:
+
+-----------------------
+
+
+- text item
+
+P1: 
+Earn 1 heart.
+
+P2:
+Earn 5 hearts.
+
+P3:
+Earn 20 hearts.
+
+P4:
+Gives some special power.
+
+P5:
+Gives more special power.
+
+P6:
+Gives a lot of special power.
+
+P7:
+Gives all your special power.
+
+P8:
+Causes serious damages to close enemies.
+
+P9:
+Gives some life points.
+
+P10:
+Gives more life points.
+
+P11:
+Gives all your life points.
+
+P12:
+Thrown straight forward. Fast but not very powerful.
+
+P13:
+Powerful weapon that reverses it movement.
+
+P14:
+Powerful weapon thrown up.
+
+P15:
+Burns the ground enemies.
+
+P16:
+bounce against walls.
+
+P17:
+Give one extra life.
+
+P18:
+Gives invincibility for a while.
+
+P19:
+Increase damages caused by Efrain's main weapon.  Be careful it will be lost if Efrain gets touched by the enemy .
+
+P20:
+Thrown straight forward. Fast but not very powerful.
+
+P21:
+Powerful weapon that reverses it movement.
+
+P22:
+Powerful weapon throwed up.
+
+P23:
+Burns the ground enemies .
+
+P24:
+bounce against walls.
+
+P25:
+Increase max level of the item crash.
+
+P26:
+Piece of the secret..
+
+P27:
+Increase your life max.
+
+P28:
+Increase your SP max.
+
+P29:
+Increase your maximum of carried hearts.
+
+P30:
+Allows Efrain to shot 2 subweapons in a row.
+
+P31:
+Allows Efrain to shot 3 subweapons in a row.
+
+P32:
+Strenghtens subweapons .
+
+P33:
+Learn the special skill: WHIRLWIND.
+
+P34:
+Learn the special skill: GROUND RUSH.
+
+P35:
+Learn the special skill: DOUBLE JUMP.
+
+P36:
+Learn the special skill: AIR RUSH.
+
+P37:
+Learn the special skill: AIR FLOAT.
+
+P38:
+Reveal the available treasures of an area.
+
+P39:
+Gather the 6 parts to destroy the magic barrier.
+
+P40:
+Powerful enemy that guards an area.
+
+
+-----------------------
+
+- text moves
+
+P1: 
+When Efrain is standing on the ground.
+
+P2:
+When Efrain is standing on stairs or some platforms.
+
+P3:
+When Efrain is standing on the ground, jumping or crouched.
+
+P4:
+While Efrain is standing on the ground or jumping.
+
+Efrain must have enough hearts.
+
+P5:
+Lv 1 can be done while standing on the ground or jumping .LV 2 and 3 only while standing on the ground . The red number indicates the amount of hearts needed.
+
+P6:
+While Efrain is standing on the ground and faces a door or a person.
+
+P7:
+When Efrain is standing on the ground. 
+
+Do not need SP.
+
+P8:
+While Efrain is jumping.
+
+Do not need SP
+
+P9:
+When Efrain is standing on the ground. Can repel some enemies shots .
+
+Consumes lots of SP.
+
+P10:
+While Efrain is  jumping or dropping. 
+
+Consumes some SP.
+
+P11:
+While Efrain is jumping or dropping. 
+Consumes some SP.
+
+P12:
+You have not learned that skill yet.
+
+
+-----------------------
+
+- text beyond
+
+P1: 
+From here, you cannot turn back or use the save option.
+
+P2:
+A partir d'ici, vous ne pouvez ni sauvegarder ni revenir en arri鑢e.
+
+P3:
+Desde aqu? no puedes volver o utilizar la opci髇 de salvar partida.
+
+P4:
+Von hieraus kannst du nicht umkehren oder die Speicheroption ausw鋒len.
+
+
+-----------------------
+
+- Boss beaten
+
+P1: 
+You find one of the six parts of the broken crest.
+
+
+-----------------------
+
+- HP UP get
+
+P1: 
+MAX HP extend.
+
+
+-----------------------
+
+- Defeat Gerof
+
+P1:
+You've have destroyed the ghost of Gerof Von Viltheim. You've also found the LONG WHIP.
+
+
+-----------------------
+
+- Get whirlwind (Ruins 4)
+
+P1:
+  You've got the  WIND STATUETTE.
+
+
+-----------------------
+
+- Heart UP get
+
+P1:
+Hearts max increased.
+
+
+-----------------------
+
+- MP UP get
+
+P1: 
+Special power max extend.
+
+
+-----------------------
+
+- Get double jump (Ungestadt 3)
+
+P1: 
+
+P2: 
+       You got the ANGEL STATUETTE.
+
+P3: 
+You can now perform a "double jump" .
+
+P4: 
+Push the JUMP button another time during a jump.
+
+P5: 
+ You can perform a double jump, even if Efrain drops.
+
+
+-----------------------
+
+- Get slide (Riff Monasetry 2)
+
+P1: 
+You got the  PILGRIM STATUETTE.
+
+P2: 
+You can now perform the GROUND RUSH.
+
+P3: 
+press the SPECIAL button when Efrain is croushed .
+
+P4: 
+You can pass by tight ways.
+
+P5: 
+The "Ground rush" does not consume any SP.
+
+
+-----------------------
+
+- Get Item Crash upgrade (North Mountain 2, Basement 4)
+
+P1: 
+    Item crash MAX's level increased .
+
+P2: 
+Your item crash MAX level increased .
+
+P3: 
+You can now use your subweapon in a more powerful way than before.
+
+P4: 
+You are invincible during an item crash level 2 or 3.
+
+P5: 
+You can upgrade or downgrade the item crash level by pressing the ITEM CRASH BUTTON.
+
+
+-----------------------
+
+- At front of Castle Gate
+
+P1: 
+What's that?
+
+P2: 
+I am repelled by some magic force.
+
+P3: 
+I wont be able to enter the castle!
+I must withdraw for now until i find a way to get inside.
+
+P4: 
+There is a little town south of here called " Ruhigestadt".
+Perhaps i should search there for clues to break this barrier.
+
+P5: 
+The Von Viltheim family must hide a terrible secret..
+
+P6:
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!........
+
+
+-----------------------
+
+- Get Air Rush (Main Hall 1)
+
+P1: 
+
+
+P2: 
+  You get the EAGLE STATUETTE.
+
+P3: 
+You can now perform the "AIR RUSH" move.
+
+P4: 
+Push the SPECIAL button during a jump or a drop.
+
+P5: 
+The AIR RUSH consumes little SP.
+
+
+-----------------------
+
+- Main Hall boss
+
+P1: 
+You have made progress in the castle.
+You've reached the maze of curtains and the castle yard..
+
+
+-----------------------
+
+- Maze of Curtain boss
+
+P1: 
+You've cleared this area of Wilhelm's evil presence.
+
+
+-----------------------
+
+- Get Iron Rose (inner yard 2)
+
+P1: 
+You've got the Iron Rose.
+
+
+-----------------------
+
+- Inner yard boss
+
+P1: 
+You've cleared this area ot Liese's ghost evil presence.. 
+
+
+-----------------------
+
+- Get Triple shot (Hall of Science 3)
+
+P1: 
+            You get the power of the :
+                 TRIPLE SHOT.
+
+P2: 
+You can now throw 3 subweapons in a row.
+
+
+-----------------------
+
+- Hall of Science boss
+
+P1: 
+Be brave. You're fight is not over yet..
+
+
+-----------------------
+
+- Get Air Float (basement 1)
+
+P1: 
+You've got  MEDUSA STATUETTE.
+
+
+P2: 
+You've got  MEDUSA STATUETTE.
+
+P3: 
+You can now perform: "Air float".
+
+P4: 
+Hold down  UP + SPECIAL when Efrain drops.
+
+P5: 
+Efrain will float in air.
+
+
+-----------------------
+
+- Basement boss
+
+P1: 
+The basement of the castle was a holy place years ago. It is a doomed place now..
+
+
+-----------------------
+
+- Get gilt slayer (condemned area 1)
+
+P1: 
+You found the GILT SLAYER.
+
+
+-----------------------
+
+- condemned area boss
+
+P1: 
+You've reached the way to the last part of the castle. This evil place must be destroyed.
+
+
+-----------------------
+
+- Moonlight hall boss
+
+P1:
+You feel the evil presence of Katharina.
+Could it be you're very last fight? The moon is so beautiful.
+
+
+-----------------------
+
+- Katharina Quarter boss
+
+P1:
+You've finished off the Frierich's lugubrious wandering. It must be late, the sun will rise soon. Katharina is waiting me somewhere below.
+
+
+-----------------------
+
+- Ending B
+
+P1: 
+AVERAGE ENDING
+Try the Hard difficulty mode to get the best ending and unlock the BOSS RUSH mode.
+
+P2: 
+FIN INTERMEDIAIRE
+Essayez le mode difficile pour obtenir la meilleur fin et d閎loquer le BOSS RUSH mode.
+
+P3: 
+FINAL INTERMEDIO
+Prueba el juego en m醲ima dificultad para tener el mejor final y desbloquear el BOSS RUSH modo.  
+
+
+P4: 
+MITTLERES ENDE
+Spiele den schweren Schwierigkeitsgrad durch um das beste Spielende zu sehen und den BOSS RUSH Mode freizuschalten.
+
+
+-----------------------
+
+- Ending A
+
+P1: 
+BAD ENDING
+Try another difficulty mode to get better endings.
+
+
+P2: 
+MAUVAISE FIN
+Essayez un autre niveau de difficult?pour obtenir de meilleurs fins.
+
+P3: 
+FINAL MALO
+Prueba otros modos de dificultad para tener mejores finales.
+
+
+P4: 
+SCHLECHTES ENDE
+Versuche einen h鰄eren Schwierigkeitsgrad durchspielen f黵 ein besseres Ende.
+
+
+-----------------------
+
+- Ending C
+
+P1: 
+BEST ENDING
+You are a very skilled player! Try the BOSS RUSH mode ..
+
+
+
+P2: 
+MEILLEURE FIN
+Vous 阾es un tr鑣 bon joueur. Pourquoi ne pas essayer le BOSS RUSH mode?
+
+P3: 
+MEJOR FINAL
+Eres un jugador muy h醔il. Prueba el BOSS RUSH modo..
+
+
+
+P4: 
+BESTES ENDE
+Du bist ein sehr erfahrener Spieler! Versuche nun den BOSS RUSH Mode ..
