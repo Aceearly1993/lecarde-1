@@ -1,0 +1,880 @@
+- PROLOGUE BOSS
+
+P1:
+Vous obtenez le pouvoir:
+ ITEM CRASH Niveau 1
+
+P2:
+Vous pouvez utiliser l'arme secondaire pour ex閏uter son pouvoir sp閏ial.
+
+P3:
+Les chiffres rouges indiquent le nombre de coeurs nécessaires pour utiliser l'item crash.
+
+P4:
+Appuyez sur HAUT + Item crash.
+
+P5:
+En ayant le nombre de coeurs nécessaires.
+
+P6:
+
+
+-----------------------
+
+- ruhigestadt
+
+P1: 
+Vous devriez trouver des informations avant de quitter la ville.
+
+P2:
+Cette rue vous conduit hors de la ville.
+
+P3:
+Appuyez sur HAUT en face de la rue pour quitter la ville.
+
+P4:
+Des 関鑞ements tr鑣 inqui閠ants se produisent depuis peu dans cette r間ion.
+
+P5:
+Cette ville est le seul havre de tranquilit?qui reste dans la r間ion.
+
+P6:
+Personne ne peut approcher le Château. Une barri鑢e invisible repousse ceux qui essayent d'entrer.
+
+P7:
+Qu'est il arriv??la respectable famille Von Viltheim?
+
+C'est incomprehensible..
+
+P8:
+Vous devez assembler les 6 parties du sceau de la famille VON VILTHEIM.
+
+P9:
+C'est la seule fa鏾n de pouvoir entrer dans le chateau.
+
+P10:
+Cette maison est abandonn閑. Je suis s鹯 qu抲ne chose pr閏ieuse se trouve cach閑 ?l抜nt閞ieur.
+
+P11:
+Vous obtenez le pouvoir:
+DOUBLE LANCER
+
+P12:
+Vous pouvez maintenant lancer 2 armes secondaires ?la suite.
+
+P13:
+Vous obtenez le
+GLOBE DE VERITE
+
+P14:
+Cet objet r関鑜e la pr閟ence des tr閟ors pouvant 阾re trouv閟 dans une zone.
+
+P15:
+Lorsque vous s閘ectionnez une zone sur la carte, la liste des tr閟ors s抋ffiche en bas ?gauche de l掗cran.
+
+P16:
+Bonjour jeune aventurier !
+Je suis d閟ormais trop vieux pour explorer le monde.
+
+
+P17:
+Je poss鑔e un objet tr鑣 int閞essant qui te sera utile dans ta qu阾e.
+
+P18:
+Tu peux le r閏up閞er l?haut dans ma chambre.
+
+P19:
+Utilise le pouvoir du globe pour d閘ivrer cette contr閑 des t閚鑒res qui l抏nvahissent.
+
+P20:
+Bienvenue dans ma taverne ?Der goldenen Adler ? Beaucoup de voyageurs s抋rr阾ent ici pour boire un verre et relater leurs aventures.
+
+P21:
+Je crois savoir que la famille Von Viltheim d閠ient un sceau d抲ne immense puissance.
+
+P22:
+Le sceau a 閠?bris?en plusieurs morceaux. Ces morceaux sont 閜arpill閟 au quatre coins de la r間ion.
+
+P23:
+Etes vous un chevalier de l扙glise ?
+
+P24:
+J抋i entendu dire que le Vatican missionnait ces chevaliers lorsque des 関閚ements diaboliques  se produisent dans la chr閠ient?  
+
+P25:
+Henri Sardis est un pr阾re venu de France. C掗tait auparavant un homme tr鑣 chaleureux. D閟ormais il ne parle plus ?personne.  
+
+P26:
+Les gens disent qu抜l peut b閚ir certaines armes  afin de les rendre plus puissantes.
+
+P27:
+Welcome ! I see you're also a soul of the church .
+
+P28:
+I don't know what happen's to  me ... I fell bad...I'm weak ...
+
+P29:
+That is not a disease ... I feel a nasty presence coming from the roof of my church...
+Please help me !
+
+P30:
+Ma m鑢e ne m抋utorise plus a sortir de la ville. Elle dit que c抏st devenu tr鑣 dangereux ?l抏xt閞ieur.
+
+P31:
+Vous venez d扙spagne ? Vous 阾es tr鑣 loin de chez vous, ici en Autriche.
+
+P32:
+Je ne savais pas que la Famille Von Viltheim avait un Château en Espagne.
+
+P33:
+L抋uberge ?Das weisse Einhorn ?et l掗glise sont tr鑣 proches. Peut 阾re que vous pourriez atteindre le toit de l掗glise en montant sur celui de l抋uberge.
+
+P34:
+Bienvenue a l抋uberge ?Das weissse Heinhorn ? Si vous avez besoin de repos vous pouvez passer la nuit ici.
+
+P35:
+Vous pouvez 間alement gouter ?nos d閘icieuses sp閏ialit閟 autrichiennes. 
+
+P36:
+Beaucoup d抩bjets cach閟 peuvent 阾re d閏ouverts en frappant certains murs. 
+
+P37:
+Des ennemis puissants  gardent les diff閞entes parties du sceau bris? Soyez s鹯 d掙tre bien pr閜ar? avant de les affronter.
+
+P38:
+En maitrisant l扞TEM CRASH au niveau 3 vous pouvez 阾re capable de devenir invisible; de vous r間閚閞er etc.
+
+P39:
+Le seul inconv閚ient c抏st qu掄 ce niveau il faut beaucoup de coeurs pour les utiliser.
+
+P40:
+Bonjour ! J抋i des objets ici qui pourraient vous int閞esser.
+
+P41:
+EXTENSION DE VIE MAX 
+
+Cela augmentera la taille de votre barre de vie.
+Donne moi 70 coeurs et elle sera tienne.
+
+
+P42:
+EXTENSION DE SP MAX 
+
+Cela augmentera la taille de votre barre de SP.
+Donne moi 50 coeurs et elle sera tienne.
+
+
+P43:
+Votre barre de vie a augmenté.
+
+P44:
+Votre barre de SP a augmenté.
+
+P45:
+Quel bel apr鑣 midi !
+Vous d閟irez trouver les morceaux du seau Von Viltheim ?
+Les membres de la famille avaient l抙abitude d抋ller se reposer dans le domaine de chasse de Gerof. 
+
+
+P46:
+Ce domaine se trouve dans la for阾 au sud d抜ci?
+Maintenant que j抷 pense, Il y a des ruines sur une petite ile qui peuvent pr閟enter de l抜nt閞阾.
+
+
+P47:
+RUINES et DOMAINE DE CHASSE sont d閟ormais disponible sur la carte.
+
+P48:
+Fa顃es attention. Cette r間ion est pleine de dangers.
+
+P49:
+CHAINE
+
+Augmentera votre force d抋ttaque.
+Donne moi 70 coeurs et elle sera ?toi.
+
+
+P50:
+Vous avez la CHAINE.
+
+P51:
+Je viens d'une contr閑 situ閑 au sud de l'Autriche.
+J'閠ais venue ?UNGESTADT pour rendre visite ?ma famille.
+
+P52:
+J'ai d閏ouvert que la ville 閠ait abandonn閑 et qu'elle 閠ait envahie par les monstres.
+
+P53:
+J抋i aussi appris que le monast鑢e ?l抏st avait 閠?d閟ert?par les moines .
+
+P54:
+D抋utre part, un voyageur que j抋i rencontr? m抋 dit qu抜l fallait mieux 関iter les montagnes du nord..
+
+P55:
+UNGESTADT, MONASTERE et MONTAGNES DU NORD sont d閟ormais disponible sur la carte.
+
+P56:
+Devrions nous quitter cette r間ion?
+
+P57:
+....................................
+
+P58:
+Je me sent mieux.. Mais que s'est il pass?
+
+P59:
+Quoi! Un Yorik sur le toit de mon 間lise.
+
+P60:
+Merci de l'avoir d閠ruit.
+
+P61:
+Je vais te b閚ir...
+
+P62:
+La DAGUE D'ARGENT deviendra maintenant:
+DAGUE D'OR
+
+P63:
+La CROIX ECARLATE deviendra maintenant:
+CROIX ARGENTEE
+
+P64:
+La HACHE deviendra maintenant:
+HACHE LOURDE
+
+P65:
+Le DIAMANT ROSE deviendra maintenant:
+DIAMANT PUR
+
+P66:
+Puisse Dieu t'aider ?accomplir ta mission.
+
+P67:
+Vous avez besoin de SP pour utiliser vos techniques.
+( barre verte ). Si vous perdez tous vos SP ne paniquez pas, vous en r閏upererez un peu apr鑣 5 secondes.
+
+P68:
+Certains membres de la famille Von Viltheim sont c閘鑒res.
+
+P69:
+Gerof 閠ait un grand chasseur.
+
+P70:
+Wilhelm 閠ait un grand musicien. Il aimait particuli鑢ement le son m閘odieux des chauve-souris en vol.
+
+P71:
+Liese 閠ait une tr鑣 belle fille, elle f鹴 emport閑 par la maladie tr鑣 jeune. Sa tombe au Château est couverte de roses.
+
+P72:
+Friedrich 閠ait un grand savant. Il a conduit de nombreuses exp閞iences scientifiques.
+
+P73:
+La biblioth鑡ue de Leopold est la plus grande en Europe. Un jour il trouva un livre de n閏romancie..
+
+P74:
+La duchesse Katharina 閠ait une femme d'une rare intelligence et d'une beaut??couper le souffle.
+
+P75:
+Ils sont tous morts depuis longtemps.
+
+P76:
+Vous pouvez ressortir une zone et retourner sur la carte mais seulement au d閎ut de celle-ci.
+
+
+-----------------------
+
+- text item name
+
+P1: 
+Coeur
+
+P2:
+Coeur moyen
+
+P3:
+Gros coeur
+
+P4:
+Coeur vert
+
+P5:
+Coeur vert moyen
+
+P6:
+Gros coeur vert
+
+P7:
+Grappe de raisin
+
+P8:
+Rosaire
+
+P9:
+Fromage
+
+P10:
+Patte de poulet
+
+P11:
+Poulet
+
+P12:
+Dague d'argent
+
+P13:
+Croix 閏artlate
+
+P14:
+Hache
+
+P15:
+Eau b閚ite
+
+P16:
+Diamant rose
+
+P17:
+Vie suppl閙entaire
+
+P18:
+Jarre
+
+P19:
+Globe de puissance
+
+P20:
+Dague d'or
+
+P21:
+Croix d'argent
+
+P22:
+Hache lourde
+
+P23:
+Eau sacr閑
+
+P24:
+Diamant pur
+
+P25:
+Globe blanc
+
+P26:
+Globe d'or
+
+P27:
+Container de vie
+
+P28:
+Container vert
+
+P29:
+Container de coeurs
+
+P30:
+Double lanc?
+
+P31:
+Triple lanc?
+
+P32:
+B閚閐iction
+
+P33:
+Statuette du vent
+
+P34:
+Statuette de pelerin
+
+P35:
+Statuette d'ange
+
+P36:
+Statuette d'aigle
+
+P37:
+Statuette Gorgone
+
+P38:
+Globe de verit?
+
+P39:
+Partie du sceau
+
+P40:
+Boss de niveau
+
+
+-----------------------
+
+- text weapons
+
+
+P1:
+  Fouet
+        Alcarde
+
+
+P2:
+  Fouet
+       Long
+
+P3:
+     Cha頽e
+
+P4:
+  Rose 
+       de fer
+
+P5:
+  Meurtrier
+           dor?
+
+P6:
+
+
+-----------------------
+
+- text item
+
+P1: 
+Gagnez 1 coeur.
+
+P2:
+Gagnez 5 coeurs.
+
+P3:
+Gagnez 20 coeurs.
+
+P4:
+Donne un peu de SP.
+
+P5:
+Donne plus de SP.
+
+P6:
+Donne beaucoup de SP.
+
+P7:
+Donne tous les SP.
+
+P8:
+Cause de tr鑣 grave d間鈚s aux ennemis pr閟ents ?proximit? 
+
+P9:
+Donne quelques points de vie.
+
+P10:
+Donne plus de  points de vie.
+
+P11:
+Donne tous les points de vie.
+
+P12:
+Lanc閑 droit devant. Arme rapide mais peu puissante. 
+
+P13:
+Arme puissante qui se lance comme un boomerang.  
+
+P14:
+Arme puissante qui se lance en l抋ir.
+
+P15:
+Brule le sol et les ennemis en contact.
+
+P16:
+Rebondi contre les murs. 
+
+P17:
+Donne une vie suppl閙entaire.
+
+P18:
+Rend invincible durant un moment.
+
+P19:
+Augmente les d間鈚s caus閟 par l抋rme principale d扙frain. Attention ! L抏ffet sera perdu si Efrain subit une attaque.
+
+P20:
+Lanc閑 droit devant. Arme rapide mais peu puissante. 
+
+P21:
+Arme puissante qui se lance comme un boomerang.  
+
+P22:
+Arme puissante qui se lance en l抋ir.
+
+P23:
+Brule le sol et les ennemis en contact.
+
+P24:
+Rebondi contre les murs. 
+
+P25:
+Augmente de 1 le niveau maximal de l'Item crash.
+
+P26:
+Partie du secret..
+
+P27:
+Augmente votre vie max.
+
+P28:
+Augmente vos SP max.
+
+P29:
+Augmente le nombre maximum de coeurs pouvant 阾re port閟.
+
+P30:
+Permet ?Efrain de lancer deux armes secondaires ?la suite.
+
+P31:
+Permet ?Efrain de lancer trois armes secondaires ?la suite.
+
+P32:
+Renforce la puissance des armes secondaires.
+
+P33:
+Apprenez la technique sp閏iale : TOURBILLON.
+
+P34:
+Apprenez la technique sp閏iale : GLISSADE.
+
+P35:
+Apprenez la technique sp閏iale : DOUBLE SAUT.
+
+P36:
+Apprenez la technique sp閏iale : RUEE AERIENNE.
+
+P37:
+Apprenez la technique sp閏iale : SUSPENSION.
+
+P38:
+R関鑜e la pr閟ence de tr閟ors dans une zone.
+
+P39:
+Rassemblez les 6 morceaux pour d閠ruire la barri鑢e magique. 
+
+P40:
+Ennemi puissant gardant une zone.
+
+
+
+-----------------------
+
+- text moves
+
+P1: 
+Quand Efrain est sur le sol.
+
+P2:
+Quand Efrain se trouve sur des escaliers ou certaines plateformes.
+
+P3:
+Quand Efrain est sur le sol,saute ou est accroupi.
+
+P4:
+Quand Efrain est sur le sol ou saute.
+
+En ayant suffisament de coeurs.
+
+
+P5:
+Lv Niveau 1 peut 阾re execut?au sol ou en sautant. Niveaux 2 et 3 simplement en 閠ant sur le sol. Les chiffres rouges indiquent le montant de coeurs n閏閟saires.
+
+P6:
+Quand Efrain est sur le sol et fait face ?une porte ou une personne.
+
+P7:
+Quand Efrain est sur le sol.
+
+Ne n閏essite pas de SP.
+
+P8:
+Quand Efrain saute.
+
+Pas besoin de SP.
+
+P9:
+Quand Efrain est sur le sol.Peut repousser certains tirs ennemis.
+Consomme 閚orm閙ent de SP.
+
+P10:
+Quand Efrain saute ou chute.
+
+Consomme quelques SP.
+
+P11:
+Quand Efrain saute ou chute.
+Consomme quelques SP.
+
+P12:
+Vous n'avez pas encore appris cette technique.
+
+
+-----------------------
+
+- Boss beaten
+
+P1: 
+Vous avez trouv?un morceau du sceau bris?
+
+
+-----------------------
+
+- HP UP get
+
+P1: 
+VIE MAX augmenté.
+
+
+-----------------------
+
+- Defeat Gerof
+
+P1:
+Vous avez d閠ruit le fant鬽e de Gerof Von Viltheim. Vous avez 間alemment trouv?le FOUET LONG.
+
+
+-----------------------
+
+- Get whirlwind (Ruins 4)
+
+P1:
+Vous obtenez la STATUETTE DU VENT.
+
+
+-----------------------
+
+- Heart UP get
+
+P1:
+COEURS MAX augment閟.
+
+
+-----------------------
+
+- MP UP get
+
+P1: 
+SP MAX augment?
+
+
+-----------------------
+
+- Get double jump (Ungestadt 3)
+
+P1: 
+
+P2: 
+Vous obtenez la STATUETTE DE L'ANGE.
+
+P3: 
+Vous pouvez maintenant effectuer un DOUBLE SAUT.
+
+P4: 
+Appuyez sur SAUT lorsque Efrain est d閖a entrain de sauter.
+
+P5: 
+Un DOUBLE SAUT peut 阾re effectu?m阭e ?partir d'une chute.
+
+
+-----------------------
+
+- Get slide (Riff Monasetry 2)
+
+P1: 
+Vous obtenez la STATUETTE DU PELERIN.
+
+P2: 
+Vous pouvez maintenant utiliser la technique sp閏iale: GLISSADE.
+
+P3: 
+Appuyez sue SPECIAL  lorsque Efrain est accroupi.
+
+P4: 
+Vous pouvez passer par les passages 閠roits.
+
+P5: 
+ Cette technique ne consomme pas de SP.
+
+
+-----------------------
+
+- Get Item Crash upgrade (North Mountain 2, Basement 4)
+
+P1: 
+ITEM CRASH niveau sup閞ieur.
+
+P2: 
+Votre ITEM CRASH max a augment?d'un niveau.
+
+P3: 
+Vous pouvez utiliser l'arme secondaire pour ex閏uter son pouvoir sp閏ial.
+
+P4: 
+Vous 鑤es invincible durant un ITEM CRASH niveau 2 ou 3.
+
+P5: 
+Vous pouvez changer le niveau de l'Item crash ?volont?en appuyant sur ITEM CRASH.
+
+
+-----------------------
+
+- At front of Castle Gate
+
+P1: 
+Qu'est ce que c'est que 鏰?
+
+P2: 
+Je suis repouss?par une sorte de barri鑢e magique.
+
+P3: 
+Je ne peux pas entrer pour le moment.
+Le mieux ?faire est de repartir pour trouver un moyen de traverser la barri鑢e.
+
+
+P4: 
+Il y a une ville appel閑 RUHIGESTADT au sud. Je pourrais peut 阾re obtenir des informations l?bas. 
+
+P5: 
+La famille Von Viltheim doit cacher un horrible secret. 
+
+P6:
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!........
+
+
+-----------------------
+
+- Get Air Rush (Main Hall 1)
+
+P1: 
+
+
+P2: 
+Vous obtenez la STATUETTE DE L'AIGLE.
+
+P3: 
+Vous pouvez maintenant utiliser la technique sp閏iale: RUEE AERIENNE.
+
+P4: 
+Appuyez sur SPECIAL lors d'un saut ou d'une chute.
+
+P5: 
+La ru閑 aerienne consomme quelques SP.
+
+
+-----------------------
+
+- Main Hall boss
+
+P1: 
+Votre progression dans le Château vous donne acc鑣 au Labyrinthe des rideaux ainsi qu'aux jardins.
+
+
+-----------------------
+
+- Maze of Curtain boss
+
+P1: 
+L'esprit diabolique de Wilhelm a quitt?cet endroit, pour toujours.
+
+
+-----------------------
+
+- Get Iron Rose (inner yard 2)
+
+P1: 
+Vous obtenez la Rose de Fer.
+
+
+-----------------------
+
+- Inner yard boss
+
+P1: 
+L'esprit tourment?de Liese a enfin trouv?la paix de l'鈓e.
+
+
+-----------------------
+
+- Get Triple shot (Hall of Science 3)
+
+P1: 
+Vous obtenez le pouvoir du:
+TRIPLE LANCE
+
+P2: 
+Vous pouvez maintenant lancer 3 armes secondaires cons閏utives.
+
+
+-----------------------
+
+- Hall of Science boss
+
+P1: 
+Courage ! Votre combat est loin d掙tre termin?..
+
+
+-----------------------
+
+- Get Air Float (basement 1)
+
+P1: 
+Vous obtenez la STATUETTE GORGONE.
+
+P2: 
+Vous obtenez la STATUETTE GORGONE.
+
+P3: 
+Vous pouvez maintenant utiliser la technique sp閏iale: SUSPENSION.
+
+P4: 
+Maintenez HAUT + SPECIAL lors d'une chute.
+
+P5: 
+Efrain sera suspendu dans l'air.
+
+
+-----------------------
+
+- Basement boss
+
+P1: 
+Les sous-sols du Château 閠aient auparavant un endroit sacr? Ils sont d閟ormais maudits pour toujours...
+
+
+-----------------------
+
+- Get gilt slayer (condemned area 1)
+
+P1: 
+Haz encontrado el ASESINO DORADO.
+
+
+-----------------------
+
+- condemned area boss
+
+P1: 
+Vous avez atteint la derni鑢e partie du Château. Cet endroit maudit doit 阾re an閍nti...
+
+
+-----------------------
+
+- Moonlight hall boss
+
+P1:
+Vous sentez la pr閟ence diabolique de Katharina. Serait-ce votre tout dernier combat? La lune est si belle cette nuit.
+
+
+
+-----------------------
+
+- Katharina Quarter boss
+
+P1:
+L'errance macabre de Friedrich se termine ici. Il doit 阾re tard , le jour va bient魌 se lever. Katharina m'attend quelque part en dessous.
+
+

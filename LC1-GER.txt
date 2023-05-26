@@ -1,0 +1,876 @@
+- PROLOGUE BOSS
+
+P1:
+Du erh鋖st die Macht: 
+ITEM CRASH STUFE 1
+
+P2:
+Nun kannst du deine Sub-Waffe auf m鋍htigere Weise einsetzen.
+
+P3:
+Die roten Nummern zeigen an wie viele Herzen n鰐ig sind um den jetzt gew鋒lten Item Crash auszuf黨ren.
+
+P4:
+Dr點ke HOCH und Item Crash Taste um Item Crash auszuf黨ren...
+
+P5:
+Nur mit ausreichend Herzen ausf黨rbar.
+
+P6:
+
+
+-----------------------
+
+- ruhigestadt
+
+P1: 
+Sammle Informationen bevor du die Stadt verl鋝st.
+
+P2:
+Diese Stra遝 f黨rt dich aus der Stadt.
+
+P3:
+DR蹸KE HOCH vor der Stra遝 um die Stadt zu verlassen.
+
+P4:
+Beunruhigende Dinge geschehen in unserem Land.
+
+P5:
+Diese Stadt ist der einzige Zufluchstort des Landes.
+
+P6:
+Niemend kann sich dem Schloss n鋒eren. Ein unsichtbares Siegel verwehrt allen den Zutritt.
+
+P7:
+Was geschah mit der hoch angesehenen Von Viltheim Familie?
+Es ist unbeschreiblich...
+
+P8:
+Sammle die 6 Teile des VON VILTHEIM Wappens.
+
+P9:
+Das ist die einzige M鰃lichkeit dass Schloss zu betreten.
+
+P10:
+Dieses Haus ist verlassen. Ich bin mir sicher dass hier etwas Wertvolles versteckt ist...
+
+P11:
+Du erh鋖st die Macht DOPPELSCHUSS
+
+P12:
+Nun kannst du 2 Sub-Waffen nacheinander werfen.
+
+P13:
+Du erh鋖st die KUGEL DER WARHEIT
+
+P14:
+Dieser kostbare Gegenstand zeigt dir die verborgenen Sch鋞ze die in den Gebieten noch zu finden sind.
+
+P15:
+Die zu findenden Gegenst鋘de des aktuell gew鋒lten Bereichs werden auf der Landkarte in der unteren-linken Ecke angezeigt.
+
+P16:
+Hallo junger Ritter!
+
+
+P17:
+Ich habe einen n黷zlichen Gegenstand der dir sicher auf deiner Reise weiterhelfen wird.
+
+P18:
+Er liegt in meinem Schlafzimmer, nimm ihn...
+
+P19:
+Bitte verwende die Macht der Kugel der Wahrheit um unser Land von den Schatten zu befreien.
+
+P20:
+Willkomen "zum Goldenen Adler". Viele Reisende besuchen unser Wirtshaus.
+
+P21:
+Ich wei?das die Von Viltheim Familie im Besitz eines m鋍htigen Wappens ist.
+
+P22:
+Das Wappen zerbrach zu Einzelteilen. Diese Teile sind 黚er das Land verstreut.
+
+P23:
+Bist du ein Ritter der Kirche?
+
+P24:
+Ich weiss das der Vatikan Ritter sandt wenn unheilige und mysteri鰏e Dinge im Christentum geschehen.
+
+P25:
+Priester Henri Sardis ist aus Frankreich. Er spendet uns allen seinen Trost und Segen. In letzter Zeit benimmt er sich komisch!
+
+P26:
+Es wird erz鋒lt sein Segen k鰊ne Waffen verst鋜ken.
+
+P27:
+Meine Mutter erlaubt mir nicht die Stadt zu verlassen. Sie sagt dass unser Land sehr gef鋒rlich sei.
+
+P28:
+I don't know what happen's to  me ... I fell bad...I'm weak ...
+
+P29:
+That is not a disease ... I feel a nasty presence coming from the roof of my church...
+Please help me !
+
+P30:
+Meine Mutter erlaubt mir nicht die Stadt zu verlassen. Sie sagt dass unser Land sehr gef鋒rlich sei.
+
+P31:
+Ihr seid aus Spanien! Warum reist Ihr so weit her nach 謘terreich?
+
+P32:
+Die Von Viltheim Familie hatte ein Schloss in Spanien? Davon wusste ich nichts. Ich hoffe alles wird gut gehen.
+
+P33:
+Das Hotel "zum weissen Einhorn" steht nahe zur Kirche. Wenn Ihr dass Dach des Hotels erklettert, k鰊nt Ihr von dort aus vielleicht das Dach der Kirche erreichen.
+
+P34:
+Williommen "zum Weissen Einhorn". Wir bieten Ihnen gerne ein Zimmer an.
+
+P35:
+Zum Essen gibt es unsere ausgezeichnete 鰏terreichische Hausmannskost.
+
+P36:
+Die Gebiete sind voller Geheimnisse! In mancher Wand k鰊nte sich ein versteckter Gegenstand verbergen. 謋fnet W鋘de mit Peitschenhiebe.
+
+P37:
+Die Wappenteile werden von m鋍htigen Monstern bewahrt. Bereitet Euch auf den Kampf vor.
+
+P38:
+Manche Leute beherschen den "ITEM CRASH STUFE 3". Bei dieser Stufe k鰊nt Ihr unsichtbar werden, Eure Lebensenergie regenerieren, Eure SP wiederherstellen etc.
+
+P39:
+Leider verbrauchen diese Item Crashes eine Menge Herzen.
+
+P40:
+Willkommen! Ich biete Ware die Euch interessieren k鰊nte..
+
+P41:
+MAX LEBENSENERGIE ERWEITERT
+
+Dass vergr鲞ert Eure LP Leiste.
+F黵 70 Herzen geh鰎t es Euch.
+
+
+
+P42:
+MAX SPEZIELENERIGIE ERWEITERT
+
+Dass vergr鲞ert EureSP Leiste.
+F黵 50 Herzen geh鰎t es Euch.
+
+
+
+P43:
+Deine Lebensenergie Leiste erweitert sich.
+
+P44:
+Deine Spezialenergie Leiste erweitert sich.
+
+P45:
+Guten Tag!
+Ihr sucht nach den Teilen des Von Viltheim Wappens?
+Die Familienangeh鰎igen gingen jagen und nahmen Rast an ihrem Gutshof.
+
+
+P46:
+Der Gutshof liegt im s黡lichen Wald..
+Dort liegen auch Ruinen auf einer kleinen Insel. Geheimnisse befinden sich an diesem Ort...
+
+
+P47:
+RUINEN und JAGDREVIER sind nun auf der Landkarte anw鋒lbar.
+
+P48:
+Seid vorsichtig! Das Land ist voller Gefahren!
+
+P49:
+KETTENPEITSCHE
+
+Dass steigert Eure St鋜ke.
+F黵 70 Herzen geh鰎t sie Euch.
+
+
+P50:
+Du erh鋖st die Kettenpeitsche.
+
+P51:
+Ich bin aus S黡鰏terreich.
+Ich ging nach Ungestadt meine Familie besuchen.
+
+
+P52:
+Dort stellte ich fest, dass die Stadt verlassen war. Ein unheimlicher Nebel umh黮lte die Stadt und gef鋒liche Ungeheuer suchten sie heim.
+
+P53:
+Das 鰏tliche Kloster war auch verlassen, die M鰊che verschwanden.
+
+P54:
+Oh, warte noch! Ein Reisender den ich traf sagte "Jedem dem sein Leben Wert ist meide das n鰎dliche Gebirge" .. Dies waren seine Worte.
+
+P55:
+UNGESTADT, KLOSTER und N諶DLICHES GEBIRGE sind nun auf der Karte anw鋒lbar.
+
+P56:
+Sollen wir das Land verlassen?
+
+P57:
+....................................
+
+P58:
+Oh, nun f黨l ich mich besser. Was geschah?
+
+P59:
+Was? Ein Yorik war auf dem Kirchendach?
+
+P60:
+Bin sehr erfreut dass Ihr ihn beseitigt habt.
+
+P61:
+Ich segne Euch..
+
+P62:
+SILBERDOLCH wird nun zu:
+
+GOLDDOLCH
+
+P63:
+PURPURKREUZ wird nun zu:
+
+SILBERKREUZ
+
+
+P64:
+HANDAXT wird nun zu:
+
+STREITAXT
+
+
+P65:
+PINKDIAMANT wird nun zu:
+
+REINDIAMANT
+
+
+P66:
+M鰃e Euch Gott bei der Mission beistehen. 
+
+P67:
+Ihr braucht SP zur Anwendung Eurer Spezialf鋒igkeiten. (Green bar). (Gr黱e Leiste). Wenn Eure SP auf 0 f鋖lt, keine Panik .. Nach 5 Sekunden wird sich etwas SP von selbst wiederherstellen.
+
+
+P68:
+Es gibt mehrere ber黨mte Mitglieder der Von Viltheim Familie.
+
+P69:
+Gerof war ein gro遖rtiger J鋑er.
+
+P70:
+Wilhelm ein Virtuose. Er liebte das Ger鋟sch fl黦elschlagender Flederm鋟se.
+
+P71:
+Liese war ein sehr h黚sches M鋎chen. Sie verstab im jungen Alter.
+
+P72:
+Friedrich war ein 黚erragender Wissenschaftler. Er leitete viele Experimente.
+
+P73:
+Leopolds Bibliothek ist die gr鲞te in Europa. Eines Tages fand er ein Totenbeschw鰎ungsbuch.
+
+P74:
+Herzogin Katharina war klug, weise und umwerfend.
+
+P75:
+Sie alle verstarben.
+
+P76:
+Ihr k鰊nt umkehren um ein Gebiet zu verlassen, aber nur am Gebietsanfang.
+
+
+-----------------------
+
+- text item name
+
+P1: 
+Herz
+
+P2:
+Mittleres Herz
+
+P3:
+Gro遝s Herz
+
+P4:
+Gr黱es Herz 
+
+P5:
+Mittelgro遝s Herz 
+
+P6:
+Gro遝s gr黱es Herz 
+
+P7:
+Trauben
+
+P8:
+Rosenkranz
+
+P9:
+K鋝e
+
+P10:
+H黨nchenkeule
+
+P11:
+H黨nchen
+
+P12:
+Silberdolch
+
+P13:
+Purpurkreuz
+
+P14:
+Handaxt
+
+P15:
+Weihwasser 
+
+P16:
+Pinkdiamant
+
+P17:
+1 UP
+
+P18:
+Krug
+
+P19:
+Kugel der Macht
+
+P20:
+Golddolch
+
+P21:
+Silberkreuz
+
+P22:
+Streitaxt
+
+P23:
+Weihwasser
+
+P24:
+Reindiamant
+
+P25:
+Wei遝kugel
+
+P26:
+Goldkugel
+
+P27:
+Lebensgef溥
+
+P28:
+Gr黱esgef溥
+
+P29:
+Herzgef溥
+
+P30:
+Doppelschuss
+
+P31:
+Dreifachschuss 
+
+P32:
+Segnung 
+
+P33:
+Windstatuette
+
+P34:
+Pilgerstatuette 
+
+P35:
+Engelstatuette
+
+P36:
+Adlerstatuette
+
+P37:
+Medusastatuette 
+
+P38:
+Kugel der Wahrheit  
+
+P39:
+Wappen Teil 
+
+P40:
+Boss Feind
+
+
+-----------------------
+
+- text weapons
+
+P1:
+Alcarde
+       peitsche
+
+
+P2:
+Langpeitsche
+
+P3:
+Kettenpeitsche
+
+P4:
+Eiserne 
+       Rose
+
+P5:
+ Goldener 
+         M鰎der
+
+P6:
+
+
+-----------------------
+
+- text item
+
+P1: 
+Du erh鋖st ein Herz.
+
+P2:
+Du erh鋖st 5 Herzen.
+
+P3:
+Du erh鋖st 20 Herzen.
+
+P4:
+Gr黱es Herz Erneuert etwas Spezialenergie.
+
+P5:
+Erneuert mehr Spezialenerige.
+
+P6:
+Erneuert viel Spezialenergie.
+
+P7:
+Stellt die gesammte Spezielenergie wieder her.
+
+P8:
+Nahestehende Feinde erleiden heftige Sch鋎en.
+
+P9:
+Du erh鋖st etwas Lebensenergie.
+
+P10:
+Du erh鋖st mehr Lebensenergie.
+
+P11:
+Deine gesamte Lebensenergie wird wiederhergestellt.
+
+P12:
+Fliegt in einer Geraden. Schnell aber nicht sehr wirkungsvoll..
+
+P13:
+Eine m鋍htige Waffe die ihre Bewegung umkehrt.
+
+P14:
+M鋍htige Waffe die hoch geworfen wird.
+
+P15:
+Feinde mit Bodenkontakt werden dadurch verbrennt.
+
+P16:
+Prallt von W鋘den ab.
+
+P17:
+Du erh鋖st ein Extraleben.
+
+P18:
+Du wirst vor黚ergehend unverwundbar.
+
+P19:
+Efrain's Hauptwaffe verursacht nun mehr Schaden. Sei vorsichtig, bei Feindkontakt geht die Macht verloren.
+
+P20:
+Fliegt in einer Geraden. Schnell aber nicht sehr wirkungsvoll..
+
+P21:
+Eine m鋍htige Waffe die ihre Bewegung umkehrt.
+
+P22:
+M鋍htige Waffe die hoch geworfen wird.
+
+P23:
+Feinde mit Bodenkontakt werden dadurch verbrennt.
+
+P24:
+Prallt von W鋘den ab.
+
+P25:
+Erh鰄t max Item Crash Stufe.
+
+P26:
+Ein St點k des Geheimnisses..
+
+P27:
+ Erh鰄t deine max Lebensenergie.
+
+P28:
+Erh鰄t deine max Spezialenergie.
+
+P29:
+Erh鰄t dein maximum tragbarer Herzen.
+
+P30:
+Erlaubt es Efrain eine Sub-Waffe zweimal nacheinander zu werfen.
+
+P31:
+Erlaubt es Efrain eine Sub-Waffe dreimal nacheinander zu werfen.
+
+P32:
+Verst鋜kt Sub-Waffen.
+
+P33:
+Du erlernst die Spezialf鋒igkeit: WIRBELWIND.
+
+P34:
+Du erlernst die Spezialf鋒igkeit: BODENGLEITEN.
+
+P35:
+Du erlernst die Spezialf鋒igkeit: DOPPELSPRUNG.
+
+P36:
+Du erlernst die Spezialf鋒igkeit: LUFTGLEITEN.
+
+P37:
+Du erlernst die Spezialf鋒igkeit: SCHWEBEN.
+
+P38:
+Zeigt dir die verborgenen Sch鋞ze des gew鋒lten Gebiets an.
+
+P39:
+Sammle die 6 Teile und zerst鰎e das magische Siegel.
+
+P40:
+M鋍htiger Gegner der ein Gebiet bewacht.
+
+
+-----------------------
+
+- text moves
+
+P1: 
+Wenn Efrain auf dem Boden steht.
+
+P2:
+Wenn Efrain auf einer Treppe oder Platform steht.
+
+P3:
+Wenn Efrain auf dem Boden steht, springt oder hockt.
+
+P4:
+W鋒rend Efrain auf dem Boden steht oder springt.
+
+Efrain braucht gen黦end Herzen.
+
+P5:
+Stufe 1 kann w鋒rend dem Stehen oder Springen ausgef黨rt werden. Stufe 2 und 3 nur auf dem Boden stehend. Die rote Nummer zeigt den n鰐igen Wert an Herzen.
+
+P6:
+W鋒rend Efrain auf dem Boden und vor einer T黵 oder Person steht.
+
+P7:
+Wenn Efrain auf dem Boden steht. Ben鰐igt keine SP.
+
+P8:
+W鋒rend Efrain springt. Ben鰐igt keine SP.
+
+P9:
+Wenn Efrain auf dem Boden steht. Feindliche Projektile k鰊nen damit abgewert werden. Verbraucht eine Menge SP.
+
+P10:
+W鋒rend Efrain springt oder f鋖lt. Verbraucht etwas SP.
+
+P11:
+W鋒rend Efrain springt oder f鋖lt. Verbraucht etwas SP.
+
+P12:
+Du hast diese F鋒igkeit noch nicht erlernt.
+
+
+-----------------------
+
+- Boss beaten
+
+P1: 
+Du hast eines der 6 zerbrochenen Wappenteile gefunden.
+
+
+-----------------------
+
+- HP UP get
+
+P1: 
+MAX LP erweitert.
+
+
+-----------------------
+
+- Defeat Gerof
+
+P1:
+Du hast den Geist von Gerof Von Viltheim vernichtet. Du hast auch eine LANGPEITSCHE gefunden.
+
+
+-----------------------
+
+- Get whirlwind (Ruins 4)
+
+P1:
+Du hast die WINDSTATUETTE.
+
+
+-----------------------
+
+- Heart UP get
+
+P1:
+Herz max erweitert.
+
+
+-----------------------
+
+- MP UP get
+
+P1: 
+Spezialenerg韊 max erweitert.
+
+
+-----------------------
+
+- Get double jump (Ungestadt 3)
+
+P1: 
+
+P2: 
+Du hast die ENGELSTATUETTE.
+
+P3: 
+Nun kannst du den "Doppelsprung" einsetzen.
+
+P4: 
+Dr點ke ein zweites mal SPRUNG-TASTE nach dem springen.
+
+P5: 
+Du kannst den Doppelsprung auch w鋒rend Efrain f鋖lt einsetzen.
+
+
+-----------------------
+
+- Get slide (Riff Monasetry 2)
+
+P1: 
+Du hast die PILGERSTATUETTE.
+
+P2: 
+Nun kannst du das "BODENGLEITEN" einsetzen.
+
+P3: 
+Dr點ke die SPEZIAL-TASTE w鋒rend Efrain sich beugt.
+
+P4: 
+Damit kannst du enge Wege passieren.
+
+P5: 
+Das "Bodengleiten" konsumiert keine SP.
+
+
+-----------------------
+
+- Get Item Crash upgrade (North Mountain 2, Basement 4)
+
+P1: 
+Du erh鋖st die Macht: 
+ITEM CRASH +1
+
+P2: 
+Item Crash MAX Stufe erreicht.
+
+P3: 
+Nun kannst du deine Sub-Waffe auf m鋍htigere Weise einsetzen.
+
+P4: 
+Du bist unverwundbar w鋒rend der Ausf黨rung des Item Crashs Stufe 2 oder 3.
+
+P5: 
+Du kannst deine Item Crash Stufe auf oder abstufen durch dr點ken der ITEMCRASH-TASTE.
+
+
+-----------------------
+
+- At front of Castle Gate
+
+P1: 
+Was ist dass?
+
+P2: 
+Ich werde von einem magischen Siegel zur點kgewiesen!
+
+P3: 
+Ich kann dass Schloss nicht betreten. Ich ziehe mich zur點k bis ich einen Weg rein gefunden habe.
+
+P4: 
+Da liegt eine Stadt s黡lich von hier namens "Ruhigestadt". Vielleicht sollte ich dort nach Hinweisen suchen die mir zur 謋fnung des Siegels weiterhelfen.
+
+P5: 
+Die Von Viltheim Familie muss ein schreckliches Geheimnis verbergen...
+
+P6:
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!........
+
+
+-----------------------
+
+- Get Air Rush (Main Hall 1)
+
+P1: 
+
+
+P2: 
+Du hast die ADLERSTATUETTE.
+
+P3: 
+Nun kannst du das "LUFTGLEITEN" einsetzen.
+
+P4: 
+Dr點ke die SPEZIAL-TASTE w鋒rend des Sprungs oder Falls.
+
+P5: 
+Das LUFTGLEITEN verbraucht ein wenig SP.
+
+
+-----------------------
+
+- Main Hall boss
+
+P1: 
+Du r點kst weiter ins Innere des Schlosses vor. Du erreichst den Irrweg der Vorh鋘ge und den Schlosshof.
+
+
+-----------------------
+
+- Maze of Curtain boss
+
+P1: 
+Du hast den Bereich von Wilhelms b鰏er Pr鋝enz befreit.
+
+
+-----------------------
+
+- Get Iron Rose (inner yard 2)
+
+P1: 
+Du hast die eiserne Rose.
+
+
+-----------------------
+
+- Inner yard boss
+
+P1: 
+Du hast den Bereich von Lieses b鰏er Pr鋝enz befreit.
+
+
+-----------------------
+
+- Get Triple shot (Hall of Science 3)
+
+P1: 
+Du hast die Macht : DREIFACHSCHUSS.
+
+P2: 
+Nun kannst du 3 Sub-Waffen nacheinander werfen.
+
+
+-----------------------
+
+- Hall of Science boss
+
+P1: 
+Sei tapfer. Die Schlacht ist noch nicht vorbei..
+
+
+
+-----------------------
+
+- Get Air Float (basement 1)
+
+P1: 
+Du hast die MEDUSASTATUETTE.
+
+
+P2: 
+Du hast die MEDUSASTATUETTE.
+
+P3: 
+Nun kannst du "Schweben" ausf黨ren.
+
+P4: 
+Halte HOCH + SPEZIAL-TASTE gedr點kt  w鋒rend Efrain f鋖lt.
+
+P5: 
+Efrain wird in der Luft schweben.
+
+
+
+-----------------------
+
+- Basement boss
+
+P1: 
+Der Keller des Schlosses war einst vor Jahren ein heiliger Ort. Nun ein Ort der Verdammnis..
+
+
+
+-----------------------
+
+- Get gilt slayer (condemned area 1)
+
+P1: 
+Du hast den GOLDENEN M諶DER.
+
+
+
+-----------------------
+
+- condemned area boss
+
+P1: 
+Du erreichst den letzten Schlossbereich. Vernichte diesen teuflischen Ort.
+
+
+
+-----------------------
+
+- Moonlight hall boss
+
+P1:
+縋odr韆 ser esta acaso tu 鷏tima batalla? La luna es tan bella esta noche?Sientes deseos de completar tu misi髇 y volver a tus seres amados.
+
+
+
+-----------------------
+
+- Katharina Quarter boss
+
+P1:
+Du hast Friedrichs trauriger Umherwanderung ein Ende gesetzt. Es muss sp鋞 sein, die Sonne wird bald aufgehen. Katharina wartet irgendwo unter mir.
