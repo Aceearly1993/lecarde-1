@@ -435,23 +435,25 @@ Boss enemy
 - text weapons
 
 P1:
-Alcarde
-       peitsche
+Alcarde 
+           whip
 
 
 P2:
-Langpeitsche
+  Long 
+         whip
 
 P3:
-Kettenpeitsche
+      Chain
 
 P4:
-Eiserne 
-       Rose
+ Iron 
+       rose
 
 P5:
- Goldener 
-         M鰎der
+ Gilt
+       slayer
+
 
 P6:
 
