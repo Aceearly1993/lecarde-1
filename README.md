@@ -33,5 +33,5 @@ Here's a simple instruction about using the .mfa:
 - If any potential MMF2 Developer successfully grappled the clue of LC1 recover, please swap out some of the free music sample from sample sites and some of the effects resembles capcom sound effects, because the vanilla game had been targeted by DMCA as copyright infringement material for some unspeakable reasons the group/individual claimed the DMCA refused to show up and explain.
 - By saying "not that compatible with Clickteam Fusion 2.5" it doesn't mean the resaved mfa is dead impossible to open in CTF2.5. Although the chance is super rare and is not guaranteed. If any potential MMF/CTF2.5 developer has more than 16G of RAM on their machines, they could _try_ opening the mfa directly through CTF2.5.
 
-The last one labled "CTLC1-assets" is all the graphic and sound assets necessary when recovering the game (most of the "frames" are broken)
+The last one labled "CTLC1-assets" is all the graphic and sound assets necessary when somebody grappled the clue of recovering the game (most of the "frames" are broken)
 NOTE: sound files may contain copyright infringement materials because the game was caught by a DMCA request in 2018. Need further investigation to define which one belongs to them and then changed them to something else. 
