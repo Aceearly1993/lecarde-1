@@ -10,7 +10,7 @@ Unfortunately, the recovery process ended up corrupting all non-English characte
 
 
 ## Disclaimer
-This project can be considered like a yonger brother of the LC2 project: (https://github.com/katriellucas/lecarde-2) so most things are also appled here:
+This project can be considered like a yonger brother of the LC2 project that I (Aceearly1993) was actively involved: (https://github.com/katriellucas/lecarde-2) so most things are also appled here:
 We contacted Migami Games and got approval to keep this repository up.  
 
 The release of Lecarde Chronicles (1) got permited by Konami, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is an intelectual property owned by Konami, please support the company by buying their official releases.
