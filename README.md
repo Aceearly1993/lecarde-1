@@ -8,6 +8,8 @@ Unfortunately, the recovery process ended up corrupting all non-English characte
 - Somebody who're good at reverse engineering datas
 - Somebody who're both very good at using **Multimedia Fusion 2 Developer** (The version before the engine is updated into Clickteam Fusion 2.5) and a good French speaker
 
+We choose to not disturb Mig himself until when he finishes the programming/developing of the new individual IP game, "Chronicles of the Wolf".
+
 
 ## Disclaimer
 This project can be considered like a yonger brother of the LC2 project that I (Aceearly1993) was actively involved: (https://github.com/katriellucas/lecarde-2) so most things are also appled here:
