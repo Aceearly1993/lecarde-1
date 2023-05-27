@@ -12,7 +12,7 @@ We choose to not disturb Mig himself until when he finishes the programming/deve
 
 
 ## Disclaimer
-This project can be considered like a yonger brother of the LC2 project that I (Aceearly1993) was actively involved: (https://github.com/katriellucas/lecarde-2) so most things are also appled here:
+This project can be considered like a younger brother of the LC2 project that I (Aceearly1993) was actively involved: (https://github.com/katriellucas/lecarde-2) so most things are also appled here:
 
 We contacted Migami Games and got approval to keep this repository up.  
 
