@@ -5,7 +5,7 @@ Vous obtenez le pouvoir:
  ITEM CRASH Niveau 1
 
 P2:
-Vous pouvez utiliser l'arme secondaire pour ex閏uter son pouvoir sp閏ial.
+Vous pouvez utiliser l'arme secondaire pour exécuter son pouvoir spécial.
 
 P3:
 Les chiffres rouges indiquent le nombre de coeurs nécessaires pour utiliser l'item crash.
@@ -33,16 +33,16 @@ P3:
 Appuyez sur HAUT en face de la rue pour quitter la ville.
 
 P4:
-Des 関鑞ements tr鑣 inqui閠ants se produisent depuis peu dans cette r間ion.
+Des événements très inquiétants se produisent depuis peu dans cette région.
 
 P5:
-Cette ville est le seul havre de tranquilit?qui reste dans la r間ion.
+Cette ville est le seul havre de tranquilit?qui reste dans la région.
 
 P6:
-Personne ne peut approcher le Château. Une barri鑢e invisible repousse ceux qui essayent d'entrer.
+Personne ne peut approcher le Château. Une barrière invisible repousse ceux qui essayent d'entrer.
 
 P7:
-Qu'est il arriv??la respectable famille Von Viltheim?
+Qu'est il arrivé à la respectable famille Von Viltheim?
 
 C'est incomprehensible..
 
@@ -53,102 +53,101 @@ P9:
 C'est la seule fa鏾n de pouvoir entrer dans le chateau.
 
 P10:
-Cette maison est abandonn閑. Je suis s鹯 qu抲ne chose pr閏ieuse se trouve cach閑 ?l抜nt閞ieur.
+Cette maison est abandonnée. Je suis sûr qu'une chose précieuse se trouve cachée à l'intérieur.
 
 P11:
 Vous obtenez le pouvoir:
 DOUBLE LANCER
 
 P12:
-Vous pouvez maintenant lancer 2 armes secondaires ?la suite.
+Vous pouvez maintenant lancer 2 armes secondaires à la suite.
 
 P13:
 Vous obtenez le
 GLOBE DE VERITE
 
 P14:
-Cet objet r関鑜e la pr閟ence des tr閟ors pouvant 阾re trouv閟 dans une zone.
+Cet objet révèle la présence des trésors pouvant être trouvés dans une zone.
 
 P15:
-Lorsque vous s閘ectionnez une zone sur la carte, la liste des tr閟ors s抋ffiche en bas ?gauche de l掗cran.
+Lorsque vous sélectionnez une zone sur la carte, la liste des trésors s'affiche en bas ?gauche de l'écran.
 
 P16:
 Bonjour jeune aventurier !
-Je suis d閟ormais trop vieux pour explorer le monde.
+Je suis désormais trop vieux pour explorer le monde.
 
 
 P17:
-Je poss鑔e un objet tr鑣 int閞essant qui te sera utile dans ta qu阾e.
+Je poss鑔e un objet très int閞essant qui te sera utile dans ta quête.
 
 P18:
-Tu peux le r閏up閞er l?haut dans ma chambre.
+Tu peux le récupérer l?haut dans ma chambre.
 
 P19:
-Utilise le pouvoir du globe pour d閘ivrer cette contr閑 des t閚鑒res qui l抏nvahissent.
+Utilise le pouvoir du globe pour délivrer cette contr閑 des ténèbres qui l抏nvahissent.
 
 P20:
-Bienvenue dans ma taverne ?Der goldenen Adler ? Beaucoup de voyageurs s抋rr阾ent ici pour boire un verre et relater leurs aventures.
+Bienvenue dans ma taverne "Der goldenen Adler". Beaucoup de voyageurs s抋rr阾ent ici pour boire un verre et relater leurs aventures.
 
 P21:
 Je crois savoir que la famille Von Viltheim d閠ient un sceau d抲ne immense puissance.
 
 P22:
-Le sceau a 閠?bris?en plusieurs morceaux. Ces morceaux sont 閜arpill閟 au quatre coins de la r間ion.
+Le sceau a été brisée en plusieurs morceaux. Ces morceaux sont éparpillés au quatre coins de la région.
 
 P23:
-Etes vous un chevalier de l扙glise ?
+Etes vous un chevalier de l'Église ?
 
 P24:
-J抋i entendu dire que le Vatican missionnait ces chevaliers lorsque des 関閚ements diaboliques  se produisent dans la chr閠ient?  
+J'aientendu dire que le Vatican missionnait ces chevaliers lorsque des événements diaboliques  se produisent dans la chrétienté.
 
 P25:
-Henri Sardis est un pr阾re venu de France. C掗tait auparavant un homme tr鑣 chaleureux. D閟ormais il ne parle plus ?personne.  
+Henri Sardis est un prêtre venu de France. C'était auparavant un homme très chaleureux. D閟ormais il ne parle plus ?personne.  
 
 P26:
-Les gens disent qu抜l peut b閚ir certaines armes  afin de les rendre plus puissantes.
+Les gens disent qu'il peut bénir certaines armes  afin de les rendre plus puissantes.
 
 P27:
-Welcome ! I see you're also a soul of the church .
+
 
 P28:
-I don't know what happen's to  me ... I fell bad...I'm weak ...
+
 
 P29:
-That is not a disease ... I feel a nasty presence coming from the roof of my church...
-Please help me !
+
 
 P30:
-Ma m鑢e ne m抋utorise plus a sortir de la ville. Elle dit que c抏st devenu tr鑣 dangereux ?l抏xt閞ieur.
+Ma mère ne m'autorise plus a sortir de la ville. Elle dit que c抏st devenu très dangereux ?l抏xt閞ieur.
 
 P31:
-Vous venez d扙spagne ? Vous 阾es tr鑣 loin de chez vous, ici en Autriche.
+Vous venez d'Espagne! Vous 阾es très loin de chez vous, ici en Autriche.
 
 P32:
 Je ne savais pas que la Famille Von Viltheim avait un Château en Espagne.
 
 P33:
-L抋uberge ?Das weisse Einhorn ?et l掗glise sont tr鑣 proches. Peut 阾re que vous pourriez atteindre le toit de l掗glise en montant sur celui de l抋uberge.
+L'auberge "Das weisse Einhorn" et l'église sont très proches. Peut être que vous pourriez atteindre le toit de l'église en montant sur celui de l'auberge.
 
 P34:
-Bienvenue a l抋uberge ?Das weissse Heinhorn ? Si vous avez besoin de repos vous pouvez passer la nuit ici.
+Bienvenue a l'auberge "Das weissse Heinhorn". Si vous avez besoin de repos vous pouvez passer la nuit ici.
 
 P35:
-Vous pouvez 間alement gouter ?nos d閘icieuses sp閏ialit閟 autrichiennes. 
+Vous pouvez également gouter ?nos délicieuses spécialités autrichiennes. 
 
 P36:
-Beaucoup d抩bjets cach閟 peuvent 阾re d閏ouverts en frappant certains murs. 
+Beaucoup d抩bjets cachés peuvent être découverts en frappant certains murs. 
 
 P37:
-Des ennemis puissants  gardent les diff閞entes parties du sceau bris? Soyez s鹯 d掙tre bien pr閜ar? avant de les affronter.
+Des ennemis puissants  gardent les diff閞entes parties du sceau brisée Soyez sûr d'être bien pr閜ar? avant de les affronter.
 
 P38:
-En maitrisant l扞TEM CRASH au niveau 3 vous pouvez 阾re capable de devenir invisible; de vous r間閚閞er etc.
+En maitrisant ITEM CRASH au niveau 3 vous pouvez être capable de devenir invisible; de vous régénérer etc.
 
 P39:
 Le seul inconv閚ient c抏st qu掄 ce niveau il faut beaucoup de coeurs pour les utiliser.
 
 P40:
-Bonjour ! J抋i des objets ici qui pourraient vous int閞esser.
+Bonjour ! J'ai des objets ici qui pourraient vous intéresser.
 
 P41:
 EXTENSION DE VIE MAX 
@@ -171,26 +170,26 @@ P44:
 Votre barre de SP a augmenté.
 
 P45:
-Quel bel apr鑣 midi !
+Quel bel après midi !
 Vous d閟irez trouver les morceaux du seau Von Viltheim ?
-Les membres de la famille avaient l抙abitude d抋ller se reposer dans le domaine de chasse de Gerof. 
+Les membres de la famille avaient l'habitude d抋ller se reposer dans le domaine de chasse de Gerof. 
 
 
 P46:
-Ce domaine se trouve dans la for阾 au sud d抜ci?
+Ce domaine se trouve dans la forêt au sud d抜ci?
 Maintenant que j抷 pense, Il y a des ruines sur une petite ile qui peuvent pr閟enter de l抜nt閞阾.
 
 
 P47:
-RUINES et DOMAINE DE CHASSE sont d閟ormais disponible sur la carte.
+RUINES et DOMAINE DE CHASSE sont désormais disponible sur la carte.
 
 P48:
-Fa顃es attention. Cette r間ion est pleine de dangers.
+Fa顃es attention. Cette région est pleine de dangers.
 
 P49:
 CHAINE
 
-Augmentera votre force d抋ttaque.
+Augmentera votre force d'attaque.
 Donne moi 70 coeurs et elle sera ?toi.
 
 
@@ -199,22 +198,22 @@ Vous avez la CHAINE.
 
 P51:
 Je viens d'une contr閑 situ閑 au sud de l'Autriche.
-J'閠ais venue ?UNGESTADT pour rendre visite ?ma famille.
+J'閠ais venue à UNGESTADT pour rendre visite à ma famille.
 
 P52:
-J'ai d閏ouvert que la ville 閠ait abandonn閑 et qu'elle 閠ait envahie par les monstres.
+J'ai découvert que la ville était abandonnée et qu'elle était envahie par les monstres.
 
 P53:
-J抋i aussi appris que le monast鑢e ?l抏st avait 閠?d閟ert?par les moines .
+J'ai aussi appris que le monastère ?l抏st avait 閠?d閟ert?par les moines .
 
 P54:
-D抋utre part, un voyageur que j抋i rencontr? m抋 dit qu抜l fallait mieux 関iter les montagnes du nord..
+D抋utre part, un voyageur que j'ai rencontr? m抋 dit qu'il fallait mieux 関iter les montagnes du nord..
 
 P55:
-UNGESTADT, MONASTERE et MONTAGNES DU NORD sont d閟ormais disponible sur la carte.
+UNGESTADT, MONASTERE et MONTAGNES DU NORD sont désormais disponible sur la carte.
 
 P56:
-Devrions nous quitter cette r間ion?
+Devrions nous quitter cette région?
 
 P57:
 ....................................
@@ -223,13 +222,13 @@ P58:
 Je me sent mieux.. Mais que s'est il pass?
 
 P59:
-Quoi! Un Yorik sur le toit de mon 間lise.
+Quoi! Un Yorik sur le toit de mon église.
 
 P60:
-Merci de l'avoir d閠ruit.
+Merci de l'avoir détruit.
 
 P61:
-Je vais te b閚ir...
+Je vais te bénir...
 
 P62:
 La DAGUE D'ARGENT deviendra maintenant:
@@ -252,34 +251,34 @@ Puisse Dieu t'aider ?accomplir ta mission.
 
 P67:
 Vous avez besoin de SP pour utiliser vos techniques.
-( barre verte ). Si vous perdez tous vos SP ne paniquez pas, vous en r閏upererez un peu apr鑣 5 secondes.
+( barre verte ). Si vous perdez tous vos SP ne paniquez pas, vous en récupérerez un peu après 5 secondes.
 
 P68:
-Certains membres de la famille Von Viltheim sont c閘鑒res.
+Certains membres de la famille Von Viltheim sont célèbres.
 
 P69:
-Gerof 閠ait un grand chasseur.
+Gerof était un grand chasseur.
 
 P70:
-Wilhelm 閠ait un grand musicien. Il aimait particuli鑢ement le son m閘odieux des chauve-souris en vol.
+Wilhelm était un grand musicien. Il aimait particulièrement le son m閘odieux des chauve-souris en vol.
 
 P71:
-Liese 閠ait une tr鑣 belle fille, elle f鹴 emport閑 par la maladie tr鑣 jeune. Sa tombe au Château est couverte de roses.
+Liese était une très belle fille, elle f鹴 emport閑 par la maladie très jeune. Sa tombe au Château est couverte de roses.
 
 P72:
-Friedrich 閠ait un grand savant. Il a conduit de nombreuses exp閞iences scientifiques.
+Friedrich était un grand savant. Il a conduit de nombreuses expériences scientifiques.
 
 P73:
-La biblioth鑡ue de Leopold est la plus grande en Europe. Un jour il trouva un livre de n閏romancie..
+La bibliothèque de Leopold est la plus grande en Europe. Un jour il trouva un livre de nécromancie..
 
 P74:
-La duchesse Katharina 閠ait une femme d'une rare intelligence et d'une beaut??couper le souffle.
+La duchesse Katharina était une femme d'une rare intelligence et d'une beaut??couper le souffle.
 
 P75:
 Ils sont tous morts depuis longtemps.
 
 P76:
-Vous pouvez ressortir une zone et retourner sur la carte mais seulement au d閎ut de celle-ci.
+Vous pouvez ressortir une zone et retourner sur la carte mais seulement au début de celle-ci.
 
 
 -----------------------
@@ -329,13 +328,13 @@ P14:
 Hache
 
 P15:
-Eau b閚ite
+Eau bénite
 
 P16:
 Diamant rose
 
 P17:
-Vie suppl閙entaire
+Vie supplémentaire
 
 P18:
 Jarre
@@ -353,7 +352,7 @@ P22:
 Hache lourde
 
 P23:
-Eau sacr閑
+Eau sacrée
 
 P24:
 Diamant pur
@@ -374,13 +373,13 @@ P29:
 Container de coeurs
 
 P30:
-Double lanc?
+Double lancé
 
 P31:
-Triple lanc?
+Triple lancé
 
 P32:
-B閚閐iction
+Bénédiction
 
 P33:
 Statuette du vent
@@ -398,7 +397,7 @@ P37:
 Statuette Gorgone
 
 P38:
-Globe de verit?
+Globe de verité
 
 P39:
 Partie du sceau
@@ -422,7 +421,7 @@ P2:
        Long
 
 P3:
-     Cha頽e
+     Chaîne
 
 P4:
   Rose 
@@ -430,7 +429,7 @@ P4:
 
 P5:
   Meurtrier
-           dor?
+           d'oré
 
 P6:
 
@@ -461,7 +460,7 @@ P7:
 Donne tous les SP.
 
 P8:
-Cause de tr鑣 grave d間鈚s aux ennemis pr閟ents ?proximit? 
+Cause de très grave dégâts aux ennemis pr閟ents ?proximit? 
 
 P9:
 Donne quelques points de vie.
@@ -473,13 +472,13 @@ P11:
 Donne tous les points de vie.
 
 P12:
-Lanc閑 droit devant. Arme rapide mais peu puissante. 
+Lancé droit devant. Arme rapide mais peu puissante. 
 
 P13:
 Arme puissante qui se lance comme un boomerang.  
 
 P14:
-Arme puissante qui se lance en l抋ir.
+Arme puissante qui se lance en l'air.
 
 P15:
 Brule le sol et les ennemis en contact.
@@ -488,22 +487,22 @@ P16:
 Rebondi contre les murs. 
 
 P17:
-Donne une vie suppl閙entaire.
+Donne une vie suppléentaire.
 
 P18:
 Rend invincible durant un moment.
 
 P19:
-Augmente les d間鈚s caus閟 par l抋rme principale d扙frain. Attention ! L抏ffet sera perdu si Efrain subit une attaque.
+Augmente les dégâts causés par l'arme principale d'Efrain. Attention ! L抏ffet sera perdu si Efrain subit une attaque.
 
 P20:
-Lanc閑 droit devant. Arme rapide mais peu puissante. 
+Lancé droit devant. Arme rapide mais peu puissante. 
 
 P21:
 Arme puissante qui se lance comme un boomerang.  
 
 P22:
-Arme puissante qui se lance en l抋ir.
+Arme puissante qui se lance en l'air.
 
 P23:
 Brule le sol et les ennemis en contact.
@@ -524,37 +523,37 @@ P28:
 Augmente vos SP max.
 
 P29:
-Augmente le nombre maximum de coeurs pouvant 阾re port閟.
+Augmente le nombre maximum de coeurs pouvant être portés.
 
 P30:
-Permet ?Efrain de lancer deux armes secondaires ?la suite.
+Permet à Efrain de lancer deux armes secondaires à la suite.
 
 P31:
-Permet ?Efrain de lancer trois armes secondaires ?la suite.
+Permet à Efrain de lancer trois armes secondaires à la suite.
 
 P32:
 Renforce la puissance des armes secondaires.
 
 P33:
-Apprenez la technique sp閏iale : TOURBILLON.
+Apprenez la technique spéciale : TOURBILLON.
 
 P34:
-Apprenez la technique sp閏iale : GLISSADE.
+Apprenez la technique spéciale : GLISSADE.
 
 P35:
-Apprenez la technique sp閏iale : DOUBLE SAUT.
+Apprenez la technique spéciale : DOUBLE SAUT.
 
 P36:
-Apprenez la technique sp閏iale : RUEE AERIENNE.
+Apprenez la technique spéciale : RUEE AERIENNE.
 
 P37:
-Apprenez la technique sp閏iale : SUSPENSION.
+Apprenez la technique spéciale : SUSPENSION.
 
 P38:
-R関鑜e la pr閟ence de tr閟ors dans une zone.
+Révéler la présence de trésors dans une zone.
 
 P39:
-Rassemblez les 6 morceaux pour d閠ruire la barri鑢e magique. 
+Rassemblez les 6 morceaux pour détruire la barrière magique. 
 
 P40:
 Ennemi puissant gardant une zone.
@@ -581,15 +580,15 @@ En ayant suffisament de coeurs.
 
 
 P5:
-Lv Niveau 1 peut 阾re execut?au sol ou en sautant. Niveaux 2 et 3 simplement en 閠ant sur le sol. Les chiffres rouges indiquent le montant de coeurs n閏閟saires.
+Lv Niveau 1 peut être exécuté au sol ou en sautant. Niveaux 2 et 3 simplement en se tenant sur le sol. Les chiffres rouges indiquent le montant de coeurs nécessaires.
 
 P6:
-Quand Efrain est sur le sol et fait face ?une porte ou une personne.
+Quand Efrain est sur le sol et fait face à une porte ou une personne.
 
 P7:
 Quand Efrain est sur le sol.
 
-Ne n閏essite pas de SP.
+Ne nécessite pas de SP.
 
 P8:
 Quand Efrain saute.
@@ -618,7 +617,7 @@ Vous n'avez pas encore appris cette technique.
 - Boss beaten
 
 P1: 
-Vous avez trouv?un morceau du sceau bris?
+Vous avez trouvez l'un morceau du sceau brisée
 
 
 -----------------------
@@ -634,7 +633,7 @@ VIE MAX augmenté.
 - Defeat Gerof
 
 P1:
-Vous avez d閠ruit le fant鬽e de Gerof Von Viltheim. Vous avez 間alemment trouv?le FOUET LONG.
+Vous avez détruit le fantôme de Gerof Von Viltheim. Vous avez également trouvé le FOUET LONG.
 
 
 -----------------------
@@ -650,7 +649,7 @@ Vous obtenez la STATUETTE DU VENT.
 - Heart UP get
 
 P1:
-COEURS MAX augment閟.
+COEURS MAX augmenté.
 
 
 -----------------------
@@ -658,7 +657,7 @@ COEURS MAX augment閟.
 - MP UP get
 
 P1: 
-SP MAX augment?
+SP MAX augmenté.
 
 
 -----------------------
@@ -677,7 +676,7 @@ P4:
 Appuyez sur SAUT lorsque Efrain est d閖a entrain de sauter.
 
 P5: 
-Un DOUBLE SAUT peut 阾re effectu?m阭e ?partir d'une chute.
+Un DOUBLE SAUT peut être effectuer même si partir d'une chute.
 
 
 -----------------------
@@ -688,13 +687,13 @@ P1:
 Vous obtenez la STATUETTE DU PELERIN.
 
 P2: 
-Vous pouvez maintenant utiliser la technique sp閏iale: GLISSADE.
+Vous pouvez maintenant utiliser la technique spéciale: GLISSADE.
 
 P3: 
 Appuyez sue SPECIAL  lorsque Efrain est accroupi.
 
 P4: 
-Vous pouvez passer par les passages 閠roits.
+Vous pouvez passer par les passages étroits.
 
 P5: 
  Cette technique ne consomme pas de SP.
@@ -705,16 +704,16 @@ P5:
 - Get Item Crash upgrade (North Mountain 2, Basement 4)
 
 P1: 
-ITEM CRASH niveau sup閞ieur.
+ITEM CRASH niveau supérieur.
 
 P2: 
-Votre ITEM CRASH max a augment?d'un niveau.
+Votre ITEM CRASH max a augmenté.d'un niveau.
 
 P3: 
-Vous pouvez utiliser l'arme secondaire pour ex閏uter son pouvoir sp閏ial.
+Vous pouvez utiliser l'arme secondaire pour exécuter son pouvoir spécial.
 
 P4: 
-Vous 鑤es invincible durant un ITEM CRASH niveau 2 ou 3.
+Vous êtes invincible durant un ITEM CRASH niveau 2 ou 3.
 
 P5: 
 Vous pouvez changer le niveau de l'Item crash ?volont?en appuyant sur ITEM CRASH.
@@ -725,18 +724,18 @@ Vous pouvez changer le niveau de l'Item crash ?volont?en appuyant sur ITEM CRASH
 - At front of Castle Gate
 
 P1: 
-Qu'est ce que c'est que 鏰?
+Qu'est ce que c'est que passé?
 
 P2: 
-Je suis repouss?par une sorte de barri鑢e magique.
+Je suis repoussé par une sorte de barrière magique.
 
 P3: 
 Je ne peux pas entrer pour le moment.
-Le mieux ?faire est de repartir pour trouver un moyen de traverser la barri鑢e.
+Le mieux ?faire est de repartir pour trouver un moyen de traverser la barrière.
 
 
 P4: 
-Il y a une ville appel閑 RUHIGESTADT au sud. Je pourrais peut 阾re obtenir des informations l?bas. 
+Il y a une ville appelée RUHIGESTADT au sud. Je pourrais peut être obtenir des informations là-bas. 
 
 P5: 
 La famille Von Viltheim doit cacher un horrible secret. 
@@ -756,13 +755,13 @@ P2:
 Vous obtenez la STATUETTE DE L'AIGLE.
 
 P3: 
-Vous pouvez maintenant utiliser la technique sp閏iale: RUEE AERIENNE.
+Vous pouvez maintenant utiliser la technique spéciale: RUEE AERIENNE.
 
 P4: 
 Appuyez sur SPECIAL lors d'un saut ou d'une chute.
 
 P5: 
-La ru閑 aerienne consomme quelques SP.
+La ruée aerienne consomme quelques SP.
 
 
 -----------------------
@@ -770,7 +769,7 @@ La ru閑 aerienne consomme quelques SP.
 - Main Hall boss
 
 P1: 
-Votre progression dans le Château vous donne acc鑣 au Labyrinthe des rideaux ainsi qu'aux jardins.
+Votre progression dans le Château vous donne accès au Labyrinthe des rideaux ainsi qu'aux jardins.
 
 
 -----------------------
@@ -794,7 +793,7 @@ Vous obtenez la Rose de Fer.
 - Inner yard boss
 
 P1: 
-L'esprit tourment?de Liese a enfin trouv?la paix de l'鈓e.
+L'esprit tourment?de Liese a enfin trouvà la paix de l'鈓e.
 
 
 -----------------------
@@ -806,7 +805,7 @@ Vous obtenez le pouvoir du:
 TRIPLE LANCE
 
 P2: 
-Vous pouvez maintenant lancer 3 armes secondaires cons閏utives.
+Vous pouvez maintenant lancer 3 armes secondaires constitutives.
 
 
 -----------------------
@@ -814,7 +813,7 @@ Vous pouvez maintenant lancer 3 armes secondaires cons閏utives.
 - Hall of Science boss
 
 P1: 
-Courage ! Votre combat est loin d掙tre termin?..
+Courage ! Votre combat est loin d'être terminé..
 
 
 -----------------------
@@ -828,7 +827,7 @@ P2:
 Vous obtenez la STATUETTE GORGONE.
 
 P3: 
-Vous pouvez maintenant utiliser la technique sp閏iale: SUSPENSION.
+Vous pouvez maintenant utiliser la technique spéciale: SUSPENSION.
 
 P4: 
 Maintenez HAUT + SPECIAL lors d'une chute.
@@ -842,7 +841,7 @@ Efrain sera suspendu dans l'air.
 - Basement boss
 
 P1: 
-Les sous-sols du Château 閠aient auparavant un endroit sacr? Ils sont d閟ormais maudits pour toujours...
+Les sous-sols du Château 閠aient auparavant un endroit sacré Ils sont désormais maudits pour toujours...
 
 
 -----------------------
@@ -850,7 +849,7 @@ Les sous-sols du Château 閠aient auparavant un endroit sacr? Ils sont d閟orma
 - Get gilt slayer (condemned area 1)
 
 P1: 
-Haz encontrado el ASESINO DORADO.
+Vous avez le MEURTRIER DORE.
 
 
 -----------------------
@@ -858,7 +857,7 @@ Haz encontrado el ASESINO DORADO.
 - condemned area boss
 
 P1: 
-Vous avez atteint la derni鑢e partie du Château. Cet endroit maudit doit 阾re an閍nti...
+Vous avez atteint la dernière partie du Château. Cet endroit maudit doit être an閍nti...
 
 
 -----------------------
@@ -866,7 +865,7 @@ Vous avez atteint la derni鑢e partie du Château. Cet endroit maudit doit 阾re
 - Moonlight hall boss
 
 P1:
-Vous sentez la pr閟ence diabolique de Katharina. Serait-ce votre tout dernier combat? La lune est si belle cette nuit.
+Vous sentez la présence diabolique de Katharina. Serait-ce votre tout dernier combat? La lune est si belle cette nuit.
 
 
 
@@ -875,6 +874,6 @@ Vous sentez la pr閟ence diabolique de Katharina. Serait-ce votre tout dernier c
 - Katharina Quarter boss
 
 P1:
-L'errance macabre de Friedrich se termine ici. Il doit 阾re tard , le jour va bient魌 se lever. Katharina m'attend quelque part en dessous.
+L'errance macabre de Friedrich se termine ici. Il doit être tard , le jour va bientôt se lever. Katharina m'attend quelque part en dessous.
 
 
