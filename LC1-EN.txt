@@ -454,7 +454,6 @@ P5:
  Gilt
        slayer
 
-
 P6:
 
 -----------------------
@@ -643,13 +642,13 @@ P1:
 From here, you cannot turn back or use the save option.
 
 P2:
-A partir d'ici, vous ne pouvez ni sauvegarder ni revenir en arri鑢e.
+A partir d'ici, vous ne pouvez ni sauvegarder ni revenir en arrière.
 
 P3:
-Desde aqu? no puedes volver o utilizar la opci髇 de salvar partida.
+Desde aquí, no puedes volver o utilizar la opción de salvar partida.
 
 P4:
-Von hieraus kannst du nicht umkehren oder die Speicheroption ausw鋒len.
+Von hieraus kannst du nicht umkehren oder die Speicheroption auswählen.
 
 
 -----------------------
@@ -929,7 +928,7 @@ Try the Hard difficulty mode to get the best ending and unlock the BOSS RUSH mod
 
 P2: 
 FIN INTERMEDIAIRE
-Essayez le mode difficile pour obtenir la meilleur fin et d閎loquer le BOSS RUSH mode.
+Essayez le mode difficile pour obtenir la meilleur fin et desbloquear le BOSS RUSH mode.
 
 P3: 
 FINAL INTERMEDIO
@@ -952,7 +951,7 @@ Try another difficulty mode to get better endings.
 
 P2: 
 MAUVAISE FIN
-Essayez un autre niveau de difficult?pour obtenir de meilleurs fins.
+Essayez un autre niveau de difficulté pour obtenir de meilleurs fins.
 
 P3: 
 FINAL MALO
@@ -961,7 +960,7 @@ Prueba otros modos de dificultad para tener mejores finales.
 
 P4: 
 SCHLECHTES ENDE
-Versuche einen h鰄eren Schwierigkeitsgrad durchspielen f黵 ein besseres Ende.
+Versuche einen höheren Schwierigkeitsgrad durchspielen für ein besseres Ende.
 
 
 -----------------------
@@ -976,11 +975,11 @@ You are a very skilled player! Try the BOSS RUSH mode ..
 
 P2: 
 MEILLEURE FIN
-Vous 阾es un tr鑣 bon joueur. Pourquoi ne pas essayer le BOSS RUSH mode?
+Vous êtes un très bon joueur. Pourquoi ne pas essayer le BOSS RUSH mode?
 
 P3: 
 MEJOR FINAL
-Eres un jugador muy h醔il. Prueba el BOSS RUSH modo..
+Eres un jugador muy hábil! Prueba el BOSS RUSH modo..
 
 
 
