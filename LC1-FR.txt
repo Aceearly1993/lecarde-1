@@ -50,7 +50,7 @@ P8:
 Vous devez assembler les 6 parties du sceau de la famille VON VILTHEIM.
 
 P9:
-C'est la seule fa鏾n de pouvoir entrer dans le chateau.
+C'est la seule façon de pouvoir entrer dans le chateau.
 
 P10:
 Cette maison est abandonnée. Je suis sûr qu'une chose précieuse se trouve cachée à l'intérieur.
@@ -78,7 +78,7 @@ Je suis désormais trop vieux pour explorer le monde.
 
 
 P17:
-Je poss鑔e un objet très int閞essant qui te sera utile dans ta quête.
+Je posséde un objet très int閞essant qui te sera utile dans ta quête.
 
 P18:
 Tu peux le récupérer l?haut dans ma chambre.
@@ -171,7 +171,7 @@ Votre barre de SP a augmenté.
 
 P45:
 Quel bel après midi !
-Vous d閟irez trouver les morceaux du seau Von Viltheim ?
+Vous désirez trouver les morceaux du seau Von Viltheim ?
 Les membres de la famille avaient l'habitude d抋ller se reposer dans le domaine de chasse de Gerof. 
 
 
@@ -207,7 +207,7 @@ P53:
 J'ai aussi appris que le monastère ?l抏st avait 閠?d閟ert?par les moines .
 
 P54:
-D抋utre part, un voyageur que j'ai rencontr? m抋 dit qu'il fallait mieux 関iter les montagnes du nord..
+D抋utre part, un voyageur que j'ai rencontré m抋 dit qu'il fallait mieux 関iter les montagnes du nord..
 
 P55:
 UNGESTADT, MONASTERE et MONTAGNES DU NORD sont désormais disponible sur la carte.
@@ -260,7 +260,7 @@ P69:
 Gerof était un grand chasseur.
 
 P70:
-Wilhelm était un grand musicien. Il aimait particulièrement le son m閘odieux des chauve-souris en vol.
+Wilhelm était un grand musicien. Il aimait particulièrement le son mélodieux des chauve-souris en vol.
 
 P71:
 Liese était une très belle fille, elle f鹴 emport閑 par la maladie très jeune. Sa tombe au Château est couverte de roses.
@@ -322,7 +322,7 @@ P12:
 Dague d'argent
 
 P13:
-Croix 閏artlate
+Croix Écarlate
 
 P14:
 Hache
@@ -460,7 +460,7 @@ P7:
 Donne tous les SP.
 
 P8:
-Cause de très grave dégâts aux ennemis pr閟ents ?proximit? 
+Cause de très grave dégâts aux ennemis présents àpproximité
 
 P9:
 Donne quelques points de vie.
