@@ -70,7 +70,7 @@ P14:
 Cet objet révèle la présence des trésors pouvant être trouvés dans une zone.
 
 P15:
-Lorsque vous sélectionnez une zone sur la carte, la liste des trésors s'affiche en bas ?gauche de l'écran.
+Lorsque vous sélectionnez une zone sur la carte, la liste des trésors s'affiche en bas à gauche de l'écran.
 
 P16:
 Bonjour jeune aventurier !
@@ -78,19 +78,19 @@ Je suis désormais trop vieux pour explorer le monde.
 
 
 P17:
-Je posséde un objet très int閞essant qui te sera utile dans ta quête.
+Je posséde un objet très intéressant qui te sera utile dans ta quête.
 
 P18:
 Tu peux le récupérer l?haut dans ma chambre.
 
 P19:
-Utilise le pouvoir du globe pour délivrer cette contr閑 des ténèbres qui l抏nvahissent.
+Utilise le pouvoir du globe pour délivrer cette contré des ténèbres qui l'envahissent.
 
 P20:
-Bienvenue dans ma taverne "Der goldenen Adler". Beaucoup de voyageurs s抋rr阾ent ici pour boire un verre et relater leurs aventures.
+Bienvenue dans ma taverne "Der goldenen Adler". Beaucoup de voyageurs s'y arrêtent ici pour boire un verre et relater leurs aventures.
 
 P21:
-Je crois savoir que la famille Von Viltheim d閠ient un sceau d抲ne immense puissance.
+Je crois savoir que la famille Von Viltheim détient un sceau d'une immense puissance.
 
 P22:
 Le sceau a été brisée en plusieurs morceaux. Ces morceaux sont éparpillés au quatre coins de la région.
@@ -117,10 +117,10 @@ P29:
 
 
 P30:
-Ma mère ne m'autorise plus a sortir de la ville. Elle dit que c抏st devenu très dangereux ?l抏xt閞ieur.
+Ma mère ne m'autorise plus a sortir de la ville. Elle dit que c'est devenu très dangereux ?l抏xt閞ieur.
 
 P31:
-Vous venez d'Espagne! Vous 阾es très loin de chez vous, ici en Autriche.
+Vous venez d'Espagne! Vous êtes très loin de chez vous, ici en Autriche.
 
 P32:
 Je ne savais pas que la Famille Von Viltheim avait un Château en Espagne.
@@ -132,19 +132,19 @@ P34:
 Bienvenue a l'auberge "Das weissse Heinhorn". Si vous avez besoin de repos vous pouvez passer la nuit ici.
 
 P35:
-Vous pouvez également gouter ?nos délicieuses spécialités autrichiennes. 
+Vous pouvez également dégouter nos délicieuses spécialités autrichiennes. 
 
 P36:
-Beaucoup d抩bjets cachés peuvent être découverts en frappant certains murs. 
+Beaucoup d'objets cachés peuvent être découverts en frappant certains murs. 
 
 P37:
-Des ennemis puissants  gardent les diff閞entes parties du sceau brisée Soyez sûr d'être bien pr閜ar? avant de les affronter.
+Des ennemis puissants  gardent les différentes parties du sceau brisée Soyez sûr d'être bien préparé avant de les affronter.
 
 P38:
 En maitrisant ITEM CRASH au niveau 3 vous pouvez être capable de devenir invisible; de vous régénérer etc.
 
 P39:
-Le seul inconv閚ient c抏st qu掄 ce niveau il faut beaucoup de coeurs pour les utiliser.
+Le seul inconvénient c'est que ce niveau il faut beaucoup de coeurs pour les utiliser.
 
 P40:
 Bonjour ! J'ai des objets ici qui pourraient vous intéresser.
@@ -176,38 +176,38 @@ Les membres de la famille avaient l'habitude d抋ller se reposer dans le domaine
 
 
 P46:
-Ce domaine se trouve dans la forêt au sud d抜ci?
-Maintenant que j抷 pense, Il y a des ruines sur une petite ile qui peuvent pr閟enter de l抜nt閞阾.
+Ce domaine se trouve dans la forêt au sud d'ici?
+Maintenant que j抷 pense, Il y a des ruines sur une petite ile qui peuvent présenter de l'intérêt.
 
 
 P47:
 RUINES et DOMAINE DE CHASSE sont désormais disponible sur la carte.
 
 P48:
-Fa顃es attention. Cette région est pleine de dangers.
+Faites attention. Cette région est pleine de dangers.
 
 P49:
 CHAINE
 
 Augmentera votre force d'attaque.
-Donne moi 70 coeurs et elle sera ?toi.
+Donne moi 70 coeurs et elle sera vous.
 
 
 P50:
 Vous avez la CHAINE.
 
 P51:
-Je viens d'une contr閑 situ閑 au sud de l'Autriche.
-J'閠ais venue à UNGESTADT pour rendre visite à ma famille.
+Je viens d'une contré situ閑 au sud de l'Autriche.
+Je suis venue à UNGESTADT pour rendre visite à ma famille.
 
 P52:
 J'ai découvert que la ville était abandonnée et qu'elle était envahie par les monstres.
 
 P53:
-J'ai aussi appris que le monastère ?l抏st avait 閠?d閟ert?par les moines .
+J'ai aussi appris que le monastère ?l抏st avait déserté par les moines .
 
 P54:
-D抋utre part, un voyageur que j'ai rencontré m抋 dit qu'il fallait mieux 関iter les montagnes du nord..
+D抋utre part, un voyageur que j'ai rencontré m'a dit qu'il fallait mieux éviter les montagnes du nord..
 
 P55:
 UNGESTADT, MONASTERE et MONTAGNES DU NORD sont désormais disponible sur la carte.
@@ -247,7 +247,7 @@ Le DIAMANT ROSE deviendra maintenant:
 DIAMANT PUR
 
 P66:
-Puisse Dieu t'aider ?accomplir ta mission.
+Puisse Dieu t'aider à accomplir ta mission.
 
 P67:
 Vous avez besoin de SP pour utiliser vos techniques.
@@ -272,7 +272,7 @@ P73:
 La bibliothèque de Leopold est la plus grande en Europe. Un jour il trouva un livre de nécromancie..
 
 P74:
-La duchesse Katharina était une femme d'une rare intelligence et d'une beaut??couper le souffle.
+La duchesse Katharina était une femme d'une rare intelligence et d'une beauté à couper le souffle.
 
 P75:
 Ils sont tous morts depuis longtemps.
@@ -493,7 +493,7 @@ P18:
 Rend invincible durant un moment.
 
 P19:
-Augmente les dégâts causés par l'arme principale d'Efrain. Attention ! L抏ffet sera perdu si Efrain subit une attaque.
+Augmente les dégâts causés par l'arme principale d'Efrain. Attention ! L'effet sera perdu si Efrain subit une attaque.
 
 P20:
 Lancé droit devant. Arme rapide mais peu puissante. 
@@ -673,7 +673,7 @@ P3:
 Vous pouvez maintenant effectuer un DOUBLE SAUT.
 
 P4: 
-Appuyez sur SAUT lorsque Efrain est d閖a entrain de sauter.
+Appuyez sur SAUT lorsque Efrain est déjà entrain de sauter.
 
 P5: 
 Un DOUBLE SAUT peut être effectuer même si partir d'une chute.
@@ -716,7 +716,7 @@ P4:
 Vous êtes invincible durant un ITEM CRASH niveau 2 ou 3.
 
 P5: 
-Vous pouvez changer le niveau de l'Item crash ?volont?en appuyant sur ITEM CRASH.
+Vous pouvez changer le niveau de l'Item crash à volonté en appuyant sur ITEM CRASH.
 
 
 -----------------------
@@ -731,7 +731,7 @@ Je suis repoussé par une sorte de barrière magique.
 
 P3: 
 Je ne peux pas entrer pour le moment.
-Le mieux ?faire est de repartir pour trouver un moyen de traverser la barrière.
+Le mieux faire est de repartir pour trouver un moyen de traverser la barrière.
 
 
 P4: 
@@ -777,7 +777,7 @@ Votre progression dans le Château vous donne accès au Labyrinthe des rideaux a
 - Maze of Curtain boss
 
 P1: 
-L'esprit diabolique de Wilhelm a quitt?cet endroit, pour toujours.
+L'esprit diabolique de Wilhelm a quitté cet endroit, pour toujours.
 
 
 -----------------------
@@ -841,7 +841,7 @@ Efrain sera suspendu dans l'air.
 - Basement boss
 
 P1: 
-Les sous-sols du Château 閠aient auparavant un endroit sacré Ils sont désormais maudits pour toujours...
+Les sous-sols du Château étaient auparavant un endroit sacré Ils sont désormais maudits pour toujours...
 
 
 -----------------------
@@ -857,7 +857,7 @@ Vous avez le MEURTRIER DORE.
 - condemned area boss
 
 P1: 
-Vous avez atteint la dernière partie du Château. Cet endroit maudit doit être an閍nti...
+Vous avez atteint la dernière partie du Château. Cet endroit maudit doit être anéanti...
 
 
 -----------------------
