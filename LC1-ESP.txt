@@ -243,8 +243,8 @@ CRUZ DE PLATA
 
 
 P64:
-HAND AXE will now become: 
-HEAVY AXE
+HACHA DE MANO ahora se volverse: 
+HACHA PESADA 
 
 P65:
 DIAMANTE ROSA ahora se volverse: 
