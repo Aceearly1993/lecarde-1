@@ -5,13 +5,13 @@ Tienes el poder:
  ITEM CRASH NIVEL 1
 
 P2:
-Ahora puedes usar tu arma en una manera m醩 poderosa.
+Ahora puedes usar tu arma en una manera más poderosa.
 
 P3:
-Los n鷐eros rojos indican cu醤tos corazones se requieren para usar el actual Item Crash.
+Los números rojos indican cuántos corazones se requieren para usar el actual Item Crash.
 
 P4:
-Presione ARRIBA y bot髇 Item Crash para usarlo.
+Presione ARRIBA y botón Item Crash para usarlo.
 
 P5:
 Con suficientes corazones
@@ -24,7 +24,7 @@ P6:
 - ruhigestadt
 
 P1: 
-Debes encontrar informaci髇 antes de proceder con tu b鷖queda.
+Debes encontrar información antes de proceder con tu búsqueda.
 
 P2:
 Esta vieja calle empedrada te llevar?fuera de la aldea.
@@ -42,7 +42,7 @@ P6:
 Nadie puede acercarse al Castillo. Una barrera invisible evita que cualquiera se acerque.
 
 P7:
-Qu?pas?con la respetada familia Von Viltheim?
+¿Qué pasó con la respetada familia Von Viltheim?
 Es preocupante...
 
 
@@ -51,10 +51,10 @@ P8:
 Debes encontrar las 6 partes del emblema de la familia Von Viltheim.
 
 P9:
-Es la 鷑ica manera en que podr醩 ingresar al Castillo.
+Es la única manera en que podrás ingresar al Castillo.
 
 P10:
-Esa casa est?abandonada. Cuenta la leyenda que una reliquia muy importante se haya en su interior.
+Esa casa está abandonada. Cuenta la leyenda que una reliquia muy importante se haya en su interior.
 
 P11:
 Tienes ahora el poder de DOBLE DISPARO.
@@ -66,64 +66,63 @@ P13:
 Has encontrado el ORBE DE LA VERDAD.
 
 P14:
-Este valioso item te revelar?tesoros escondidos a trav閟 de las tierras por las que emprendas tu b鷖queda.
+Este valioso item te revelar é tesoros escondidos a trav閟 de las tierras por las que emprendas tu búsqueda.
 
 P15:
 Cuando selecciones un area en un mapa, los items disponibles ser醤 detallados en la parte inferior izquierda de la pantalla.
 
 P16:
 Hola, joven caballero!
-Mis d韆s de gloria han pasado, ya no puedo explorar el mundo...
+Mis días de gloria han pasado, ya no puedo explorar el mundo...
 
 P17:
 Tengo un valioso item que de seguro te servir?
 
 P18:
-Puedes recogerlo en mi habitaci髇...
+Puedes recogerlo en mi habitación...
 
 P19:
 Por favor, utiliza el poder el orbe para librar nuestra tierra de las sombras y el mal.
 
 P20:
-Bienvenido a mi taberna, "Der goldenen Adler". Muchos viajeros llegan aqu?a dialogar de sus aventuras, tragos mediante.
+Bienvenido a mi taberna, "Der goldenen Adler". Muchos viajeros llegan aquía dialogar de sus aventuras, tragos mediante.
 
 P21:
-S?que la familia Von Viltheim tiene un poderoso emblema.
+Sé que la familia Von Viltheim tiene un poderoso emblema.
 
 P22:
-Dicho emblema ha sido destru韉o, y sus partes han sido esparcidas por todas las tierras.
+Dicho emblema ha sido destruido, y sus partes han sido esparcidas por todas las tierras.
 
 P23:
 Eres un caballero de la Iglesia?
 
 P24:
-S?que El Vaticano env韆 a sus caballeros cuando eventos extra駉s ocurren en los dominios cristianos.
+Sé que El Vaticano envía a sus caballeros cuando eventos extraños ocurren en los dominios cristianos.
 
 P25:
-Henri Sardis, el sacerdote, viene de Francia. Sol韆 ser un hombre muy confortador. Ahora es una p醠ida sombra que poco guarda en com鷑 con el hombre que sol韆 ser?
+Henri Sardis, el sacerdote, viene de Francia. Solía ser un hombre muy confortador. Ahora es una pérdida sombra que poco guarda en común con el hombre que solía será. 
 
 P26:
 Hay gente que dice que puede bendecir y mejorar ciertas armas!
 
 P27:
-Welcome ! I see you're also a soul of the church .
+
 
 P28:
-I don't know what happen's to  me ... I fell bad...I'm weak ...
+
 
 P29:
-That is not a disease ... I feel a nasty presence coming from the roof of my church...
-Please help me !
+
 
 P30:
-Mi madre no me deja salir de la aldea. Dice que nuestras tierras se est醤 volviendo muy peligrosas.
+Mi madre no me deja salir de la aldea. Dice que nuestras tierras se está volviendo muy peligrosas.
 
 P31:
-Eres de Espa馻! 】Y c髆o es que has venido tan lejos, a Austria?!
+Eres de España! ¡¿Y cómo es que has venido tan lejos, a Austria?!
 
 P32:
-縇a familia Von Viltheim ten韆 un castillo en Espa馻? Eso no lo sab韆!
-Espero que pronto todo est?bien.
+¿La familia Von Viltheim tenía un castillo en España? Eso no lo sabiá!
+Espero que pronto todo está bien.
 
 P33:
 La posada "Die weisse einhorn" y la Iglesia local son muy cercanos. Si trepas por el techo de la posada tal vez puedas alcanzar el techo de la Iglesia.
@@ -132,34 +131,34 @@ P34:
 Bienvenido, viajero, a "Die Weisse eihnhorn". Eres bienvenido si necesitas un descanso.
 
 P35:
-Tambi閚 puedes comer deliciosas especialidades austr韆cas.
+También puedes comer deliciosas especialidades austriácas.
 
 P36:
-Las areas est醤 llenas de secretos! A veces al golpear una pared puedes revelar tesoros ocultos!
+Las areas está llenas de secretos! A veces al golpear una pared puedes revelar tesoros ocultos!
 
 P37:
-Poderosos monstruos cuidan de las partes del emblema. Prep醨ate a pelear contra ellos si quieres obtenerlos.
+Poderosos monstruos cuidan de las partes del emblema. Prepárate a pelear contra ellos si quieres obtenerlos.
 
 P38:
-Algunos guerreros pueden dominar el "ITEM CRASH LEVEL 3". A ese punto, puedes volverte invisible, regenerar tu energ韆 vital, tus SP, etc..
+Algunos guerreros pueden dominar el "ITEM CRASH LEVEL 3". A ese punto, puedes volverte invisible, regenerar tu energía vital, tus SP, etc..
 
 P39:
 Desafortunadamente esos ITEM CRASH necesitan much韘imos corazones para ser ejecutados.
 
 P40:
-Bienvenido! Tengo algunos items que pueden ser de tu inter閟?
+Bienvenido! Tengo algunos items que pueden ser de tu interesar?
 
 P41:
-EXTENSI覰 DE VIDA M罼IMA
+EXTENSIÁ DE VIDA MÁXIMA
 
-Se incrementar?tu barra de vida.
-Por 70 corazones, ser?tuya.
+Se incrementar tu barra de vida.
+Por 70 corazones, será tuya.
 
 P42:
-EXTENSI覰 DE SP
+EXTENSIÁ DE SP
 
-Se incrementar?tu barra de SP.
-Por 50 corazones, ser?tuya.
+Se incrementar tu barra de SP.
+Por 50 corazones, será tuya.
 
 
 P43:
@@ -170,26 +169,26 @@ Tu barra de SP se ha incrementado.
 
 P45:
 Buenas tardes!
-縌uieres encontrar las partes del emblema de Von Viltheim?
-Los miembros de la familia sol韆n cazar e ir a descansar a su morada veraniega?
+¿Quieres encontrar las partes del emblema de Von Viltheim?
+Los miembros de la familia solían cazar e ir a descansar a su morada veraniega?
 
 
 P46:
-Est?en el bosque, al sur de aqu?
-Tambi閚 hay ruinas, en una peque馻 isla, que podr韆n esconder alg鷑 que otro secreto?
+Est?en el bosque, al sur de aquí
+También hay ruinas, en una pequeña isla, que podrían esconder algún que otro secreto?
 
 
 P47:
-RUINAS y CAMPOS DE CACER虯 est醤 ahora disponibles en el mapa.
+RUINAS y CAMPOS DE CACERÍA está ahora disponibles en el mapa.
 
 P48:
-Por favor ten cuidado! Esta tierra est?llena de peligros!
+Por favor ten cuidado! Esta tierra está llena de peligros!
 
 P49:
 CADENA
 
-Mejorar?tu fuerza.
-Por 70 corazones, ser?tuya.
+Mejorar tu fuerza.
+Por 70 corazones, será tuya.
 
 
 It will increase your strength.
@@ -204,16 +203,16 @@ Fui a Ungestadt a visitar a mi familia.
 
 
 P52:
-Pero descubr?que la aldea est?abandonada. Una maligna niebla cubr韆 el lugar, amenazante?mientras monstruos sedientos de sangre llegaban por doquier.
+Pero descubrí que la aldea está abandonada. Una maligna niebla cubrió el lugar, amenazante?mientras monstruos sedientos de sangre llegaban por doquier.
 
 P53:
-Tambi閚 me enter?de que el monasterio est?abandonado, y que los monjes desaparecieron,
+También me enteré de que el monasterio está abandonado, y que los monjes desaparecieron,
 
 P54:
-Oh, espera! Un viajero me dijo 換uien valore su vida no se aventurar?a las monta馻s del norte? Si?esas fueron sus palabras?
+Oh, espera! Un viajero me dijo "Quien valore su vida no se aventurarse a las montañas del norte". Si?esas fueron sus palabras?
 
 P55:
-UNGESTADT, MONASTERIO and MONTA袮S DEL NORTE est醤 ahora disponibles en el mapa.
+UNGESTADT, MONASTERIO and MONTAÑAS DEL NORTE está ahora disponibles en el mapa.
 
 P56:
 縉os vamos de esta tierra?
@@ -222,10 +221,10 @@ P57:
 ....................................
 
 P58:
-Oh, me siento mejor! 縌u?ha sucedido?
+Oh, me siento mejor! ¿Qué sucedido?
 
 P59:
-】Qu?! 】Un yorik caminaba por el techo de mi Iglesia?!
+¡Qué! ¿Un yorik caminaba por el techo de mi Iglesia?!
 
 P60:
 Me alegro mucho de que lo hayas derrotado.
@@ -234,12 +233,12 @@ P61:
 Voy a bendecirte.
 
 P62:
-DAGA DE PLATA ahora se volver? 
+DAGA DE PLATA ahora se volverse: 
 DAGA DORADA
 
 
 P63:
-CRUZ CARMES?ahora se volver? 
+CRUZ CARMESé ahora se volverse: 
 CRUZ DE PLATA
 
 
@@ -248,42 +247,42 @@ HAND AXE will now become:
 HEAVY AXE
 
 P65:
-DIAMANTE ROSA ahora se volver? 
+DIAMANTE ROSA ahora se volverse: 
 DIAMANTE PURO
 
 
 P66:
-Que Dios todopoderoso te auxilie en tu misi髇.
+Que Dios todopoderoso te auxilie en tu misión.
 
 P67:
-Necesitas SP para ejecutar tus habilidades especiales.(Barra verde). Si tus SP llegan a 0, no entres en p醤ico. Luego de 5 segundos, recuperar醩 algo de SP.
+Necesitas SP para ejecutar tus habilidades especiales.(Barra verde). Si tus SP llegan a 0, no entres en pánico. Luego de 5 segundos, recuperarás algo de SP.
 
 P68:
 Hay varios miembros de la familia Von Viltheim que son famosos.
 
 P69:
-Gerof era un gran cazador. Majestuosos animales ca韆n presos de su certero disparo.
+Gerof era un gran cazador. Majestuosos animales son víctimas de su certero disparo.
 
 P70:
-Wilhelm fue un gran m鷖ico. Amaba el sonido de los murci閘agos, cual sinfon韆 nocturna resonando por los desolados bosques invernales.
+Wilhelm fue un gran músico. Amaba el sonido de los murciélagos, cual sinfonía nocturna resonando por los desolados bosques invernales.
 
 P71:
-Liese fue muy preciosa, pero una enfermedad trunc?su vida en la flor de su juventud. Su tumba, llena de rosas, es un testimonio a las injusticias a las que nos expone este mundo.
+Liese fue muy preciosa, pero una enfermedad truncó su vida en la flor de su juventud. Su tumba, llena de rosas, es un testimonio a las injusticias a las que nos expone este mundo.
 
 P72:
-Friedrich fue un gran cient韋ico, renombrado en la comunidad por sus importantes experimentos. Nunca alcanz?su potencial, y paulatinamente fue perdiendo noci髇 de la realidad.
+Friedrich fue un gran científico, renombrado en la comunidad por sus importantes experimentos. Nunca alcanzó su potencial, y paulatinamente fue perdiendo noción de la realidad.
 
 P73:
-Leopold construy?la biblioteca m醩 grande de Europa. Un d韆 encontr?un libro de Necromancia. Poco sab韆 entonces que su destino cambiar韆 por siempre?
+Leopold construyó la biblioteca más grande de Europa. Un día encontró un libro de Necromancia. Poco sabiá entonces que su destino cambiaría por siempre.
 
 P74:
 La Duquesa Katharina era tan inteligente, sabia y hermosa. Todo pudo haber sido tan distinto?
 
 P75:
-Nada queda de ellos, m醩 que el recuerdo perdido en los pergaminos de la historia. Todo es tan ef韒ero?
+Nada queda de ellos, más que el recuerdo perdido en los pergaminos de la historia. Todo es tan diferente...
 
 P76:
-Puedes volver para salir de un area, pero s髄o al comienzo de la misma.
+Puedes volver para salir de un area, pero solo al comienzo de la misma.
 
 
 
@@ -292,22 +291,22 @@ Puedes volver para salir de un area, pero s髄o al comienzo de la misma.
 - text item name
 
 P1: 
-Coraz髇
+Corazón
 
 P2:
-Coraz髇 mediano     
+Corazón mediano     
 
 P3:
-Coraz髇 grande       
+Corazón grande       
 
 P4:
-Coraz髇 verde 
+Corazón verde 
 
 P5:
-Coraz髇 verde mediano 
+Corazón verde mediano 
 
 P6:
-Coraz髇 verde grande    
+Corazón verde grande    
 
 P7:
 Uvas
@@ -328,7 +327,7 @@ P12:
 Daga de plata    
 
 P13:
-Cruz carmes?    
+Cruz carmesí   
 
 P14:
 Hacha de mano    
@@ -343,7 +342,7 @@ P17:
 1 UP
 
 P18:
-Jarr髇 
+Jar
 
 P19:
 Orbe de poder      
@@ -385,7 +384,7 @@ P31:
 Triple disparo    
 
 P32:
-Bendici髇
+Bendición
 
 P33:
 Estatuilla del viento    
@@ -394,10 +393,10 @@ P34:
 Estatuilla del peregrino    
 
 P35:
-Estatuilla del 醤gel     
+Estatuilla del ángel    
 
 P36:
-Estatuilla del 醙uila    
+Estatuilla del águila   
 
 P37:
 Estatuilla de Medusa   
@@ -417,12 +416,12 @@ Enemigo final
 - text weapons
 
 P1:
-  L醫igo 
+  Látigo
        Alcarde
 
 
 P2:
-  L醫igo 
+  Látigo
         largo
 
 P3:
@@ -444,13 +443,13 @@ P6:
 - text item
 
 P1: 
-Otorga 1 coraz髇.
+Otorga 1 corazón.
 
 P2:
-Otorga 5 coraz髇es.
+Otorga 5 corazónes.
 
 P3:
-Otorga 20 coraz髇es.
+Otorga 20 corazónes.
 
 P4:
 Otorga algo de poder especial.
@@ -465,19 +464,19 @@ P7:
 Rellena todo tu poder especial.
 
 P8:
-Causa un gran da駉 a los enemigos.
+Causa un gran daños a los enemigos.
 
 P9:
-Otorga algo de energ韆 vital.
+Otorga algo de energía vital.
 
 P10:
-Otorga bastante energ韆 vital.
+Otorga bastante energía vital.
 
 P11:
-Rellena toda tu energ韆 vital.
+Rellena toda tu energía vital.
 
 P12:
-Se dispara hacia adelante. Es r醦ida pero no muy poderosa.
+Se dispara hacia adelante. Es rápida pero no muy poderosa.
 
 P13:
 Poderosa arma que revierte su movimiento.
@@ -498,10 +497,10 @@ P18:
 Otorga invencibilidad temporal.
 
 P19:
-Incrementa el da駉 que Efrain causa a sus enemigos, pero cuidado, ya que si Efrain recibe un golpe el efecto se desvanece.
+Incrementa el daños que Efrain causa a sus enemigos, pero cuidado, ya que si Efrain recibe un golpe el efecto se desvanece.
 
 P20:
-Se dispara hacia adelante. Es r醦ida pero no muy poderosa.
+Se dispara hacia adelante. Es rápida pero no muy poderosa.
 
 P21:
 Poderosa arma que revierte su movimiento.
@@ -516,7 +515,7 @@ P24:
 Rebota por las paredes.
 
 P25:
-Incrementa el nivel m醲imo de los Item Crash.
+Incrementa el nivel máximo de los Item Crash.
 
 P26:
 Parte del secreto?
@@ -531,10 +530,10 @@ P29:
 Incremeta tu capacidad de corazones.
 
 P30:
-Permite a Efrain arrojar 2 sub armas simult醤eamente.
+Permite a Efrain arrojar 2 sub armas simultáneamente.
 
 P31:
-Permite a Efrain arrojar 3 sub armas simult醤eamente.
+Permite a Efrain arrojar 3 sub armas simultáneamente.
 
 P32:
 Refuerza sub armas.
@@ -549,13 +548,13 @@ P35:
 Aprender la habilidad especial: SALTO DOBLE.
 
 P36:
-Aprender la habilidad especial: DASH A蒖EO.
+Aprender la habilidad especial: DASH AREO.
 
 P37:
 Aprender la habilidad especial:  FLOTAR.
 
 P38:
-Revela los tesoros disponibles de un 醨ea.
+Revela los tesoros disponibles de un área.
 
 P39:
 Colecciona las 6 partes para destruir la barrera.
@@ -569,39 +568,39 @@ Poderoso enemigo que cuida una determinada area.
 - text moves
 
 P1: 
-Mientras Efrain est?en tierra firme. 
+Mientras Efrain está en tierra firme. 
 
 P2:
-Mientras Efrain est?en escaleras o plataformas.
+Mientras Efrain está en escaleras o plataformas.
 
 P3:
-Mientras Efrain est?en el piso, saltando o agachado.
+Mientras Efrain está en el piso, saltando o agachado.
 
 P4:
-Mientras Efrain est?en el piso o saltando.
+Mientras Efrain está en el piso o saltando.
 
 Efrain debe tener suficientes corazones.
 
 P5:
-LV 1 puede ser llevado a cabo s髄o mientras se est?en el piso o saltando. LV 2 y LV 3 s髄o desde tierra firme. El n鷐ero rojo indica la cantidad de corazones necesarios.
+LV 1 puede ser llevado a cabo solo mientras se está en el piso o saltando. LV 2 y LV 3 solo desde tierra firme. El número rojo indica la cantidad de corazones necesarios.
 
 P6:
-Mientras Efrain est?en tierra firme o de frente a una puerta o persona.
+Mientras Efrain está en tierra firme o de frente a una puerta o persona.
 
 P7:
-Mientras Efrain est?en el suelo. No necesita SP.
+Mientras Efrain está en el suelo. No necesita SP.
 
 P8:
 Mientras Efrain salta. No necesita SP.
 
 P9:
-Mientras Efrain est?en el piso. Puede repeler disparos enemigos. Consume muchos SP.
+Mientras Efrain está en el piso. Puede repeler disparos enemigos. Consume muchos SP.
 
 P10:
-Mientras Efrain est?saltando o bajando. Consume SP.
+Mientras Efrain está saltando o bajando. Consume SP.
 
 P11:
-Mientras Efrain est?saltando o bajando. Consume SP.
+Mientras Efrain está saltando o bajando. Consume SP.
 
 P12:
 No has aprendido esa habilidad todav韆.
@@ -620,7 +619,7 @@ Has encontrado una de las seis partes del emblema destruido.
 - HP UP get
 
 P1: 
-Extensi髇 MAX HP.
+Extensión MAX HP.
 
 
 -----------------------
@@ -628,7 +627,7 @@ Extensi髇 MAX HP.
 - Defeat Gerof
 
 P1:
-Has desterrado al fantasma de Gerof Von Viltheim. Tambi閚 has encontrado el L罷IGO LARGO.
+Has desterrado al fantasma de Gerof Von Viltheim. También has encontrado el LÁTIGO LARGO.
 
 
 -----------------------
@@ -644,7 +643,7 @@ Tienes la ESTATUILLA DEL VIENTO.
 - Heart UP get
 
 P1:
-Capacidad de corazones m醲ima incrementada.
+Capacidad de corazones máxima incrementada.
 
 
 -----------------------
@@ -652,7 +651,7 @@ Capacidad de corazones m醲ima incrementada.
 - MP UP get
 
 P1: 
-Poder m醲imo especial extendido.
+Poder máximo especial extendido.
 
 
 -----------------------
@@ -662,13 +661,13 @@ Poder m醲imo especial extendido.
 P1: 
 
 P2: 
-Tienes la ESTATUILLA DEL 罭GEL.
+Tienes la ESTATUILLA DEL ÁNGEL.
 
 P3: 
 Ahora puedes ejecutar el DOBLE SALTO.
 
 P4: 
-Presiona el bot髇 de SALTO mientras saltando para ejecutar otro salto.
+Presiona el botón de SALTO mientras saltando para ejecutar otro salto.
 
 P5: 
 Puedes ejecutar un doble salto incluso cuando bajas.
@@ -685,7 +684,7 @@ P2:
 Ahora puedes ejecutar el DASH TERRESTRE.
 
 P3: 
-Presiona el bot髇 ESPECIAL cuando Efrain est?agachado.
+Presiona el botón ESPECIAL cuando Efrain está agachado.
 
 P4: 
 Puedes cruzar por espacios estrechos.
@@ -702,16 +701,16 @@ P1:
 Nivel de Item Crash.
 
 P2: 
-Nivel m醲imo de Item Crash incrementado.
+Nivel máximo de Item Crash incrementado.
 
 P3: 
-Ahora puedes usar tu arma en una manera m醩 poderosa.
+Ahora puedes usar tu arma en una manera más poderosa.
 
 P4: 
 Eres invencible durante un Item Crash nivel 2 o 3.
 
 P5: 
-Puedes mejorar o bajar tu nivel de Item Crash presionando el bot髇 ITEM CRASH.
+Puedes mejorar o bajar tu nivel de Item Crash presionando el botón ITEM CRASH.
 
 
 -----------------------
@@ -719,17 +718,17 @@ Puedes mejorar o bajar tu nivel de Item Crash presionando el bot髇 ITEM CRASH.
 - At front of Castle Gate
 
 P1: 
-縌u?es eso? 
+¿qué es eso? 
 
 P2: 
-Oh, no! Una barrera m醙ica me repele!
-No podr?ingresar al Castillo!
+Oh, no! Una barrera mágica me repele!
+No podrás ingresar al Castillo!
 
 P3: 
-Debo retirarme por ahora, hasta encontrar una manera de ingresar. Hay una peque馻 aldea al sur de aqu? llamada "Ruhigestadt".
+Debo retirarme por ahora, hasta encontrar una manera de ingresar. Hay una pequeña aldea al sur de aquí llamada "Ruhigestadt".
 
 P4: 
-Tal vez deba buscar pistas all?sobre c髆o romper esta barrera.
+Tal vez deba buscar pistas allí sobre cómo romper esta barrera.
 
 P5: 
 La familia Von Viltheim debe esconder un terrible secreto...
@@ -746,16 +745,16 @@ P1:
 
 
 P2: 
-Tienes la ESTATUILLA DEL 罣UILA.
+Tienes la ESTATUILLA DEL ÁGUILA.
 
 P3: 
-Ahora puedes ejecutar el DASH A蒖EO.
+Ahora puedes ejecutar el DASH AREO.
 
 P4: 
-Presiona el bot髇 ESPECIAL mientras saltas o bajas.
+Presiona el botón ESPECIAL mientras saltas o bajas.
 
 P5: 
-El DASH A蒖EO consume pocos SP.
+El DASH AREO consume pocos SP.
 
 
 -----------------------
@@ -807,7 +806,7 @@ Ahora puedes arrojar 3 armas consecutivamente.
 - Hall of Science boss
 
 P1: 
-Se valiente. Esta pelea a鷑 no termina.
+Se valiente. Esta pelea aún no termina.
 
 
 -----------------------
@@ -828,7 +827,7 @@ P4:
 Deja presionado ARRIBA + ESPECIAL cuando Efrain cae.
 
 P5: 
-Efrain flotar?en el aire.
+Efrain flotará en el aire.
 
 
 -----------------------
@@ -836,7 +835,7 @@ Efrain flotar?en el aire.
 - Basement boss
 
 P1: 
-El s髏ano del castillo era un lugar sagrado hace muchos a駉s... pero ahora est?condenado.
+El sótano del castillo era un lugar sagrado hace muchos años... pero ahora está condenado.
 
 
 -----------------------
@@ -852,7 +851,7 @@ Vous avez le MEURTRIER DORE.
 - condemned area boss
 
 P1: 
-Has encontrado el camino a la 鷏tima parte de este castillo. Este lugar maligno debe ser destru韉o, por el bien de la humanidad.
+Has encontrado el camino a la última parte de este castillo. Este lugar maligno debe ser destruido, por el bien de la humanidad.
 
 
 -----------------------
@@ -860,8 +859,7 @@ Has encontrado el camino a la 鷏tima parte de este castillo. Este lugar maligno
 - Moonlight hall boss
 
 P1:
-You feel the evil presence of Katharina.
-Could it be you're very last fight? The moon is so beautiful.
+¿Podría ser esta su última batalla? ¿Está tan hermosa la luna esta noche? ¿Tienes ganas de completar tu misión y volver con tus seres queridos?
 
 
 -----------------------
@@ -869,6 +867,6 @@ Could it be you're very last fight? The moon is so beautiful.
 - Katharina Quarter boss
 
 P1:
-Has terminado para siempre con los l鷊ubres merodeos de Friedrich. Debe ser tarde, el sol se acerca en el horizonte.
-Katharina me espera en alg鷑 lugar, debajo de este l鷊ubre escenario.
+Has terminado para siempre con los lúgubres merodeos de Friedrich. Debe ser tarde, el sol se acerca en el horizonte.
+Katharina me espera en algún lugar, debajo de este lúgubre escenario.
 
