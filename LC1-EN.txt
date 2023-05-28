@@ -281,25 +281,32 @@ P68:
 There are several members of the Von viltheim family who are famous.
 
 P69:
-Gerof was a great hunter.
+Gerof was a great hunter. 
+(Spanish script: Gerof was a great hunter. Majestic animals are victims of his accurate shot.)
 
 P70:
 Wilhelm was a great musician. He loved the sound of bats in flight.
+(Spanish script: Wilhelm was a great musician. He loved the sound of bats in flight, like a nocturnal symphony echoing through the desolate winter forests.)
 
 P71:
-Liese was a very beautiful girl. She died very young. Her tomb is full of roses.
+Liese was a very beautiful girl. She died very young. Her tomb is full of roses. 
+(Spanish script: Liese was very precious, but an illness cut short her life in the prime of her youth. Her tomb, covered with roses, is a testimony to the injustices to which this world exposes us.)
 
 P72:
 Friedrich was a great scientist. He conducted many experiments.
+(Spanish script: Friedrich was a great scientist, renowned in the community for his important experiments. He never reached his potential, and gradually lost track of reality.)
 
 P73:
 Leopold's library is the largest in Europe. One day he found a necromancy book.
+(Spanish script: Leopold built the largest library in Europe. One day he found a book of Necromancy. Little did he know then that his destiny would change forever.)
 
 P74:
 Duchess Katharina was so clever, wise and gorgeous.
+(Spanish script: Duchess Katharina was so clever, wise and gorgeous. Could everything have been so different?)
 
 P75:
 They are all dead now.
+(Spanish script: Nothing remains of them, more than the memory lost in the scrolls of history. Everything is so different...)
 
 P76:
 You can turn back to exit an area, but only at the beginning of the area.
