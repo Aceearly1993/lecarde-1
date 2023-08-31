@@ -1,4 +1,4 @@
-## Beware: This project has been temporarily abandoned due to technical problems. If anybody has the technical power to recover the game's mfa, be sure to contact us.
+Beware: This project has been temporarily abandoned due to technical problems. If anybody has the technical power to recover the game's mfa, be sure to contact us.
 
 
 ## Description
