@@ -116,17 +116,39 @@ Run this event once
             Sound: Play sample fx objet max plus
             Special coditions: Set Global Value T= 1
 
-
+=================================================================
 15 MO sound system primitif
-
+=================================================================
 32 Masqueur gigogne
-
+=================================================================
 37 MIG present
-
+=================================================================
 45 Main screen
-
+=================================================================
 142 Tableau des controls
 
+143
+Alterable Value C of "foutez le camp il savent"=3
+Storyboard Controls: Center display at (320,720)
+
+144
+Every 00"-04
+Alterable Value C of "foutez le camp il savent"=3
+"foutez le camp il savent": Add 1 to Alterable Value D
+
+145
+"Player 1" Pressed fire 1
+Alterable Value C of "foutez le camp il savent"=3
+Alterable Value D of "foutez le camp il savent">=70
+         Special coditions: Set Global Value C to 0
+         Sound: Play sample fx get cruche
+         "foutez le camp il savent": Set Alterable Value C to 4
+         "foutez le camp il savent": Set Alterable Value D to 0
+Create new objects: Create "masqueur gigogne" at (0,480) layer 1
+
+
+
+=================================================================
 165 provisoire ici (deactive)
 
 169 consequences traduction
