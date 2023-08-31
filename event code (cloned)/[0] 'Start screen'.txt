@@ -1,0 +1,152 @@
+1 Upon pressing "H"
+      "b busta"    :Add 1 to Alterable value B
+
+2  Alterable value B of  "b busta" >= 5
+
+Sound: Play sample fx coeur
+Storyboard Controls: Jump to frame number 85
+
+3
+ Start of Frame
+ The mouse pointer and keyboard: Hide Windows mouse pointer
+Special coditions: Set Global Value E to 0
+Special coditions: Set Global Value B to 0
+
+4
+
+Upon pressing "K"
+Alterable Value F of "selecteur" =4 
+Alterable Value A of "Titre du jeu" =0 
+Alterable Value C of "foutez le camp il savent" =2
+Alterable Value A of "selecteur" =1
+Global Value T=0
+"Titre du jeu"  : Set Alterable Value A to 1
+
+5
+Upon pressing "A"
+Alterable Value F of "selecteur"=4
+Alterable Value A of "Titre du jeu"=1
+Alterable Value C of "foutez le camp il savent"=2
+Alterable Value A of "selecteur"=1
+Global Value T= 0
+"Titre du jeu" : set Alterable Value A to 2
+
+6
+Upon pressing "T"
+Alterable Value F of "selecteur"=4
+Alterable Value A of "Titre du jeu"=2
+Alterable Value C of "foutez le camp il savent"=2
+Alterable Value A of "selecteur"=1
+Global Value T= 0
+"Titre du jeu" : set Alterable Value A to 3
+
+7
+Upon pressing "T"
+Alterable Value F of "selecteur"=4
+Alterable Value A of "Titre du jeu"=3
+Alterable Value C of "foutez le camp il savent"=2
+Alterable Value A of "selecteur"=1
+Global Value T= 0
+"Titre du jeu" : set Alterable Value A to 4
+
+8
+
+Upon pressing "H"
+Alterable Value F of "selecteur"=4
+Alterable Value A of "Titre du jeu"=4
+Alterable Value C of "foutez le camp il savent"=2
+Alterable Value A of "selecteur"=1
+Global Value T= 0
+"Titre du jeu" : set Alterable Value A to 5
+
+9
+
+Upon pressing "A"
+Alterable Value F of "selecteur"=4
+Alterable Value A of "Titre du jeu"=5
+Alterable Value C of "foutez le camp il savent"=2
+Alterable Value A of "selecteur"=1
+Global Value T= 0
+"Titre du jeu" : set Alterable Value A to 6
+
+10
+
+Upon pressing "R"
+Alterable Value F of "selecteur"=4
+Alterable Value A of "Titre du jeu"=6
+Alterable Value C of "foutez le camp il savent"=2
+Alterable Value A of "selecteur"=1
+Global Value T= 0
+"Titre du jeu" : set Alterable Value A to 7
+
+11
+
+Upon pressing "I"
+Alterable Value F of "selecteur"=4
+Alterable Value A of "Titre du jeu"=7
+Alterable Value C of "foutez le camp il savent"=2
+Alterable Value A of "selecteur"=1
+Global Value T= 0
+"Titre du jeu" : set Alterable Value A to 8
+
+12
+
+Upon pressing "N"
+Alterable Value F of "selecteur"=4
+Alterable Value A of "Titre du jeu"=8
+Alterable Value C of "foutez le camp il savent"=2
+Alterable Value A of "selecteur"=1
+Global Value T= 0
+"Titre du jeu" : set Alterable Value A to 9
+
+13
+
+Upon pressing "A"
+Alterable Value F of "selecteur"=4
+Alterable Value A of "Titre du jeu"=9
+Alterable Value C of "foutez le camp il savent"=2
+Alterable Value A of "selecteur"=1
+Global Value T= 0
+           "Titre du jeu" : set Alterable Value A to 10
+
+
+14
+Alterable Value A of "Titre du jeu"=10
+Run this event once
+            Sound: Play sample fx objet max plus
+            Special coditions: Set Global Value T= 1
+
+
+15 MO sound system primitif
+
+32 Masqueur gigogne
+
+37 MIG present
+
+45 Main screen
+
+142 Tableau des controls
+
+165 provisoire ici (deactive)
+
+169 consequences traduction
+
+175 provisoire globale  (deactive)
+
+178 desactivation de groupes
+
+182 Principal Herós
+ 183 Mouvements
+  282 fouet
+  284 Armes secondaires +item crash 1+systeme de nom
+  286 Item crash level 2
+  299 Item crash level 3
+  218 items courants
+  320 impacts speciaux
+  322 global candeloro et explo courantes
+ 
+325 compatibiliy
+349 puissance des armes
+356 retouches originales
+373 sounds ko
+
