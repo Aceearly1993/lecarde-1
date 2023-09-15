@@ -935,11 +935,11 @@ Try the Hard difficulty mode to get the best ending and unlock the BOSS RUSH mod
 
 P2: 
 FIN INTERMEDIAIRE
-Essayez le mode difficile pour obtenir la meilleur fin et desbloquear le BOSS RUSH mode.
+Essayez le mode difficile pour obtenir la meilleur fin et débloquer le BOSS RUSH mode.
 
 P3: 
 FINAL INTERMEDIO
-Prueba el juego en m醲ima dificultad para tener el mejor final y desbloquear el BOSS RUSH modo.  
+Prueba el juego en máxima dificultad para tener el mejor final y desbloquear el BOSS RUSH modo.
 
 
 P4: 
@@ -976,7 +976,7 @@ Versuche einen höheren Schwierigkeitsgrad durchspielen für ein besseres Ende.
 
 P1: 
 BEST ENDING
-You are a very skilled player! Try the BOSS RUSH mode ..
+You are a very skilled player! Try the BOSS RUSH mode ...
 
 
 
@@ -986,10 +986,10 @@ Vous êtes un très bon joueur. Pourquoi ne pas essayer le BOSS RUSH mode?
 
 P3: 
 MEJOR FINAL
-Eres un jugador muy hábil! Prueba el BOSS RUSH modo..
+Eres un jugador muy hábil. Prueba el BOSS RUSH modo...
 
 
 
 P4: 
 BESTES ENDE
-Du bist ein sehr erfahrener Spieler! Versuche nun den BOSS RUSH Mode ..
+Du bist ein sehr erfahrener Spieler! Versuche nun den BOSS RUSH Mode ...
