@@ -27,7 +27,7 @@ P1:
 Debes encontrar información antes de proceder con tu búsqueda.
 
 P2:
-Esta vieja calle empedrada te llevar?fuera de la aldea.
+Esta vieja calle empedrada te llevará fuera de la aldea.
 
 P3:
 Presiona ARRIBA frente a la calle para dejar la aldea.
@@ -36,7 +36,7 @@ P4:
 Cosas perturbadoras han estado ocurriendo en estas tierras.
 
 P5:
-Esta aldea es el ultimo refugio que queda?las esperanzas son cada vez menores.
+Esta aldea es el ultimo refugio que queda las esperanzas son cada vez menores.
 
 P6:
 Nadie puede acercarse al Castillo. Una barrera invisible evita que cualquiera se acerque.
@@ -66,17 +66,17 @@ P13:
 Has encontrado el ORBE DE LA VERDAD.
 
 P14:
-Este valioso item te revelar é tesoros escondidos a trav閟 de las tierras por las que emprendas tu búsqueda.
+Este valioso item te revelará tesoros escondidos a través de las tierras por las que emprendas tu búsqueda.
 
 P15:
-Cuando selecciones un area en un mapa, los items disponibles ser醤 detallados en la parte inferior izquierda de la pantalla.
+Cuando selecciones un area en un mapa, los items disponibles serán detallados en la parte inferior izquierda de la pantalla.
 
 P16:
 Hola, joven caballero!
 Mis días de gloria han pasado, ya no puedo explorar el mundo...
 
 P17:
-Tengo un valioso item que de seguro te servir?
+Tengo un valioso item que de seguro te servirá.
 
 P18:
 Puedes recogerlo en mi habitación...
@@ -85,13 +85,13 @@ P19:
 Por favor, utiliza el poder el orbe para librar nuestra tierra de las sombras y el mal.
 
 P20:
-Bienvenido a mi taberna, "Der goldenen Adler". Muchos viajeros llegan aquía dialogar de sus aventuras, tragos mediante.
+Bienvenido a mi taberna, "Der goldenen Adler". Muchos viajeros llegan aquí a dialogar de sus aventuras, tragos mediante.
 
 P21:
 Sé que la familia Von Viltheim tiene un poderoso emblema.
 
 P22:
-Dicho emblema ha sido destruido, y sus partes han sido esparcidas por todas las tierras.
+Dicho emblema ha sido destruído, y sus partes han sido esparcidas por todas las tierras.
 
 P23:
 Eres un caballero de la Iglesia?
@@ -100,7 +100,7 @@ P24:
 Sé que El Vaticano envía a sus caballeros cuando eventos extraños ocurren en los dominios cristianos.
 
 P25:
-Henri Sardis, el sacerdote, viene de Francia. Solía ser un hombre muy confortador. Ahora es una pérdida sombra que poco guarda en común con el hombre que solía será. 
+Henri Sardis, el sacerdote, viene de Francia. Solía ser un hombre muy confortador. Ahora es una pálida sombra que poco guarda en común con el hombre que solía ser.
 
 P26:
 Hay gente que dice que puede bendecir y mejorar ciertas armas!
@@ -115,14 +115,14 @@ P29:
 
 
 P30:
-Mi madre no me deja salir de la aldea. Dice que nuestras tierras se está volviendo muy peligrosas.
+Mi madre no me deja salir de la aldea. Dice que nuestras tierras se están volviendo muy peligrosas.
 
 P31:
 Eres de España! ¡¿Y cómo es que has venido tan lejos, a Austria?!
 
 P32:
-¿La familia Von Viltheim tenía un castillo en España? Eso no lo sabiá!
-Espero que pronto todo está bien.
+¿La familia Von Viltheim tenía un castillo en España? Eso no lo sabía!
+Espero que pronto todo esté bien.
 
 P33:
 La posada "Die weisse einhorn" y la Iglesia local son muy cercanos. Si trepas por el techo de la posada tal vez puedas alcanzar el techo de la Iglesia.
@@ -131,33 +131,33 @@ P34:
 Bienvenido, viajero, a "Die Weisse eihnhorn". Eres bienvenido si necesitas un descanso.
 
 P35:
-También puedes comer deliciosas especialidades austriácas.
+También puedes comer deliciosas especialidades austríacas.
 
 P36:
-Las areas está llenas de secretos! A veces al golpear una pared puedes revelar tesoros ocultos!
+Las areas están llenas de secretos! A veces al golpear una pared puedes revelar tesoros ocultos!
 
 P37:
 Poderosos monstruos cuidan de las partes del emblema. Prepárate a pelear contra ellos si quieres obtenerlos.
 
 P38:
-Algunos guerreros pueden dominar el "ITEM CRASH LEVEL 3". A ese punto, puedes volverte invisible, regenerar tu energía vital, tus SP, etc..
+Algunos guerreros pueden dominar el "ITEM CRASH LEVEL 3". A ese punto, puedes volverte invisible, regenerar tu energía vital, tus SP, etc...
 
 P39:
-Desafortunadamente esos ITEM CRASH necesitan much韘imos corazones para ser ejecutados.
+Desafortunadamente esos ITEM CRASH necesitan muchísimos corazones para ser ejecutados.
 
 P40:
-Bienvenido! Tengo algunos items que pueden ser de tu interesar?
+Bienvenido! Tengo algunos items que pueden ser de tu interés?
 
 P41:
-EXTENSIÁ DE VIDA MÁXIMA
+EXTENSIÓN DE VIDA MÁXIMA
 
-Se incrementar tu barra de vida.
+Se incrementará tu barra de vida.
 Por 70 corazones, será tuya.
 
 P42:
-EXTENSIÁ DE SP
+EXTENSIÓN DE SP
 
-Se incrementar tu barra de SP.
+Se incrementará tu barra de SP.
 Por 50 corazones, será tuya.
 
 
@@ -170,16 +170,16 @@ Tu barra de SP se ha incrementado.
 P45:
 Buenas tardes!
 ¿Quieres encontrar las partes del emblema de Von Viltheim?
-Los miembros de la familia solían cazar e ir a descansar a su morada veraniega?
+Los miembros de la familia solían cazar e ir a descansar a su morada veraniega.
 
 
 P46:
-Est?en el bosque, al sur de aquí
-También hay ruinas, en una pequeña isla, que podrían esconder algún que otro secreto?
+Está en el bosque, al sur de aquí.
+También hay ruinas, en una pequeña isla, que podrían esconder algún que otro secreto.
 
 
 P47:
-RUINAS y CAMPOS DE CACERÍA está ahora disponibles en el mapa.
+RUINAS y CAMPOS DE CACERÍA están ahora disponibles en el mapa.
 
 P48:
 Por favor ten cuidado! Esta tierra está llena de peligros!
@@ -187,12 +187,9 @@ Por favor ten cuidado! Esta tierra está llena de peligros!
 P49:
 CADENA
 
-Mejorar tu fuerza.
+Mejorará tu fuerza.
 Por 70 corazones, será tuya.
 
-
-It will increase your strength.
-Give me 70 Hearts and it will be yours.
 
 P50:
 Tienes la CADENA.
@@ -203,28 +200,28 @@ Fui a Ungestadt a visitar a mi familia.
 
 
 P52:
-Pero descubrí que la aldea está abandonada. Una maligna niebla cubrió el lugar, amenazante?mientras monstruos sedientos de sangre llegaban por doquier.
+Pero descubrí que la aldea está abandonada. Una maligna niebla cubría el lugar, amenazante mientras monstruos sedientos de sangre llegaban por doquier.
 
 P53:
 También me enteré de que el monasterio está abandonado, y que los monjes desaparecieron,
 
 P54:
-Oh, espera! Un viajero me dijo "Quien valore su vida no se aventurarse a las montañas del norte". Si?esas fueron sus palabras?
+Oh, espera! Un viajero me dijo "Quien valore su vida no se aventurará a las montañas del norte“. Sí, esas fueron sus palabras.
 
 P55:
-UNGESTADT, MONASTERIO and MONTAÑAS DEL NORTE está ahora disponibles en el mapa.
+UNGESTADT, MONASTERIO and MONTAÑAS DEL NORTE están ahora disponibles en el mapa.
 
 P56:
-縉os vamos de esta tierra?
+¿Nos vamos de esta tierra?
 
 P57:
 ....................................
 
 P58:
-Oh, me siento mejor! ¿Qué sucedido?
+Oh, me siento mejor! ¿Qué ha sucedido?
 
 P59:
-¡Qué! ¿Un yorik caminaba por el techo de mi Iglesia?!
+¡¿Qué?! ¡¿Un yorik caminaba por el techo de mi Iglesia?!
 
 P60:
 Me alegro mucho de que lo hayas derrotado.
@@ -233,12 +230,12 @@ P61:
 Voy a bendecirte.
 
 P62:
-DAGA DE PLATA ahora se volverse: 
+DAGA DE PLATA ahora se volverá: 
 DAGA DORADA
 
 
 P63:
-CRUZ CARMESé ahora se volverse: 
+CRUZ CARMESÍ ahora se volverá: 
 CRUZ DE PLATA
 
 
@@ -247,7 +244,7 @@ HACHA DE MANO ahora se volverse:
 HACHA PESADA 
 
 P65:
-DIAMANTE ROSA ahora se volverse: 
+DIAMANTE ROSA ahora se volverá: 
 DIAMANTE PURO
 
 
@@ -273,16 +270,16 @@ P72:
 Friedrich fue un gran científico, renombrado en la comunidad por sus importantes experimentos. Nunca alcanzó su potencial, y paulatinamente fue perdiendo noción de la realidad.
 
 P73:
-Leopold construyó la biblioteca más grande de Europa. Un día encontró un libro de Necromancia. Poco sabiá entonces que su destino cambiaría por siempre.
+Leopold construyó la biblioteca más grande de Europa. Un día encontró un libro de Necromancia. Poco sabía entonces que su destino cambiaría por siempre.
 
 P74:
-La Duquesa Katharina era tan inteligente, sabia y hermosa. Todo pudo haber sido tan distinto?
+La Duquesa Katharina era tan inteligente, sabia y hermosa. Todo pudo haber sido tan distinto.
 
 P75:
 Nada queda de ellos, más que el recuerdo perdido en los pergaminos de la historia. Todo es tan diferente...
 
 P76:
-Puedes volver para salir de un area, pero solo al comienzo de la misma.
+Puedes volver para salir de un area, pero sólo al comienzo de la misma.
 
 
 
