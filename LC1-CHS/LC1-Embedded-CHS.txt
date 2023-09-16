@@ -1,0 +1,246 @@
+-title screen visuals
+NEW GAME
+新开游戏
+
+LOAD GAME
+读取游戏进度
+
+CONTROLS
+更改操作
+
+LANGUAGE
+语言选择
+
+BOSS RUSH MODE
+头目连战模式
+
+Easy
+简单
+
+Normal
+普通
+
+Hard
+困难
+
+
+DEFAULT CONTROLS
+
+-Joypad 1 if it is plugged in
+
+-Keyboard if the joypad is not plugged in
+
+Push A on the keyboard to force keyboard play.
+
+Push B on the keyboard to restore joypad play.
+
+Remap keyboard keys:
+-press A then "space"
+
+Return to main screen 
+
+-Press joypad button 1
+-Press "Enter"
+
+
+BASIC CONTROLS
+
+Attack withmain weapon
+
+Jump
+
+Jump down (while being on stairways etc..)
+
+Throw a subweapon (need hearts)
+
+Upgrade of Downgrade Item crash level ( when you've got many levels)
+
+Use subweapon in o more powerful way (need hearts)
+
+Crouch
+
+Enter a door or speak with someone
+
+Use special moves (have to be earned)
+
+Engage in a stairway
+
+use the stairway
+
+PAUSE GAME
+
+RESET
+
+QUIT GAME
+
+GAME OVER
+
+
+-Game over
+
+Restart current level
+
+Return to map
+
+Quit game
+
+
+-map
+
+
+NORMAL MOVES
+
+JUMP
+
+JUMP DOWN
+
+CROUCH
+
+ATTACK
+
+SUBWEAPON
+
+ITEM CRASH
+
+ENTER/SPEAK
+
+
+SPECIAL MOVES
+
+GROUND RUSH
+
+DOUBLE JUMP
+
+WHIRLWIND
+
+AIR RUSH
+
+AIR FLOAT
+
+
+MAP
+
+ITEMS
+
+MOVES
+
+SAVE
+
+
+-cutscene before final stage
+
+There's still an evil presence..
+Efrain is now ready for the very last fight.
+
+-cutscene before discovered the town
+
+The town of Ruhigestadt. lies over there.
+I hope to find some help there...
+
+
+-cutscene before opening stage
+
+1776 
+CEMETERY OF SEGOVIA, SPAIN
+
+The people of Segovia are scared. Very strange and disturbing events appear in the town's cemetery.
+
+Efrain Lecarde, a knight of the church has been sent to discover what is going on...
+
+
+-secret easter egg
+
+This Castlevania fangame was made by Miguel Perez from France.
+
+Music arrangement or remix:
+-Jorge D Fuentes
+-Kevin Mac leod
+-Mig
+-B.Busta
+
+
+-Katharina's last
+
+Katharina's last move...
+
+
+-Castle crumbles
+
+It's over...
+
+The evil VonViltheim castle collapsed.
+
+Efrain Lecarde's struggle against evil ended there.
+
+The sun is shining and a gentle wind blows in the mountains...
+It's time to go back to home...
+
+
+- text before staff
+
+Von Viltheim castle was a holy placeyears ago .
+
+The great Katharina was the most clever and beautiful woman in all of Austria. She was seduced by the devil and led the family down the path of doom.
+Some of the family members dealt then with the devil.
+Liese wanted eternal beauty.
+Gerof wanted to be the greatest hunter.
+Wilhelm became a vampire.
+Leopold attraction for necromancy lost his mind.
+Friedrich was defacedby his experiments. He disappeared then behind the mirror.
+The presence of evil has now vanished in the Von Viltheim district.
+The people will be forever grateful to Efrain.
+
+
+-staff credit
+PROGRAMMER
+MIG
+GRAPHICS
+MIG
+MUSICS
+JORGE D FUENTES
+JEFFREY MONTOYA
+B.BUSTA
+KEVIN MAC LEOD
+MIG
+TRANSLATION
+English Mig
+French Mig
+Spanish Pfil
+German Flaumi mcflaum
+SPECIAL THANKS
+The beta testers
+Juan Carlos Perez
+Alain Perez
+Francisco Perez
+Emile Perez
+
+Castlevania Dungeon
+Konami
+and..x
+
+
+-Ending B
+
+1781 Segovia, Spain.
+
+Efrain Lecarde Passed away after a long struggle with a mysterious disease.
+He was doomed by Katharina's curse...
+
+
+-Ending A
+
+I cannot fight anymore...
+
+After his fight against "Death" Efrain had to withdraw.
+
+Seriously wounded he could not fight further so he left the evil castle. He returned to Segovia after a long and tire some journey. His heart was full of sorrow.
+
+Many holy fighters were then sent by Vatican. When they reached the castle they heard the dreadful laugh of Katharina.
+Then the castle disappeared..
+
+
+-Ending C
+
+1781 Segovia, Spain.
+In the middle of the night Efrain received a message sent by the Pope himself.
+A new adventure is about to begin. But that's another story...

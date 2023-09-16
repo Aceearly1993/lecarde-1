@@ -1,0 +1,1263 @@
+- PROLOGUE BOSS
+
+P1:
+You've got the power: ITEM CRASH LEVEL 1
+你获得了能力：副武器粉碎技1级
+
+P2:
+You can now use your subweapon in a more powerful way.
+你可以激发副武器的深层潜力了。
+
+P3:
+The red numbers indicate how many hearts are needed  to use the current item crash.
+红色的数字表示当前选中的副武器粉碎技所需的红心数量。
+
+P4:
+Press UP and item crash button to use it.
+按住方向键上+副武器粉碎按键来释放。
+
+P5:
+(With enough hearts)
+（需要有足够对红心）
+
+P6:
+
+
+-----------------------
+
+- OPENING
+
+P1: 
+Evil energy merges from that stone monument .
+邪恶的能量在从这块石碑上散发出来。
+
+P2:
+That is the emblem of    " Von Viltheim" .
+That noble family has lands in Austria .
+这块石碑上有“冯.维尔特海姆”家族的纹章。
+那个贵族家庭在奥地利拥有很多土地。
+
+P3:
+Some of their noblemen came here in Spain in the early  century .
+他们家族里的一部份成员在这个世纪初搬来西班牙这里居住了。
+
+P4:
+Their castle in Spain was mysteriously destroyed in 1725 .
+他们在西班牙这里的城堡，从1725年的某一天以后神奇地消失了。
+
+P5:
+The Von Viltheim main castle lies on a lake in northern Austria .
+冯.维尔特海姆家的主城在奥地利北部的一片偏僻小湖边上。
+
+P6:
+Two brothers Wilhelm and Leopold and the sister Katharina live there .
+
+
+P7:
+I should go in Austria and investigate ...
+我应该去奥地利调查这些灵异事件...
+
+-----------------------
+
+- ruhigestadt
+
+P1: 
+You must find some information before you leave this town.
+你需要先得到重要信息再离开这个小镇。
+
+P2:
+This street will lead you outside of town.
+前面这条街是通往镇外边的路。
+
+P3:
+PRESS UP in front of the street to leave the town.
+在街道的前面按方向键上的话可以离开小镇。
+
+P4:
+Very disturbing events are occurring in this land.
+最近各种灵异事件在这片土地上发生了。
+
+P5:
+This town is the only haven that is left in this land.
+这座小镇是整片土地上仅存的安居乐园。
+
+P6:
+Nobody can approach the castle. An invisible barrier prevents anyone from entering it.
+没有人能前去靠近城堡。城外有一道隐形的屏障阻挡着任何前来的人。
+
+P7:
+What happened to the respected Von Viltheim family?
+
+It's unsettling..
+过去受人爱戴的冯.维尔特海姆家族到底发生什么了？
+真的令人不安...
+
+P8:
+You must gather the 6 parts of the VON VILTHEIM crest.
+你需要集齐冯.维尔特海姆家族纹章的6块碎片。
+
+P9:
+It's the only way for you to enter the castle.
+收集完成后你才可以进入城堡。
+
+P10:
+That house is abandoned. I'm pretty sure that  a valuable thing is hidden inside.
+旁边的房子被废弃了。我十分确定里面有很贵重的东西藏着。
+
+P11:
+You got the power of the 
+DOUBLE SHOT
+你获得了二连发牌
+
+
+P12:
+You can now throw 2 subweapons in a row.
+现在你可以同时放出两个副武器。
+
+P13:
+You found the 
+ORB OF TRUTH
+你得到了真实之宝珠。
+
+
+P14:
+That valuable item reveal what hidden treasures can be found in an area.
+用它的力量可以感知每个区域里隐藏的宝物。
+
+P15:
+When you select an area on the map, the items that can be found are displayed in the bottom-left corner of the screen.
+当你在地图上选择一个区域的时候，该区域里可以获得的宝物会在屏幕的左下角显示出来。
+
+P16:
+Hello young knight! 
+I'm too old now to explore the world.
+年轻的骑士你好！
+我很想环球旅行，但是我现在老到走不动了。
+
+P17:
+I've got a very valuable item that will surely help you in your quest.
+我这里有一件宝物，相信它能在你的旅途之中帮到你。
+
+P18:
+You can pick it up in my room..
+你可以在我的房间里拿上它...
+
+P19:
+Please use the power of the orb to deliver our land from the shadows.
+请善用这宝珠的力量，为我们的这片土地祛除邪恶的阴霾。
+
+
+P20:
+Welcome to my tavern "Der goldenen Adler". Lots of travelers come in to have a drink and talk about their travels.
+欢迎来到我的酒馆“金鹰之家”。有很多客人经常来这里饮酒叙旧，分享彼此的旅途经历。
+
+P21:
+I know that the Von Viltheim family has a powerful crest.
+我知道冯.维尔特海姆家族有一个充满魔力的纹章。
+
+P22:
+That crest has been broken into parts. The pieces of it are scattered across the land.
+那个纹章被打碎成了好几块，散落在了这土地上的各个区域。
+
+P23:
+Are you a knight of the Church?
+你是教会来的骑士先生吗？
+
+P24:
+I know that the Vatican uses these knights when very unholy and strange events occur in the Christendom.
+我听说梵蒂冈会往基督教国里严重的灵异事件发生的地带派遣教会直属的骑士。
+
+P25:
+Henri Sardis the priest comes from France. He used to be a very comforting man .
+Now he looks very strange !
+亨利.萨迪斯是从法国来的牧师。他以前是位气质优雅的绅士。
+但是他现在的行为举止很怪异！
+
+P26:
+Some people say that he can bless weapons and reinforce them!
+有人说他的法力可以给副武器进行祝福并且强化它们。
+
+P27:
+Welcome ! I see you're also a soul of the church .
+
+P28:
+I don't know what happen's to  me ... I fell bad...I'm weak ...
+
+P29:
+That is not a disease ... I feel a nasty presence coming from the roof of my church...
+Please help me !
+
+P30:
+My mother doesn't allow me to leave the town. She says that our land is becoming very dangerous.
+我的妈妈不让我离开这个小镇。她说小镇外面的地方太危险了。
+
+P31:
+You are from Spain! Why did you come so far in Austria?
+你是从西班牙来的！为什么你要赶到奥地利这里来？
+
+P32:
+The Von Viltheim family had a castle in Spain? I didn't know that. I hope that all will be ok.
+哦，冯.维尔特海姆家族在西班牙有个城堡？没听说过啊。希望他们都会好起来的。
+
+P33:
+The inn "Das weisse Einhorn" and the church are really close. If you could climb on the roof of the inn maybe you could reach the roof of the church.
+“白色独角兽”旅馆跟教堂位置很近。如果你能爬到旅馆的房顶上的话你应该能踩着房顶到教堂的楼上。
+
+P34:
+Welcome to "Das weisse Eihnhorn". If you need to rest you are welcome here.
+欢迎来到“白色独角兽”旅馆。如果你想休息的话这里很方便入住。
+
+P35:
+You can also eat very good specialties of Austria.
+你还可以品尝奥地利的各种特产美食。
+
+P36:
+Areas are full of secrets! Sometimes when you strike a wall you will find hidden items.
+各处的区域都有秘密！在某些地方如果对着墙攻击的话你可能会找到隐藏的道具。
+
+P37:
+Powerful monsters keep the parts of the crest. Be sure to be prepared to fight them.
+强大的魔物守护着纹章的碎片。迎战它们之前要做好万全的准备。
+
+P38:
+Some people can master "ITEM CRASH LEVEL 3". At this level you could become invisible, regenerate your life, your SP etc.
+有一部分人可以掌握“副武器粉碎技3级”。在这个等级你可以使用各种能力，比如隐身，恢复体力，恢复精神力等等。
+
+P39:
+Unfortunately these item crashes need lots of hearts to be utilized.
+但是这些副武器粉碎技需要很多的红心才能释放。
+
+P40:
+Welcome! I have some items you may be interested in..
+欢迎光临！我有些道具可能帮得上你...
+
+P41:
+LIFE MAX EXTEND
+
+It will increase your  life bar.
+Give me 70 Hearts and it will be yours.
+
+体力最大值提升
+这道具可以增强你的体力。
+给我70红心以后你可以取走它。
+
+P42:
+SP MAX EXTEND
+
+It will increase your  SP bar.
+Give me 50 Hearts and it will be yours.
+
+精神力最大值提升
+这道具可以增强你的精神力。
+给我50红心以后你可以取走它。
+
+P43:
+Your life bar increased.
+你的体力增强了。
+
+P44:
+Your SP bar increased.
+你的精神力增强了。
+
+P45:
+Good afternoon!
+You want to find parts of the Von Viltheim crest?
+The family's members used to hunt and take rest in their summer estate.
+
+下午好呀！
+你是要去寻找冯.维尔特海姆家族纹章碎片的吗？
+这家族的成员们以前经常在他们的夏季庄园里狩猎跟休息。
+
+P46:
+That estate is in the southern forest ..
+There are also ruins lying in a little island which could keep some secrets.
+他们的营地在南方丛林中...
+在另一边的小岛上还有座古城的废墟，里面可能藏有些宝物。
+
+P47:
+RUINS and HUNTING GROUND are now available on the map.
+古城废墟和猎营地的位置现在记在地图上了。
+
+P48:
+Be careful because this land is full of danger!
+千万要小心，这片土地上到处都是凶恶的魔物！
+
+P49:
+CHAIN
+
+It will increase your strength.
+Give me 70 Hearts and it will be yours.
+
+锁链鞭
+这鞭子可以增强你的攻击力。
+给我70红心以后你可以取走它。
+
+P50:
+You've got the CHAIN.
+
+你得到了锁链鞭。
+
+P51:
+I come from southern Austria.
+I went to Ungestadt to visit my family.
+
+我是从奥地利南部来的。
+我要去翁格施塔特探望我的家人。
+
+P52:
+But I discovered that the city was abandoned. An evil mist covered the city and dangerous monsters invaded it.
+
+但是我发现这座城荒废了。有一股充斥邪恶力量的浓雾笼罩在这城里，还有凶恶的魔物占据在各处。
+
+
+P53:
+I learned that the eastern monastery was also abandoned, and that the monks disappeared.
+我还打听到东边的修道院也废弃了，里面的僧侣们全都失踪了。
+
+P54:
+Oh, wait! A traveler I met said "Anyone who values their life shouldn't wander around northern mountains" .. These were his words.
+哦等下！我想起来有个旅行者跟我说过这些话：“如果你爱惜你的生命，就不要往北部山脉那边去...”
+
+P55:
+UNGESTADT, MONASTERY and NORTHERN MOUNTAINS are now available on the map.
+翁格施塔特城，废修道院和北部山脉的位置现在记在地图上了。
+
+P56:
+Should we leave this land? 
+我们应该离开这片土地吗？
+
+P57:
+....................................
+
+P58:
+Oh I feel better. What happened?
+哦，我现在好多了。发生什么事了？
+
+P59:
+What! A Yorik was walking on the roof of my church?
+什么！有一只骷髅小子走到我的教堂楼顶上了？
+
+P60:
+I'm very glad that you destroyed it.
+我很高兴你能把它消除掉。
+
+P61:
+I'm going to bless you..
+现在我要为你的武器进行洗礼...
+
+P62:
+SILVER DAGGER will now become: 
+GOLDEN DAGGER
+白银飞刀现在强化成为：
+黄金飞刀
+
+P63:
+CRIMSON CROSS will now become: 
+SILVER CROSS 
+深红十字架现在强化成为：
+纯银十字架
+
+P64:
+HAND AXE will now become: 
+HEAVY AXE
+片手斧现在强化成为：
+重斧
+
+P65:
+PINK DIAMOND will now become: 
+PURE DIAMOND
+粉色钻石现在强化成为：
+纯钻石
+
+P66:
+May god help you to fulfill your mission.
+愿主能保佑你完成你的退魔任务。
+
+P67:
+You need SP to use your special skills.
+(Green bar). If your SP drops to 0, do not panic.. After 5 seconds you will recover a little SP.
+
+你需要精神力来使用你的特殊技能
+（绿色的槽），如果你的精神力减为0，不要慌张... 5秒以后你会回复一些精神力。
+
+P68:
+There are several members of the Von viltheim family who are famous.
+有一些冯.维尔特海姆家族的成员很有名。
+
+P69:
+Gerof was a great hunter. 
+(Spanish script: Gerof was a great hunter. Majestic animals are victims of his accurate shot.)
+杰洛夫是一位优秀的猎手。
+
+P70:
+Wilhelm was a great musician. He loved the sound of bats in flight.
+(Spanish script: Wilhelm was a great musician. He loved the sound of bats in flight, like a nocturnal symphony echoing through the desolate winter forests.)
+威廉是一位杰出的音乐家。他喜欢在夜晚的丛林中飞行的蝙蝠的声音。
+
+P71:
+Liese was a very beautiful girl. She died very young. Her tomb is full of roses. 
+(Spanish script: Liese was very precious, but an illness cut short her life in the prime of her youth. Her tomb, covered with roses, is a testimony to the injustices to which this world exposes us.)
+丽泽是一位很美丽的少女。她行事很有礼貌，惹人疼爱，但是一场疾病夺走了她正值青春年华的生命。
+
+P72:
+Friedrich was a great scientist. He conducted many experiments.
+(Spanish script: Friedrich was a great scientist, renowned in the community for his important experiments. He never reached his potential, and gradually lost track of reality.)
+弗雷德里希是一位伟大的科学家，他的各项发明在学术领域颇有知名度。但是他的科研项目始终无法得到更进一步的技术性突破，逐渐地他失去了理智。
+
+P73:
+Leopold's library is the largest in Europe. One day he found a necromancy book.
+(Spanish script: Leopold built the largest library in Europe. One day he found a book of Necromancy. Little did he know then that his destiny would change forever.)
+利奥珀德有一座全欧洲最大的图书馆。有一天他发现了一本黑魔导书。但是他不知道的是，他的命运会在那一天发生戏剧性的转变。
+
+P74:
+Duchess Katharina was so clever, wise and gorgeous.
+(Spanish script: Duchess Katharina was so clever, wise and gorgeous. Could everything have been so different?)
+女伯爵卡瑟琳娜是一位非常美丽，聪慧，温柔的人。但是在某一天之后，一切都不复从前了。
+
+
+P75:
+They are all dead now.
+(Spanish script: Nothing remains of them, more than the memory lost in the scrolls of history. Everything is so different...)
+关于他们的东西全都消失了，只有民众对他们的记忆仍然留存在历史的记载之中。
+
+P76:
+You can turn back to exit an area, but only at the beginning of the area.
+你可以在一个区域的开始处调头退出该区域，但是如果已经前往区域更深处的话就不可以调头退出了。
+
+-----------------------
+
+- text item name
+
+P1: 
+Heart
+红心
+
+P2:
+Medium heart
+大红心
+
+P3:
+Big heart
+超大红心
+
+P4:
+Green heart
+绿红心
+
+P5:
+Medium green heart
+大号绿心
+
+P6:
+Big green heart
+超大号绿心
+
+P7:
+Grapes
+葡萄
+
+P8:
+Rosario
+十字念珠
+
+P9:
+Cheese
+奶酪
+
+P10:
+Chicken leg
+鸡腿
+
+P11:
+Chicken
+烤全鸡
+
+P12:
+Silver dagger
+白银飞刀
+
+P13:
+Crimson cross
+深红十字架
+
+P14:
+Hand axe
+片手斧
+
+P15:
+Holy water
+圣水
+
+P16:
+Pink diamond
+粉色钻石
+
+P17:
+1 UP
+
+P18:
+Jar
+无敌药水
+
+P19:
+Orb of power
+魔力宝珠
+
+P20:
+Gold dagger
+黄金飞刀
+
+P21:
+Silver cross
+纯银十字架
+
+P22:
+Heavy axe
+重斧
+
+P23:
+Sacred water
+清水
+
+P24:
+Pure diamond
+纯钻石
+
+P25:
+White orb
+白宝珠
+
+P26:
+Gold orb
+金宝珠
+
+P27:
+Life container
+体力上限容器
+
+P28:
+Green container
+精神力上限容器
+
+P29:
+Heart container
+红心上限容器
+
+P30:
+Double shot
+二连发牌
+
+P31:
+Triple shot
+三连发牌
+
+P32:
+Blessing
+祝福
+
+P33:
+Wind statuette
+旋风雕像
+
+P34:
+Pilgrim statuette
+朝圣者雕像
+
+P35:
+Angel statuette
+天使雕像
+
+P36:
+Eagle statuette
+雄鹰雕像
+
+P37:
+Medusa statuette
+美杜莎雕像
+
+P38:
+Globe of truth
+真实之宝珠
+
+P39:
+Crest part
+纹章碎片
+
+P40:
+Boss enemy
+头目敌人
+
+
+-----------------------
+
+- text weapons
+
+P1:
+Alcarde 
+           whip
+李卡德之鞭
+
+P2:
+  Long 
+         whip
+长皮鞭
+
+P3:
+      Chain
+锁链鞭
+
+P4:
+ Iron 
+       rose
+铁蔷薇鞭
+
+P5:
+ Gilt
+       slayer
+金鞭
+【断罪者】
+
+P6:
+
+-----------------------
+
+
+- text item
+
+P1: 
+Earn 1 heart.
+增加1点红心。
+
+P2:
+Earn 5 hearts.
+增加5点红心。
+
+P3:
+Earn 20 hearts.
+增加20点红心。
+
+P4:
+Gives some special power.
+回复少量精神力。
+
+P5:
+Gives more special power.
+回复部分精神力。
+
+P6:
+Gives a lot of special power.
+回复大量精神力。
+
+P7:
+Gives all your special power.
+回复全部精神力。
+
+P8:
+Causes serious damages to close enemies.
+对画面中的所有敌人造成大伤害。
+
+P9:
+Gives some life points.
+回复部分体力。
+
+P10:
+Gives more life points.
+回复大量体力。
+
+P11:
+Gives all your life points.
+回复全部体力。
+
+P12:
+Thrown straight forward. Fast but not very powerful.
+向正前方投掷飞刀。速度快但是不算很强。
+
+P13:
+Powerful weapon that reverses it movement.
+强力的副武器，在投出一段时间后可以折返。
+
+P14:
+Powerful weapon thrown up.
+强力的副武器，对空中的敌人有特效。
+
+P15:
+Burns the ground enemies.
+着地后会形成火焰，连续烧灼敌人。
+
+P16:
+bounce against walls.
+投出后遇到墙壁会进行反弹。
+
+P17:
+Give one extra life.
+获得额外生命。
+
+P18:
+Gives invincibility for a while.
+服用后一段时间内会无敌。
+
+P19:
+Increase damages caused by Efrain's main weapon.  Be careful it will be lost if Efrain gets touched by the enemy .
+提升艾尔弗林的主要武器的攻击力。要注意的是受到伤害后它的加持就会消失掉。
+
+P20:
+Thrown straight forward. Fast but not very powerful.
+向正前方投掷飞刀。速度快但是不算很强。
+
+P21:
+Powerful weapon that reverses it movement.
+强力的副武器，在投出一段时间后可以折返。
+
+P22:
+Powerful weapon throwed up.
+强力的副武器，对空中的敌人有特效。
+
+P23:
+Burns the ground enemies .
+着地后会形成火焰，连续烧灼敌人。
+
+P24:
+bounce against walls.
+投出后遇到墙壁会进行反弹。
+
+P25:
+Increase max level of the item crash.
+提升副武器粉碎技的等级。
+
+P26:
+Piece of the secret..
+里面藏着秘密...
+
+P27:
+Increase your life max.
+提升体力的最大值。
+
+P28:
+Increase your SP max.
+提升精神力的最大值。
+
+P29:
+Increase your maximum of carried hearts.
+提升同时可持有红心的最大值。
+
+P30:
+Allows Efrain to shot 2 subweapons in a row.
+可以同时放出两个副武器。
+
+P31:
+Allows Efrain to shot 3 subweapons in a row.
+可以同时放出三个副武器。
+
+P32:
+Strenghtens subweapons .
+将副武器进行强化。
+
+P33:
+Learn the special skill: WHIRLWIND.
+习得特殊技能之旋风斩。
+
+P34:
+Learn the special skill: GROUND RUSH.
+习得特殊技能之滑铲。
+
+P35:
+Learn the special skill: DOUBLE JUMP.
+习得特殊技能之二段跳。
+
+P36:
+Learn the special skill: AIR RUSH.
+习得特殊技能之空中冲刺。
+
+P37:
+Learn the special skill: AIR FLOAT.
+习得特殊技能之空中悬停。
+
+P38:
+Reveal the available treasures of an area.
+可以感知每个区域里隐藏的宝物。
+
+P39:
+Gather the 6 parts to destroy the magic barrier.
+将6块碎片收集完成后可以摧毁魔法屏障。
+
+P40:
+Powerful enemy that guards an area.
+守护着重要宝物的强大敌人。
+
+-----------------------
+
+- text moves
+
+P1: 
+When Efrain is standing on the ground.
+当艾尔弗林站在地上时使用。
+
+P2:
+When Efrain is standing on stairs or some platforms.
+当艾尔弗林站在台阶上或特殊的平台上时使用。
+
+P3:
+When Efrain is standing on the ground, jumping or crouched.
+当艾尔弗林在地上，跳跃中或者蹲下时使用。
+
+P4:
+While Efrain is standing on the ground or jumping.
+
+Efrain must have enough hearts.
+
+当艾尔弗林在地上，或者跳跃中时使用。
+消耗红心。
+
+P5:
+Lv 1 can be done while standing on the ground or jumping .LV 2 and 3 only while standing on the ground . The red number indicates the amount of hearts needed.
+副武器粉碎技：1级在地上和空中都可以使用。2级和3级只能在地上使用。红色的数字代表副武器粉碎技消耗红心的数量。
+
+P6:
+While Efrain is standing on the ground and faces a door or a person.
+当艾尔弗林面前有物品可以调查或者有人可以交谈时使用。
+
+P7:
+When Efrain is standing on the ground. 
+
+Do not need SP.
+
+当艾尔弗林站在地上时使用。不消耗精神力。
+
+P8:
+While Efrain is jumping.
+
+Do not need SP
+
+当艾尔弗林在跳跃时使用。不消耗精神力。
+
+P9:
+When Efrain is standing on the ground. Can repel some enemies shots .
+
+Consumes lots of SP.
+
+当艾尔弗林站在地上时使用。可以反弹部分敌人的飞行道具。消耗精神力。
+
+P10:
+While Efrain is  jumping or dropping. 
+
+Consumes some SP.
+
+当艾尔弗林在空中时使用。消耗精神力。
+
+P11:
+While Efrain is jumping or dropping. 
+Consumes some SP.
+
+当艾尔弗林在空中时使用。消耗精神力。
+
+P12:
+You have not learned that skill yet.
+你尚未掌握此项技能。
+
+
+-----------------------
+
+- text beyond
+
+P1: 
+From here, you cannot turn back or use the save option.
+
+从这里开始，你无法再返回之前的区域或者使用记录功能。
+
+P2:
+A partir d'ici, vous ne pouvez ni sauvegarder ni revenir en arrière.
+
+P3:
+Desde aquí, no puedes volver o utilizar la opción de salvar partida.
+
+P4:
+Von hieraus kannst du nicht umkehren oder die Speicheroption auswählen.
+
+
+-----------------------
+
+- Boss beaten
+
+P1: 
+You find one of the six parts of the broken crest.
+
+你找到了六块纹章碎片的其中一块。
+
+-----------------------
+
+- HP UP get
+
+P1: 
+MAX HP extend.
+
+你的体力增强了。
+
+-----------------------
+
+- Defeat Gerof
+
+P1:
+You've have destroyed the ghost of Gerof Von Viltheim. You've also found the LONG WHIP.
+
+你击退了的杰洛夫.冯.维尔特海姆的亡灵。同时你发现了长皮鞭。
+
+-----------------------
+
+- Get whirlwind (Ruins 4)
+
+P1:
+  You've got the  WIND STATUETTE.
+你获得了旋风雕像。
+
+P2:
+You can now perform the "whirlwind attack".
+你现在可以使用特殊技能之旋风斩。
+
+P3: 
+Keep the "SPECIAL BUTTON" pressed down when Efrain is on the ground.
+当艾尔弗林站在地上时，长按住特技按键使用。
+
+P4: 
+The whirlwind attack can tear enemies apart and stop shots.
+旋风斩可以切碎敌人并且抵挡部分敌人的飞行道具。
+
+P5: 
+Use it carefully, because it consumes your SP metter..
+要慎重使用，因为它会大量消耗你的精神力...
+
+-----------------------
+
+- Heart UP get
+
+P1:
+Hearts max increased.
+红心最大值提升了。
+
+-----------------------
+
+- MP UP get
+
+P1: 
+Special power max extend.
+你的精神力增强了。
+
+-----------------------
+
+- Get double jump (Ungestadt 3)
+
+P1: 
+
+P2: 
+       You got the ANGEL STATUETTE.
+你获得了天使雕像。
+
+P3: 
+You can now perform a "double jump" .
+你现在可以使用特殊技能之二段跳。
+
+P4: 
+Push the JUMP button another time during a jump.
+在跳跃过程中再按一次跳跃键来发动。
+
+P5: 
+ You can perform a double jump, even if Efrain drops.
+二段跳在下落过程中也可以发动。
+
+-----------------------
+
+- Get slide (Riff Monasetry 2)
+
+P1: 
+You got the  PILGRIM STATUETTE.
+你获得了朝圣者雕像。
+
+P2: 
+You can now perform the GROUND RUSH.
+你现在可以使用特殊技能之滑铲。
+
+P3: 
+press the SPECIAL button when Efrain is croushed .
+当艾尔弗林下蹲时按特技键使用。
+
+P4: 
+You can pass by tight ways.
+滑铲可以穿过狭窄的通道。
+
+P5: 
+The "Ground rush" does not consume any SP.
+滑铲不需要消耗精神力。
+
+-----------------------
+
+- Get Item Crash upgrade (North Mountain 2, Basement 4)
+
+P1: 
+    Item crash MAX's level increased .
+副武器粉碎技的等级提升了。
+
+P2: 
+Your item crash MAX level increased .
+关于副武器粉碎技等级的提升
+P3: 
+You can now use your subweapon in a more powerful way than before.
+你可以激发副武器更深层的潜力了。
+
+P4: 
+You are invincible during an item crash level 2 or 3.
+在副武器粉碎技2级跟3级发动后，你有一段全身无敌的时间。
+
+P5: 
+You can upgrade or downgrade the item crash level by pressing the ITEM CRASH BUTTON.
+你也可以按副武器粉碎键对副武器粉碎技临时进行升级或者降级。
+
+-----------------------
+
+- At front of Castle Gate
+
+P1: 
+What's that?
+那是什么？？
+
+P2: 
+I am repelled by some magic force.
+我被某种魔法屏障弹开了。
+
+P3: 
+I wont be able to enter the castle!
+I must withdraw for now until i find a way to get inside.
+现在我无法进入前面的城堡！
+我只能暂时返回，寻找情报，用其他的方式来进入。
+
+P4: 
+There is a little town south of here called " Ruhigestadt".
+Perhaps i should search there for clues to break this barrier.
+在这里往南一点的地方应该有一个叫“卢黑格斯塔特”的小镇。
+我可能需要在这里寻找打破魔法屏障的的方法。
+
+P5: 
+The Von Viltheim family must hide a terrible secret..
+冯.维尔特海姆家族藏着一些非常危险的秘密...
+
+P6:
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!........
+
+
+-----------------------
+
+- Get Air Rush (Main Hall 1)
+
+P1: 
+
+
+P2: 
+  You get the EAGLE STATUETTE.
+你获得了雄鹰雕像。
+
+P3: 
+You can now perform the "AIR RUSH" move.
+你现在可以使用特殊技能之空中冲刺。
+
+P4: 
+Push the SPECIAL button during a jump or a drop.
+在空中按特技键来发动。
+
+P5: 
+The AIR RUSH consumes little SP.
+空中冲刺会消耗一些精神力。
+
+-----------------------
+
+- Main Hall boss
+
+P1: 
+You have made progress in the castle.
+You've reached the maze of curtains and the castle yard..
+
+你通过了城堡的入口大厅。
+你到达了迷路大广间跟中庭花园之间的交错地点。
+
+-----------------------
+
+- Maze of Curtain boss
+
+P1: 
+You've cleared this area of Wilhelm's evil presence.
+你消除了威廉的亡灵给这里带来的负面影响。
+
+-----------------------
+
+- Get Iron Rose (inner yard 2)
+
+P1: 
+You've got the Iron Rose.
+你获得了铁蔷薇鞭。
+
+-----------------------
+
+- Inner yard boss
+
+P1: 
+You've cleared this area ot Liese's ghost evil presence.. 
+你清除了丽泽的亡灵给这里带来的负面影响。
+
+-----------------------
+
+- Get Triple shot (Hall of Science 3)
+
+P1: 
+            You get the power of the :
+                 TRIPLE SHOT.
+你获得了三连发牌
+
+P2: 
+You can now throw 3 subweapons in a row.
+现在你可以同时发出3个副武器了。
+
+-----------------------
+
+- Hall of Science boss
+
+P1: 
+Be brave. You're fight is not over yet..
+不骄不躁，稳住心态。你的战斗尚未结束...
+
+-----------------------
+
+- Get Air Float (basement 1)
+
+P1: 
+You've got  MEDUSA STATUETTE.
+你获得了美杜莎雕像。
+
+P2: 
+You've got  MEDUSA STATUETTE.
+关于美杜莎雕像
+
+P3: 
+You can now perform: "Air float".
+你现在可以使用特殊技能之空中悬停。
+
+P4: 
+Hold down  UP + SPECIAL when Efrain drops.
+在空中按住方向键上+特技键发动。
+
+P5: 
+Efrain will float in air.
+艾尔弗林会在空中停滞于固定高度。
+
+-----------------------
+
+- Basement boss
+
+P1: 
+The basement of the castle was a holy place years ago. It is a doomed place now..
+城堡的地下室本来是神圣的地带。现在被邪恶力量侵蚀了...
+
+-----------------------
+
+- Get gilt slayer (condemned area 1)
+
+P1: 
+You found the GILT SLAYER.
+你获得了金鞭【断罪者】。
+
+-----------------------
+
+- condemned area boss
+
+P1: 
+You've reached the way to the last part of the castle. This evil place must be destroyed.
+你到达了通往城堡最上部的地带。邪恶力量必须被连根拔除。
+
+-----------------------
+
+- Moonlight hall boss
+
+P1:
+You feel the evil presence of Katharina.
+Could it be you're very last fight? The moon is so beautiful.
+
+你感受到了卡瑟琳娜邪恶的气息。
+这会是你最后的战斗吗？美丽的月光照亮着回廊的天台，你却得不到答案。
+
+-----------------------
+
+- Katharina Quarter boss
+
+P1:
+You've finished off the Frierich's lugubrious wandering. It must be late, the sun will rise soon. Katharina is waiting me somewhere below.
+
+你解脱了弗雷德里希长久徘徊于镜中的亡魂。可能有点晚了，太阳就快要升起来了。
+卡瑟琳娜应该在楼下的某个地方等着你。
+
+-----------------------
+
+- Ending B
+
+P1: 
+AVERAGE ENDING
+Try the Hard difficulty mode to get the best ending and unlock the BOSS RUSH mode.
+
+普通结局
+尝试通关最高难度吧，这样你可以得到最好结局并且解锁头目连战模式。
+
+P2: 
+FIN INTERMEDIAIRE
+Essayez le mode difficile pour obtenir la meilleur fin et débloquer le BOSS RUSH mode.
+
+P3: 
+FINAL INTERMEDIO
+Prueba el juego en máxima dificultad para tener el mejor final y desbloquear el BOSS RUSH modo.
+
+
+P4: 
+MITTLERES ENDE
+Spiele den schweren Schwierigkeitsgrad durch um das beste Spielende zu sehen und den BOSS RUSH Mode freizuschalten.
+
+
+-----------------------
+
+- Ending A
+
+P1: 
+BAD ENDING
+Try another difficulty mode to get better endings.
+糟糕的结局
+请尝试其他的难度模式来得到更好的结局。
+
+P2: 
+MAUVAISE FIN
+Essayez un autre niveau de difficulté pour obtenir de meilleurs fins.
+
+P3: 
+FINAL MALO
+Prueba otros modos de dificultad para tener mejores finales.
+
+
+P4: 
+SCHLECHTES ENDE
+Versuche einen höheren Schwierigkeitsgrad durchspielen für ein besseres Ende.
+
+
+-----------------------
+
+- Ending C
+
+P1: 
+BEST ENDING
+You are a very skilled player! Try the BOSS RUSH mode ...
+你是一位非常熟练的玩家！你可以挑战头目连战模式了...
+
+
+P2: 
+MEILLEURE FIN
+Vous êtes un très bon joueur. Pourquoi ne pas essayer le BOSS RUSH mode?
+
+P3: 
+MEJOR FINAL
+Eres un jugador muy hábil. Prueba el BOSS RUSH modo...
+
+
+P4: 
+BESTES ENDE
+Du bist ein sehr erfahrener Spieler! Versuche nun den BOSS RUSH Mode ...
