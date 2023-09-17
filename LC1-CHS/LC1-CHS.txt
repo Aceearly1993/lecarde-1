@@ -18,7 +18,7 @@ Press UP and item crash button to use it.
 
 P5:
 (With enough hearts)
-（需要有足够对红心）
+（需要有足够的红心）
 
 P6:
 
@@ -442,7 +442,7 @@ Big heart
 
 P4:
 Green heart
-绿红心
+绿心
 
 P5:
 Medium green heart
@@ -454,7 +454,7 @@ Big green heart
 
 P7:
 Grapes
-葡萄
+魔法葡萄
 
 P8:
 Rosario
