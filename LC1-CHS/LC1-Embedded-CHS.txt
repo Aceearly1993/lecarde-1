@@ -25,134 +25,187 @@ Hard
 
 
 DEFAULT CONTROLS
+按键设定
 
 -Joypad 1 if it is plugged in
+手柄按键
 
 -Keyboard if the joypad is not plugged in
+键盘按键
 
 Push A on the keyboard to force keyboard play.
+按键盘按键A来强制使用键盘按键。
 
 Push B on the keyboard to restore joypad play.
+按键盘按键B来重新启用手柄按键
 
 Remap keyboard keys:
 -press A then "space"
+重新设定键盘按键：
+-长按住A后按“空格键”
 
 Return to main screen 
+返回主界面
 
 -Press joypad button 1
 -Press "Enter"
 
+-按手柄功能键1
+-按“回车”
 
 BASIC CONTROLS
+基本操作
 
-Attack withmain weapon
+Attack with main weapon
+用主武器攻击
 
 Jump
+跳跃
 
 Jump down (while being on stairways etc..)
+从台阶上跳下（当脚下是楼梯或者可以翻下的平台时）
 
 Throw a subweapon (need hearts)
+使用副武器（需要红心）
 
 Upgrade of Downgrade Item crash level ( when you've got many levels)
+给副武器粉碎技升级或者降级（需要有足够多的粉碎等级）
 
-Use subweapon in o more powerful way (need hearts)
+Use subweapon in a more powerful way (need hearts)
+激发副武器的深层潜力（需要有红心）
 
 Crouch
+下蹲
 
 Enter a door or speak with someone
+进入房门或与人交谈
 
 Use special moves (have to be earned)
+使用特殊技能（技能需要习得）
 
 Engage in a stairway
+登上台阶
 
 use the stairway
+在台阶上移动
 
 PAUSE GAME
+暂停游戏
 
 RESET
+从标题画面重新启动游戏
 
 QUIT GAME
+退出游戏
 
 GAME OVER
-
+游戏结束
 
 -Game over
 
 Restart current level
+重新开始当前关卡
 
 Return to map
+回到主地图
 
 Quit game
-
+结束游戏
 
 -map
 
 
 NORMAL MOVES
+通常技能
 
 JUMP
+跳跃
 
 JUMP DOWN
+跳下
 
 CROUCH
+下蹲
 
 ATTACK
+攻击
 
 SUBWEAPON
+副武器
 
 ITEM CRASH
+副武器粉碎技
 
 ENTER/SPEAK
-
+进门/交谈
 
 SPECIAL MOVES
+特殊技能
 
 GROUND RUSH
+滑铲
 
 DOUBLE JUMP
+二段跳
 
 WHIRLWIND
+旋风斩
 
 AIR RUSH
+空中冲刺
 
 AIR FLOAT
+空中悬停
 
 
 MAP
+选择目的地
 
 ITEMS
+道具说明
 
 MOVES
+技能说明
 
 SAVE
-
+保存进度
 
 -cutscene before final stage
 
 There's still an evil presence..
 Efrain is now ready for the very last fight.
+邪恶的根源还没有被清除...
+艾尔弗林正准备迎接最终决战。
 
 -cutscene before discovered the town
 
 The town of Ruhigestadt. lies over there.
 I hope to find some help there...
-
+“卢黑格斯塔特”小镇...应该就在附近。
+希望能在这镇上找到有用的信息...
 
 -cutscene before opening stage
 
 1776 
 CEMETERY OF SEGOVIA, SPAIN
+1776年
+西班牙，塞戈维亚，郊外某处的墓地
 
 The people of Segovia are scared. Very strange and disturbing events appear in the town's cemetery.
+塞戈维亚的民众们笼罩在恐惧之中。各种灵异事件自墓地中发生，威胁到附近民众们的生命安全。
+
 
 Efrain Lecarde, a knight of the church has been sent to discover what is going on...
-
+艾尔弗林.李卡德，作为教会直属的骑士，被派遣到该地区调查此次灵异事件的始末...
 
 -secret easter egg
 
 This Castlevania fangame was made by Miguel Perez from France.
+本作品是来自法国的Miguel Perez制作的致敬《恶魔城》系列的同人作品。
 
 Music arrangement or remix:
+本游戏中音乐的编曲与重制担当：
+
 -Jorge D Fuentes
 -Kevin Mac leod
 -Mig
@@ -162,41 +215,61 @@ Music arrangement or remix:
 -Katharina's last
 
 Katharina's last move...
-
+卡瑟琳娜的最后行动...
 
 -Castle crumbles
 
 It's over...
+漫长而艰苦的战斗结束了。
 
-The evil VonViltheim castle collapsed.
+The evil Von Viltheim castle collapsed.
+邪恶笼罩的冯.维尔特海姆城坍塌了。
 
 Efrain Lecarde's struggle against evil ended there.
+艾尔弗林与邪恶力量的抗争也宣告结束。
 
 The sun is shining and a gentle wind blows in the mountains...
 It's time to go back to home...
-
+美丽的阳光久违地照耀在冯.维尔特海姆地区上空，清新爽朗的风吹过山脉，尝试抚平它的伤痛...
+现在该是回家休息的时候了...
 
 - text before staff
 
-Von Viltheim castle was a holy placeyears ago .
+Von Viltheim castle was a holy place years ago.
+冯.维尔特海姆城过去曾经是神圣之地。
 
 The great Katharina was the most clever and beautiful woman in all of Austria. She was seduced by the devil and led the family down the path of doom.
+现在这一代的家主，卡瑟琳娜，曾是整个奥地利里最美丽，聪慧，温柔的女人。但是某一天她被恶魔所诱惑，与恶魔签订了契约，最终导致整个家族走向毁灭。
+
 Some of the family members dealt then with the devil.
+一些家族成员选择跟随卡瑟琳娜一起与恶魔签订契约。
+
 Liese wanted eternal beauty.
+丽泽得到了永恒的美丽。
+
 Gerof wanted to be the greatest hunter.
+杰洛夫成为了奥地利最优秀的猎手。
+
 Wilhelm became a vampire.
+威廉成为了吸血鬼。
+
 Leopold attraction for necromancy lost his mind.
-Friedrich was defacedby his experiments. He disappeared then behind the mirror.
+利奥珀德沉迷于黑魔导术的改进与开发，最终迷失了理智。
+
+Friedrich was defaced by his experiments. He disappeared then behind the mirror.
+弗雷德里希被他制造的实验体毁容了。之后他消失在了镜子当中。
+
 The presence of evil has now vanished in the Von Viltheim district.
 The people will be forever grateful to Efrain.
 
+冯.维尔特海姆地区的邪恶力量被根除之后，民众由衷地感激着艾尔弗林.李卡德退魔的功勋。
 
 -staff credit
 PROGRAMMER
 MIG
 GRAPHICS
 MIG
-MUSICS
+SOUND
 JORGE D FUENTES
 JEFFREY MONTOYA
 B.BUSTA
@@ -218,29 +291,58 @@ Castlevania Dungeon
 Konami
 and..x
 
+REWORKED
+LC1 Rework Community
+Aceearly1993
+Katriel
+DragonX24
+
+
 
 -Ending B
 
 1781 Segovia, Spain.
+1781年，西班牙，塞戈维亚
 
 Efrain Lecarde Passed away after a long struggle with a mysterious disease.
 He was doomed by Katharina's curse...
+艾尔弗林在跟罕见的疾病抗争了两年以后败给了病魔，离开了人间。
+但是实际上他败给了卡瑟琳娜的诅咒...
 
 
 -Ending A
 
 I cannot fight anymore...
+“我不能继续战斗了...”
 
 After his fight against "Death" Efrain had to withdraw.
+在与死神交战之后艾尔弗林体力不支，只能撤退。
 
 Seriously wounded he could not fight further so he left the evil castle. He returned to Segovia after a long and tire some journey. His heart was full of sorrow.
+遍体鳞伤的他无法再继续战斗，选择了离开恶魔之城。经过漫长而疲惫的旅途之后艾尔弗林回到了塞戈维亚，他的心中充满着懊悔与哀伤。
 
 Many holy fighters were then sent by Vatican. When they reached the castle they heard the dreadful laugh of Katharina.
 Then the castle disappeared..
+之后有很多骑士被梵蒂冈的教会派遣到这里。但是当他们来到城堡以后，他们听到了卡瑟琳娜邪恶的笑声。
+之后冯.维尔特海姆城消失了...
+
+In 1777 the entire vegetation of the region died. The water coming from northern mountains was poisoned.
+时间到了1777年，整个冯.维尔特海姆地区里的植物都枯死了。北部山脉附近的河流里的水也成了毒水。
+
+The Pope proclaimed that the region was damned.
+事件报告给教皇之后，教皇宣布将此区域列为禁区。
+
+Nobody shall enter it, forever...
+任何人不得以任何形式进入，此地永久封锁...
 
 
 -Ending C
 
 1781 Segovia, Spain.
+1781年，西班牙，塞戈维亚
+
 In the middle of the night Efrain received a message sent by the Pope himself.
+在午夜时分，艾尔弗林收到了教皇的亲笔来信，有一个任务要委托给他去完成。
+
 A new adventure is about to begin. But that's another story...
+一段新的旅程即将开始。但那是后话了...
