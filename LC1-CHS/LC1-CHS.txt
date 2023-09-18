@@ -1151,7 +1151,7 @@ Efrain will float in air.
 
 P1: 
 The basement of the castle was a holy place years ago. It is a doomed place now..
-城堡的地下室本来是神圣的地带。现在被邪恶力量侵蚀了...
+城堡的地下室本来是神圣之地。现在被邪恶力量侵蚀了...
 
 -----------------------
 
