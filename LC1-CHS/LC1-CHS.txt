@@ -899,7 +899,7 @@ MAX HP extend.
 P1:
 You've have destroyed the ghost of Gerof Von Viltheim. You've also found the LONG WHIP.
 
-你击退了的杰洛夫.冯.维尔特海姆的亡灵。同时你发现了长皮鞭。
+你击退了杰洛夫.冯.维尔特海姆的亡灵。同时你发现了长皮鞭。
 
 -----------------------
 
