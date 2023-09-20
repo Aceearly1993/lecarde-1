@@ -1246,6 +1246,7 @@ Versuche einen höheren Schwierigkeitsgrad durchspielen für ein besseres Ende.
 P1: 
 BEST ENDING
 You are a very skilled player! Try the BOSS RUSH mode ...
+最佳结局
 你是一位非常熟练的玩家！你可以挑战头目连战模式了...
 
 
