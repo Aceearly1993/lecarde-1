@@ -140,7 +140,7 @@ I've got a very valuable item that will surely help you in your quest.
 
 P18:
 You can pick it up in my room..
-你可以在我的房间里拿上它...
+你可以在我的房间里拿到它...
 
 P19:
 Please use the power of the orb to deliver our land from the shadows.
