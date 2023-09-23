@@ -1,4 +1,3 @@
-Beware: This project has been temporarily abandoned due to technical problems. If anybody has the technical power to recover the game's mfa, be sure to contact us.
 
 
 ## Description
@@ -29,5 +28,19 @@ To get the base source code, go to "Releases", choose the tags with newer date. 
 
 `START` Project is resumed!
 
+
+## Special Thanks
+
+
+- Migami Games
+- Konami
+- palmymkgames
+- Aceearly1993
+- DragonX24
+- mashedpotatoes312
+- Jorge. D. Fuentes
+- Exorion Hagen
+
+... and all the people in game credits.
 
 
