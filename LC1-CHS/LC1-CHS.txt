@@ -276,7 +276,7 @@ There are also ruins lying in a little island which could keep some secrets.
 
 P47:
 RUINS and HUNTING GROUND are now available on the map.
-古城废墟和猎营地的位置现在记在地图上了。
+古城废墟和狩猎场的位置现在记在地图上了。
 
 P48:
 Be careful because this land is full of danger!
