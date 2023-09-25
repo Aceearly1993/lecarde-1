@@ -29,8 +29,8 @@ The "Binary" contains the generate .exe file.
 
 - Add in-game GUI and functions to freely edit controller input in the game (like in reworked LC2)
 - Make the game's data compatible to 289.3 or higher versions of Clickteam Fusion. This is because the game will break in following places if the game's project file is loaded in 289.3 or higher versions:
-         - One background will break in Hunting Ground part 2 sub boss (the hive)
-         - At several places contain large swinging spiked balls, their collision will break (Science Hall part 1, part 2, Katharina's quarter part 3 have them)
+- -  One background will break in Hunting Ground part 2 sub boss (the hive)
+- -  At several places contain large swinging spiked balls, their collision will break (Science Hall part 1, part 2, Katharina's quarter part 3 have them)
 - Several music clips and sound effect clips are needed to be replaced in order to get around copyright infringement risks. This case needs additional helps from composers/sound effect creators.
 
  
@@ -41,32 +41,33 @@ The "Binary" contains the generate .exe file.
  #### [0.2.0] - 2023/9/25 #### 
 
 
-`RELEASE` - Initial soft launch to get baseline modern compatibility in place.
-`ADDED` - Simplified Chinese text.
-`ADDED` - Most of Simplified Chinese specific graphics.
-`FIXED` - An attempt to fix a bug in original by set the game's window to always focus.
-`CHANGED` - When the game is booting, the game will default to windowed mode instead of Fullscreen.
-`CHANGED` - The game's window can now be resized for better availability to video game streamers.
-`CHANGED` - Default Hotkeys:
-      Instant Game Over - From "Backspace" to "F7"
-      Soft reset - From "F2" to "Ctrl+F2"
-      Quit Game - Removed the function to instantly quit the game by pressing "Esc" (too annoying) 
-         The game's quit hotkey will now be Alt+F4 like most common games and programs.
-      Pause - From "Space" to "Esc" (there's considerable amount of people that will use Space for jump)
-`CHANGED` - Reworked UI to follow the change of hotkeys.
+`RELEASE` - Initial soft launch to get baseline modern compatibility in place.  
+`ADDED` - Simplified Chinese text.  
+`ADDED` - Most of Simplified Chinese specific graphics.  
+`FIXED` - An attempt to fix a bug in original by set the game's window to always focus.  
+`CHANGED` - When the game is booting, the game will default to windowed mode instead of Fullscreen.  
+`CHANGED` - The game's window can now be resized for better availability to video game streamers.  
+`CHANGED` - Default Hotkeys:  
+-    Instant Game Over - From "Backspace" to "F7"  
+-    Soft reset - From "F2" to "Ctrl+F2"  
+-    Quit Game - Removed the function to instantly quit the game by pressing "Esc" (too annoying)   
+         The game's quit hotkey will now be Alt+F4 like most common games and programs.  
+-    Pause - From "Space" to "Esc" (there's considerable amount of people that will use Space for jump)  
+
+`CHANGED` - Reworked UI to follow the change of hotkeys.  
 
 
  #### [0.1.0] - 2023/9/17 #### 
 
-`START`  - Project's start/resume.
+`START`  - Project's start/resume.  
 
 
 
  ### Special Thanks ###
 
-- Katriel
-- palmymkgames
-- Migami Games
+- Katriel  
+- palmymkgames  
+- Migami Games  
 
 
 
