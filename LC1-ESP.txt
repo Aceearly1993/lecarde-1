@@ -339,7 +339,7 @@ P17:
 1 UP
 
 P18:
-Jar
+Jarrón
 
 P19:
 Orbe de poder      
@@ -515,7 +515,7 @@ P25:
 Incrementa el nivel máximo de los Item Crash.
 
 P26:
-Parte del secreto?
+Parte del secreto...
 
 P27:
 Incrementa tu capacidad de vida.
@@ -545,7 +545,7 @@ P35:
 Aprender la habilidad especial: SALTO DOBLE.
 
 P36:
-Aprender la habilidad especial: DASH AREO.
+Aprender la habilidad especial: DASH AÉREO.
 
 P37:
 Aprender la habilidad especial:  FLOTAR.
@@ -579,7 +579,7 @@ Mientras Efrain está en el piso o saltando.
 Efrain debe tener suficientes corazones.
 
 P5:
-LV 1 puede ser llevado a cabo solo mientras se está en el piso o saltando. LV 2 y LV 3 solo desde tierra firme. El número rojo indica la cantidad de corazones necesarios.
+LV 1 puede ser llevado a cabo sólo mientras se está en el piso o saltando. LV 2 y LV 3 sólo desde tierra firme. El número rojo indica la cantidad de corazones necesarios.
 
 P6:
 Mientras Efrain está en tierra firme o de frente a una puerta o persona.
@@ -600,7 +600,7 @@ P11:
 Mientras Efrain está saltando o bajando. Consume SP.
 
 P12:
-No has aprendido esa habilidad todav韆.
+No has aprendido esa habilidad todavía.
 
 
 -----------------------
@@ -634,6 +634,17 @@ Has desterrado al fantasma de Gerof Von Viltheim. También has encontrado el LÁ
 P1:
 Tienes la ESTATUILLA DEL VIENTO.
 
+P2:
+Ahora puedes ejecutar el TORNADO.
+
+P3:
+Mantén presionado el BOTÓN ESPECIAL cuando Efrain se encuentra en el piso.
+
+P4:
+El tornado puede destrozar enemigos y repeler disparos.
+
+P5:
+Utilízalo cuidadosamente, ya que consume tu barra de SP.
 
 -----------------------
 
@@ -715,14 +726,14 @@ Puedes mejorar o bajar tu nivel de Item Crash presionando el botón ITEM CRASH.
 - At front of Castle Gate
 
 P1: 
-¿qué es eso? 
+¿Qué es eso? 
 
 P2: 
 Oh, no! Una barrera mágica me repele!
-No podrás ingresar al Castillo!
+No podré ingresar al Castillo!
 
 P3: 
-Debo retirarme por ahora, hasta encontrar una manera de ingresar. Hay una pequeña aldea al sur de aquí llamada "Ruhigestadt".
+Debo retirarme por ahora, hasta encontrar una manera de ingresar. Hay una pequeña aldea al sur de aquí, llamada "Ruhigestadt".
 
 P4: 
 Tal vez deba buscar pistas allí sobre cómo romper esta barrera.
@@ -848,7 +859,7 @@ Vous avez le MEURTRIER DORE.
 - condemned area boss
 
 P1: 
-Has encontrado el camino a la última parte de este castillo. Este lugar maligno debe ser destruido, por el bien de la humanidad.
+Has encontrado el camino a la última parte de este castillo. Este lugar maligno debe ser destruído, por el bien de la humanidad.
 
 
 -----------------------
@@ -856,7 +867,7 @@ Has encontrado el camino a la última parte de este castillo. Este lugar maligno
 - Moonlight hall boss
 
 P1:
-¿Podría ser esta su última batalla? ¿Está tan hermosa la luna esta noche? ¿Tienes ganas de completar tu misión y volver con tus seres queridos?
+¿Podría ser esta acaso tu última batalla? La luna es tan bella esta noche… Sientes deseos de completar tu misión y volver a tus seres amados.
 
 
 -----------------------
@@ -866,4 +877,5 @@ P1:
 P1:
 Has terminado para siempre con los lúgubres merodeos de Friedrich. Debe ser tarde, el sol se acerca en el horizonte.
 Katharina me espera en algún lugar, debajo de este lúgubre escenario.
+
 
