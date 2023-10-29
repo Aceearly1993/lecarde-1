@@ -67,9 +67,10 @@ Also provided in main lobby are save files just in case if any tester wants to c
 
  ### Special Thanks ###
 
-- Katriel  
-- palmymkgames  
-- Migami Games  
+- Katriel (https://github.com/katriellucas) - Project lead of Lecarde Chronicles 2 Reworked edition and major helping hand
+- palmymkgames - Technical support
+- Migami Games - The great author of original game; source document provider
+- Kostya (https://github.com/1987kostya1) - Technical support
 
 
 
