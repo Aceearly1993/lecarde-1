@@ -23,6 +23,8 @@ The release of Lecarde Chronicles (1) got permited by Konami, the game and its a
 To get the base source code, go to "Releases", choose the tags with newer date. Access the. mfa in the release to get the file.
 The "Binary" contains the generate .exe file.
 
+Also provided in main lobby are save files just in case if any tester wants to cut the process short and go directly to the places that bugs will happen in original version, they may want themselves to be placed at: C:/User/(User name) (hidden folder)/Appdata/Roaming/MMFApplications
+(extract the save file zip first.)
 
 
 #### The Issue We Need Additional Helps #### 
