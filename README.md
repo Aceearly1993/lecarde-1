@@ -30,7 +30,7 @@ Also provided in main lobby are save files just in case if any tester wants to c
 #### The Issue We Need Additional Helps #### 
 
 - Add in-game GUI and functions to freely edit controller input in the game (like in reworked LC2)
-- Make the game's data compatible to 289.3 or higher versions of Clickteam Fusion. This is because the game will break in following places if the game's project file is loaded in 289.3 or higher versions:
+- Make the game's data compatible to Clickteam Fusion versions higher than 286.66. This is because the game will break in following places if the game's project file is loaded in versions higher than 286.66:
 - -  One background will break in Hunting Ground part 2 sub boss (the hive)
 - -  At several places contain large swinging spiked balls, their collision will break (Science Hall part 1, part 2, Katharina's quarter part 3 have them)
 - Several music clips and sound effect clips are needed to be replaced in order to get around copyright infringement risks. This case needs additional helps from composers/sound effect creators.
