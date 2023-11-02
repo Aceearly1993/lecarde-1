@@ -30,15 +30,28 @@ Also provided in main lobby are save files just in case if any tester wants to c
 #### The Issue We Need Additional Helps #### 
 
 - Add in-game GUI and functions to freely edit controller input in the game (like in reworked LC2)
-- Make the game's data compatible to Clickteam Fusion versions higher than 286.66. This is because the game will break in following places if the game's project file is loaded in versions higher than 286.66:
-- -  One background will break in Hunting Ground part 2 sub boss (the hive)
-- -  At several places contain large swinging spiked balls, their collision will break (Science Hall part 1, part 2, Katharina's quarter part 3 have them)
+
 - Several music clips and sound effect clips are needed to be replaced in order to get around copyright infringement risks. This case needs additional helps from composers/sound effect creators.
 
  
 
 
 ### Update History ###
+
+ #### [0.3.0] - 2023/11/2 #### 
+ 
+`FIXED` - A bug where the background of hunting ground part 2 boss will be missing in later versions of Fusion's frame editor.  
+`FIXED` - A bug in original where the hit detection of chained spiked ball hazards will go awry and produce invisible hit detection in some OSes.  
+`FIXED` - A bug in original where in inner yard 1, one zombie enemy will briefly appear a few frames before he really should.  
+`FIXED` - Lock the Alterable value C of trigger object to 2 in order to make the key presses only count as valid at "main screen visual" region.   
+`CHANGED` - Hotkey to trigger an easter egg screen to reduce confusions.  
+`CHANGED` - One Simplified Chinese embedded text.  
+`CHANGED` - Inner yard 2: Minor adjust of one specific hazard to make it not as extreme as in original.  
+`CHANGED` - Inner yard 2: Nerf the spawner of eyeballs so that it's less luck demanding to go across one specific hazard than in original.  
+`CHANGED` - Ruins 2: Nerf the spawner of spirit enemies so that it's slightly more fair than in original when doing whip only runs.  
+`CHANGED` - Skeleton gunman: Adjusted skeleton gunman's animation so that it's slightly less luck demanding to wipe it out without taking damage than in original.  
+`CHANGED` - Drops in a candle so that it will always grant a healing item instead of sometimes dropped a large heart instead.   
+
 
  #### [0.2.0] - 2023/9/25 #### 
 
