@@ -38,6 +38,20 @@ Also provided in main lobby are save files just in case if any tester wants to c
 
 ### Update History ###
 
+ #### [0.3.1] - 2023/11/6 #### 
+
+`ADDED` - More default keyboard mapping template to fulfill more situations and preferences until a better key remap GUI got solved in the future.  
+`ADDED` - A simple background to make the control config screen not look empty.  
+`CHANGED` - Main menu: Hotkey changes due to added default keyboard mapping template:  
+- F7: Force keyboard play.  
+- Hold F7 then Space: Change default keyboard mapping template.  
+- Backspace: Restore joypad play.
+  
+`CHANGED` - Ruins 1: Nerf the spawner of medusa head enemies so that it's slightly more fair than in original when doing whip only runs.  
+`CHANGED` - From now on, the game's cutscenes happened in before and after opening stages, can be skipped.  
+`CHANGED` - From now on, the game's input can read Enter key as valid inputs when selecting all options in title menu in order to reduce confusions.  
+
+
  #### [0.3.0] - 2023/11/2 #### 
  
 `FIXED` - A bug where the background of hunting ground part 2 boss will be missing in later versions of Fusion's frame editor.  
