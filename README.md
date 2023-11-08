@@ -32,11 +32,19 @@ Also provided in main lobby are save files just in case if any tester wants to c
 - Add in-game GUI and functions to freely edit controller input in the game (like in reworked LC2)
 
 - Several music clips and sound effect clips are needed to be replaced in order to get around copyright infringement risks. This case needs additional helps from composers/sound effect creators.
-
+  
+- An overlap of Global values is noticed in control remap GUI reworking process (which uses LC2 rework control remap event) and will lead to unable to remember controller button mapping storage. If anybody has solutions to ease this bug please help us.
  
 
 
 ### Update History ###
+
+ #### [0.4.0] - 2023/11/8 #### 
+
+`FIXED` - An oversight in original that an event trigger is not cleaned up in story cutscene, which will cause multiple languages to overlap in the same text display region.  
+`CHANGED` - Rework of control remap GUI. Now the game uses the same standards as Lecarde Chronicles 2 reworked edition's control remap GUI; Controller and keyboard remapping is now supported.  
+`CHANGED` - graphics of control config screen to fit the new control remap screen.  
+
 
  #### [0.3.1] - 2023/11/6 #### 
 
