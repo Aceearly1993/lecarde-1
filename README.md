@@ -29,8 +29,6 @@ Also provided in main lobby are save files just in case if any tester wants to c
 
 #### The Issue We Need Additional Helps #### 
 
-- Add in-game GUI and functions to freely edit controller input in the game (like in reworked LC2)
-
 - Several music clips and sound effect clips are needed to be replaced in order to get around copyright infringement risks. This case needs additional helps from composers/sound effect creators.
   
 - An overlap of Global values is noticed in control remap GUI reworking process (which uses LC2 rework control remap event) and will lead to unable to remember controller button mapping storage. If anybody has solutions to ease this bug please help us.
@@ -38,6 +36,14 @@ Also provided in main lobby are save files just in case if any tester wants to c
 
 
 ### Update History ###
+
+ #### [0.4.1] - 2023/11/9 #### 
+
+`HOTFIX` - An issue after swapping the contoller plugins that text box will incorrectly skips in Henri Sadis the priest's dialogue and one old adventurer's dialogue.  
+`FIXED` - A bug caused remapped controller button layout not following new contoller plugins in some scenarios.  
+`FIXED` - A mapchip object missing in entrance hall part 3 in reworked edition.  
+
+
 
  #### [0.4.0] - 2023/11/8 #### 
 
