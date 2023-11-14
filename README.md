@@ -37,6 +37,10 @@ Also provided in main lobby are save files just in case if any tester wants to c
 
 ### Update History ###
 
+ #### [0.4.2] - 2023/11/14 #### 
+
+`HOTFIX` - An attempt to fix an issue regarding controls after clicking out of window when an action frame is intact.  
+
  #### [0.4.1] - 2023/11/9 #### 
 
 `HOTFIX` - An issue after swapping the contoller plugins that text box will incorrectly skips in Henri Sadis the priest's dialogue and one old adventurer's dialogue.  
