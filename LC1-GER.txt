@@ -874,6 +874,7 @@ Du erreichst den letzten Schlossbereich. Vernichte diesen teuflischen Ort.
 - Moonlight hall boss
 
 P1:
+Ihr spürst die bösartige Präsenz von Katharina.
 Könnte dass dein letzter Kampf sein? Der Mond ist so hinreißend.
 
 
