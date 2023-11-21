@@ -33,13 +33,13 @@ P3:
 Appuyez sur HAUT en face de la rue pour quitter la ville.
 
 P4:
-Des événements très inquiétants se produisent depuis peu dans cette région.
+Des évènements très inquiétants se produisent depuis peu dans cette région.
 
 P5:
-Cette ville est le seul havre de tranquilit?qui reste dans la région.
+Cette ville est le seul havre de tranquilité qui reste dans la région.
 
 P6:
-Personne ne peut approcher le Château. Une barrière invisible repousse ceux qui essayent d'entrer.
+Personne ne peut approcher le château. Une barrière invisible repousse ceux qui essayent d'entrer.
 
 P7:
 Qu'est il arrivé à la respectable famille Von Viltheim?
@@ -53,7 +53,7 @@ P9:
 C'est la seule façon de pouvoir entrer dans le chateau.
 
 P10:
-Cette maison est abandonnée. Je suis sûr qu'une chose précieuse se trouve cachée à l'intérieur.
+Cette maison est abandonnée. Je suis sûr qu’une chose précieuse se trouve cachée à l’intérieur.
 
 P11:
 Vous obtenez le pouvoir:
@@ -70,7 +70,7 @@ P14:
 Cet objet révèle la présence des trésors pouvant être trouvés dans une zone.
 
 P15:
-Lorsque vous sélectionnez une zone sur la carte, la liste des trésors s'affiche en bas à gauche de l'écran.
+Lorsque vous sélectionnez une zone sur la carte, la liste des trésors s’affiche en bas à gauche de l’écran.
 
 P16:
 Bonjour jeune aventurier !
@@ -78,34 +78,34 @@ Je suis désormais trop vieux pour explorer le monde.
 
 
 P17:
-Je posséde un objet très intéressant qui te sera utile dans ta quête.
+Je possède un objet très intéressant qui te sera utile dans ta quête.
 
 P18:
-Tu peux le récupérer l?haut dans ma chambre.
+Tu peux le récupérer là-haut dans ma chambre.
 
 P19:
-Utilise le pouvoir du globe pour délivrer cette contré des ténèbres qui l'envahissent.
+Utilise le pouvoir du globe pour délivrer cette contrée des ténèbres qui l’envahissent.
 
 P20:
-Bienvenue dans ma taverne "Der goldenen Adler". Beaucoup de voyageurs s'y arrêtent ici pour boire un verre et relater leurs aventures.
+Bienvenue dans ma taverne « Der goldenen Adler ». Beaucoup de voyageurs s’arrêtent ici pour boire un verre et relater leurs aventures.
 
 P21:
-Je crois savoir que la famille Von Viltheim détient un sceau d'une immense puissance.
+Je crois savoir que la famille Von Viltheim détient un sceau d’une immense puissance.
 
 P22:
-Le sceau a été brisée en plusieurs morceaux. Ces morceaux sont éparpillés au quatre coins de la région.
+Le sceau a été brisé en plusieurs morceaux. Ces morceaux sont éparpillés au quatre coins de la région.
 
 P23:
-Etes vous un chevalier de l'Église ?
+Etes vous un chevalier de l’Eglise ?
 
 P24:
-J'aientendu dire que le Vatican missionnait ces chevaliers lorsque des événements diaboliques  se produisent dans la chrétienté.
+J’ai entendu dire que le Vatican missionnait ces chevaliers lorsque des événements diaboliques  se produisent dans la chrétienté.  
 
 P25:
-Henri Sardis est un prêtre venu de France. C'était auparavant un homme très chaleureux. D閟ormais il ne parle plus ?personne.  
+Henri Sardis est un prêtre venu de France. C’était auparavant un homme très chaleureux. Désormais il ne parle plus à personne.  
 
 P26:
-Les gens disent qu'il peut bénir certaines armes  afin de les rendre plus puissantes.
+Les gens disent qu’il peut bénir certaines armes  afin de les rendre plus puissantes.
 
 P27:
 
@@ -117,37 +117,37 @@ P29:
 
 
 P30:
-Ma mère ne m'autorise plus a sortir de la ville. Elle dit que c'est devenu très dangereux ?l抏xt閞ieur.
+Ma mère ne m’autorise plus a sortir de la ville. Elle dit que c’est devenu très dangereux à l’extérieur.
 
 P31:
-Vous venez d'Espagne! Vous êtes très loin de chez vous, ici en Autriche.
+Vous venez d’Espagne ? Vous êtes très loin de chez vous, ici en Autriche.
 
 P32:
-Je ne savais pas que la Famille Von Viltheim avait un Château en Espagne.
+Je ne savais pas que la Famille Von Viltheim avait un château en Espagne.
 
 P33:
-L'auberge "Das weisse Einhorn" et l'église sont très proches. Peut être que vous pourriez atteindre le toit de l'église en montant sur celui de l'auberge.
+L’auberge « Das weisse Einhorn » et l’église sont très proches. Peut être que vous pourriez atteindre le toit de l’église en montant sur celui de l’auberge.
 
 P34:
-Bienvenue a l'auberge "Das weissse Heinhorn". Si vous avez besoin de repos vous pouvez passer la nuit ici.
+Bienvenue a l’auberge « Das weissse Heinhorn ». Si vous avez besoin de repos vous pouvez passer la nuit ici.
 
 P35:
-Vous pouvez également dégouter nos délicieuses spécialités autrichiennes. 
+Vous pouvez également gouter à nos délicieuses spécialités autrichiennes. 
 
 P36:
-Beaucoup d'objets cachés peuvent être découverts en frappant certains murs. 
+Beaucoup d’objets cachés peuvent être découverts en frappant certains murs. 
 
 P37:
-Des ennemis puissants  gardent les différentes parties du sceau brisée Soyez sûr d'être bien préparé avant de les affronter.
+Des ennemis puissants  gardent les différentes parties du sceau brisé. Soyez sûr d’être bien préparé  avant de les affronter.
 
 P38:
-En maitrisant ITEM CRASH au niveau 3 vous pouvez être capable de devenir invisible; de vous régénérer etc.
+En maitrisant l’ITEM CRASH au niveau 3 vous pouvez être capable de devenir invisible; de vous régénérer etc.
 
 P39:
-Le seul inconvénient c'est que ce niveau il faut beaucoup de coeurs pour les utiliser.
+Le seul inconvénient c’est qu’à ce niveau il faut beaucoup de coeurs pour les utiliser.
 
 P40:
-Bonjour ! J'ai des objets ici qui pourraient vous intéresser.
+Bonjour ! J’ai des objets ici qui pourraient vous intéresser.
 
 P41:
 EXTENSION DE VIE MAX 
@@ -164,50 +164,50 @@ Donne moi 50 coeurs et elle sera tienne.
 
 
 P43:
-Votre barre de vie a augmenté.
+Votre barre de vie a augmentée.
 
 P44:
-Votre barre de SP a augmenté.
+Votre barre de SP a augmentée.
 
 P45:
 Quel bel après midi !
 Vous désirez trouver les morceaux du seau Von Viltheim ?
-Les membres de la famille avaient l'habitude d抋ller se reposer dans le domaine de chasse de Gerof. 
+Les membres de la famille avaient l’habitude d’aller se reposer dans le domaine de chasse de Gerof. 
 
 
 P46:
-Ce domaine se trouve dans la forêt au sud d'ici?
-Maintenant que j抷 pense, Il y a des ruines sur une petite ile qui peuvent présenter de l'intérêt.
+Ce domaine se trouve dans la forêt au sud d’ici…
+Maintenant que j’y pense, Il y a des ruines sur une petite ile qui peuvent présenter de l’intérêt.
 
 
 P47:
 RUINES et DOMAINE DE CHASSE sont désormais disponible sur la carte.
 
 P48:
-Faites attention. Cette région est pleine de dangers.
+Faîtes attention. Cette région est pleine de dangers.
 
 P49:
 CHAINE
 
-Augmentera votre force d'attaque.
-Donne moi 70 coeurs et elle sera vous.
+Augmentera votre force d’attaque.
+Donne moi 70 coeurs et elle sera à toi.
 
 
 P50:
 Vous avez la CHAINE.
 
 P51:
-Je viens d'une contré situ閑 au sud de l'Autriche.
-Je suis venue à UNGESTADT pour rendre visite à ma famille.
+Je viens d'une contrée située au sud de l'Autriche.
+J'étais venue à UNGESTADT pour rendre visite à ma famille.
 
 P52:
 J'ai découvert que la ville était abandonnée et qu'elle était envahie par les monstres.
 
 P53:
-J'ai aussi appris que le monastère ?l抏st avait déserté par les moines .
+J’ai aussi appris que le monastère à l’est avait été déserté par les moines .
 
 P54:
-D抋utre part, un voyageur que j'ai rencontré m'a dit qu'il fallait mieux éviter les montagnes du nord..
+D’autre part, un voyageur que j’ai rencontré  m’a dit qu’il fallait mieux éviter les montagnes du nord..
 
 P55:
 UNGESTADT, MONASTERE et MONTAGNES DU NORD sont désormais disponible sur la carte.
@@ -219,7 +219,7 @@ P57:
 ....................................
 
 P58:
-Je me sent mieux.. Mais que s'est il pass?
+Je me sent mieux.. Mais que s'est il passé?
 
 P59:
 Quoi! Un Yorik sur le toit de mon église.
@@ -251,7 +251,7 @@ Puisse Dieu t'aider à accomplir ta mission.
 
 P67:
 Vous avez besoin de SP pour utiliser vos techniques.
-( barre verte ). Si vous perdez tous vos SP ne paniquez pas, vous en récupérerez un peu après 5 secondes.
+( barre verte ). Si vous perdez tous vos SP ne paniquez pas, vous en récupererez un peu après 5 secondes.
 
 P68:
 Certains membres de la famille Von Viltheim sont célèbres.
@@ -263,7 +263,7 @@ P70:
 Wilhelm était un grand musicien. Il aimait particulièrement le son mélodieux des chauve-souris en vol.
 
 P71:
-Liese était une très belle fille, elle f鹴 emport閑 par la maladie très jeune. Sa tombe au Château est couverte de roses.
+Liese était une très belle fille, elle fût emportée par la maladie très jeune. Sa tombe au château est couverte de roses.
 
 P72:
 Friedrich était un grand savant. Il a conduit de nombreuses expériences scientifiques.
@@ -322,7 +322,7 @@ P12:
 Dague d'argent
 
 P13:
-Croix Écarlate
+Croix écartlate
 
 P14:
 Hache
@@ -431,7 +431,6 @@ P5:
   Meurtrier
            d'oré
 
-P6:
 
 
 -----------------------
@@ -460,7 +459,7 @@ P7:
 Donne tous les SP.
 
 P8:
-Cause de très grave dégâts aux ennemis présents àpproximité
+Cause de très grave dégâts aux ennemis présents à proximité. 
 
 P9:
 Donne quelques points de vie.
@@ -487,22 +486,22 @@ P16:
 Rebondi contre les murs. 
 
 P17:
-Donne une vie suppléentaire.
+Donne une vie supplémentaire.
 
 P18:
 Rend invincible durant un moment.
 
 P19:
-Augmente les dégâts causés par l'arme principale d'Efrain. Attention ! L'effet sera perdu si Efrain subit une attaque.
+Augmente les dégâts causés par l’arme principale d’Efrain. Attention ! L’effet sera perdu si Efrain subit une attaque.
 
 P20:
-Lancé droit devant. Arme rapide mais peu puissante. 
+Lancée droit devant. Arme rapide mais peu puissante. 
 
 P21:
 Arme puissante qui se lance comme un boomerang.  
 
 P22:
-Arme puissante qui se lance en l'air.
+Arme puissante qui se lance en l’air.
 
 P23:
 Brule le sol et les ennemis en contact.
@@ -550,7 +549,7 @@ P37:
 Apprenez la technique spéciale : SUSPENSION.
 
 P38:
-Révéler la présence de trésors dans une zone.
+Révèle la présence de trésors dans une zone.
 
 P39:
 Rassemblez les 6 morceaux pour détruire la barrière magique. 
@@ -580,7 +579,7 @@ En ayant suffisament de coeurs.
 
 
 P5:
-Lv Niveau 1 peut être exécuté au sol ou en sautant. Niveaux 2 et 3 simplement en se tenant sur le sol. Les chiffres rouges indiquent le montant de coeurs nécessaires.
+Lv Niveau 1 peut être executé au sol ou en sautant. Niveaux 2 et 3 simplement en étant sur le sol. Les chiffres rouges indiquent le montant de coeurs nécéssaires.
 
 P6:
 Quand Efrain est sur le sol et fait face à une porte ou une personne.
@@ -597,7 +596,7 @@ Pas besoin de SP.
 
 P9:
 Quand Efrain est sur le sol.Peut repousser certains tirs ennemis.
-Consomme 閚orm閙ent de SP.
+Consomme énormément de SP.
 
 P10:
 Quand Efrain saute ou chute.
@@ -617,7 +616,7 @@ Vous n'avez pas encore appris cette technique.
 - Boss beaten
 
 P1: 
-Vous avez trouvez l'un morceau du sceau brisée
+Vous avez trouvé un morceau du sceau brisé.
 
 
 -----------------------
@@ -625,7 +624,7 @@ Vous avez trouvez l'un morceau du sceau brisée
 - HP UP get
 
 P1: 
-VIE MAX augmenté.
+VIE MAX augmentée.
 
 
 -----------------------
@@ -633,7 +632,7 @@ VIE MAX augmenté.
 - Defeat Gerof
 
 P1:
-Vous avez détruit le fantôme de Gerof Von Viltheim. Vous avez également trouvé le FOUET LONG.
+Vous avez détruit le fantôme de Gerof Von Viltheim. Vous avez égalemment trouvé le FOUET LONG.
 
 
 -----------------------
@@ -643,13 +642,24 @@ Vous avez détruit le fantôme de Gerof Von Viltheim. Vous avez également trouv
 P1:
 Vous obtenez la STATUETTE DU VENT.
 
+P2:
+Vous pouvez maintenant utiliser la technique spéciale: TOURBILLON.
+
+P3:
+Maintenez appuyé le bouton SPECIAL lorsque Efrain est sur le sol.
+
+P4:
+Cette technique peut attaquer les ennemis et repousser certains de leurs tirs.
+
+P5:
+Utilisez le TOURBILLON avec précaution car cette technique consomme beaucoup de SP.
 
 -----------------------
 
 - Heart UP get
 
 P1:
-COEURS MAX augmenté.
+COEURS MAX augmentés.
 
 
 -----------------------
@@ -673,10 +683,10 @@ P3:
 Vous pouvez maintenant effectuer un DOUBLE SAUT.
 
 P4: 
-Appuyez sur SAUT lorsque Efrain est déjà entrain de sauter.
+Appuyez sur SAUT lorsque Efrain est déja entrain de sauter.
 
 P5: 
-Un DOUBLE SAUT peut être effectuer même si partir d'une chute.
+Un DOUBLE SAUT peut être effectué même à partir d'une chute.
 
 
 -----------------------
@@ -707,13 +717,13 @@ P1:
 ITEM CRASH niveau supérieur.
 
 P2: 
-Votre ITEM CRASH max a augmenté.d'un niveau.
+Votre ITEM CRASH max a augmenté d'un niveau.
 
 P3: 
 Vous pouvez utiliser l'arme secondaire pour exécuter son pouvoir spécial.
 
 P4: 
-Vous êtes invincible durant un ITEM CRASH niveau 2 ou 3.
+Vous ètes invincible durant un ITEM CRASH niveau 2 ou 3.
 
 P5: 
 Vous pouvez changer le niveau de l'Item crash à volonté en appuyant sur ITEM CRASH.
@@ -724,14 +734,14 @@ Vous pouvez changer le niveau de l'Item crash à volonté en appuyant sur ITEM C
 - At front of Castle Gate
 
 P1: 
-Qu'est ce que c'est que passé?
+Qu'est ce que c'est que ça?
 
 P2: 
 Je suis repoussé par une sorte de barrière magique.
 
 P3: 
 Je ne peux pas entrer pour le moment.
-Le mieux faire est de repartir pour trouver un moyen de traverser la barrière.
+Le mieux à faire est de repartir pour trouver un moyen de traverser la barrière.
 
 
 P4: 
@@ -769,7 +779,7 @@ La ruée aerienne consomme quelques SP.
 - Main Hall boss
 
 P1: 
-Votre progression dans le Château vous donne accès au Labyrinthe des rideaux ainsi qu'aux jardins.
+Votre progression dans le château vous donne accès au Labyrinthe des rideaux ainsi qu'aux jardins.
 
 
 -----------------------
@@ -793,7 +803,7 @@ Vous obtenez la Rose de Fer.
 - Inner yard boss
 
 P1: 
-L'esprit tourment?de Liese a enfin trouvà la paix de l'鈓e.
+L'esprit tourmenté de Liese a enfin trouvé la paix de l'âme.
 
 
 -----------------------
@@ -805,7 +815,7 @@ Vous obtenez le pouvoir du:
 TRIPLE LANCE
 
 P2: 
-Vous pouvez maintenant lancer 3 armes secondaires constitutives.
+Vous pouvez maintenant lancer 3 armes secondaires consécutives.
 
 
 -----------------------
@@ -813,7 +823,7 @@ Vous pouvez maintenant lancer 3 armes secondaires constitutives.
 - Hall of Science boss
 
 P1: 
-Courage ! Votre combat est loin d'être terminé..
+Courage ! Votre combat est loin d’être terminé...
 
 
 -----------------------
@@ -841,7 +851,7 @@ Efrain sera suspendu dans l'air.
 - Basement boss
 
 P1: 
-Les sous-sols du Château étaient auparavant un endroit sacré Ils sont désormais maudits pour toujours...
+Les sous-sols du château étaient auparavant un endroit sacré. Ils sont désormais maudits pour toujours...
 
 
 -----------------------
@@ -857,7 +867,7 @@ Vous avez le MEURTRIER DORE.
 - condemned area boss
 
 P1: 
-Vous avez atteint la dernière partie du Château. Cet endroit maudit doit être anéanti...
+Vous avez atteint la dernière partie du château. Cet endroit maudit doit être anéanti...
 
 
 -----------------------
