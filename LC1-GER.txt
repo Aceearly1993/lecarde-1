@@ -1,7 +1,7 @@
 - PROLOGUE BOSS
 
 P1:
-Du erhäst die Macht: 
+Du erhälst die Macht: 
 ITEM CRASH STUFE 1
 
 P2:
@@ -24,7 +24,7 @@ P6:
 - ruhigestadt
 
 P1: 
-Sammle Informationen bevor du die Stadt verläst.
+Sammle Informationen bevor du die Stadt verlässt.
 
 P2:
 Diese Straße führt dich aus der Stadt.
@@ -39,7 +39,7 @@ P5:
 Diese Stadt ist der einzige Zufluchstort des Landes.
 
 P6:
-Niemend kann sich dem Schloss nähern. Ein unsichtbares Siegel verwehrt allen den Zutritt.
+Niemend kann sich dem Schloss näheren. Ein unsichtbares Siegel verwehrt allen den Zutritt.
 
 P7:
 Was geschah mit der hoch angesehenen Von Viltheim Familie?
@@ -55,13 +55,13 @@ P10:
 Dieses Haus ist verlassen. Ich bin mir sicher dass hier etwas Wertvolles versteckt ist...
 
 P11:
-Du erhäst die Macht DOPPELSCHUSS
+Du erhälst die Macht DOPPELSCHUSS
 
 P12:
 Nun kannst du 2 Sub-Waffen nacheinander werfen.
 
 P13:
-Du erhäst die KUGEL DER WARHEIT
+Du erhälst die KUGEL DER WARHEIT
 
 P14:
 Dieser kostbare Gegenstand zeigt dir die verborgenen Schätze die in den Gebieten noch zu finden sind.
@@ -101,7 +101,7 @@ P25:
 Priester Henri Sardis ist aus Frankreich. Er spendet uns allen seinen Trost und Segen. In letzter Zeit benimmt er sich komisch!
 
 P26:
-Es wird erz鋒lt sein Segen könne Waffen verstärken.
+Es wird erzählt sein Segen könne Waffen verstärken.
 
 P27:
 Meine Mutter erlaubt mir nicht die Stadt zu verlassen. Sie sagt dass unser Land sehr gefährlich sei.
@@ -125,13 +125,13 @@ P33:
 Das Hotel "zum weissen Einhorn" steht nahe zur Kirche. Wenn Ihr dass Dach des Hotels erklettert, könnt Ihr von dort aus vielleicht das Dach der Kirche erreichen.
 
 P34:
-Williommen "zum Weissen Einhorn". Wir bieten Ihnen gerne ein Zimmer an.
+Willkomen "zum Weissen Einhorn". Wir bieten Ihnen gerne ein Zimmer an.
 
 P35:
 Zum Essen gibt es unsere ausgezeichnete österreichische Hausmannskost.
 
 P36:
-Die Gebiete sind voller Geheimnisse! In mancher Wand könnte sich ein versteckter Gegenstand verbergen. öffnet Wände mit Peitschenhiebe.
+Die Gebiete sind voller Geheimnisse! In mancher Wand könnte sich ein versteckter Gegenstand verbergen. Öffnet Wände mit Peitschenhiebe.
 
 P37:
 Die Wappenteile werden von mächtigen Monstern bewahrt. Bereitet Euch auf den Kampf vor.
@@ -148,7 +148,7 @@ Willkommen! Ich biete Ware die Euch interessieren könnte..
 P41:
 MAX LEBENSENERGIE ERWEITERT
 
-Dass vergr鲞ert Eure LP Leiste.
+Dass vergrößert Eure LP Leiste.
 Für 70 Herzen gehört es Euch.
 
 
@@ -156,7 +156,7 @@ Für 70 Herzen gehört es Euch.
 P42:
 MAX SPEZIELENERIGIE ERWEITERT
 
-Dass vergr鲞ert EureSP Leiste.
+Dass vergrößert EureSP Leiste.
 Für 50 Herzen gehört es Euch.
 
 
@@ -170,7 +170,7 @@ Deine Spezialenergie Leiste erweitert sich.
 P45:
 Guten Tag!
 Ihr sucht nach den Teilen des Von Viltheim Wappens?
-Die Familienmitglieder gingen jagen und nahmen Rast an ihrem Gutshof.
+Die Familienangehörigen gingen jagen und nahmen Rast an ihrem Gutshof.
 
 
 P46:
@@ -179,7 +179,7 @@ Dort liegen auch Ruinen auf einer kleinen Insel. Geheimnisse befinden sich an di
 
 
 P47:
-RUINEN und JAGDREVIER sind nun auf der Landkarte auswählbar.
+RUINEN und JAGDREVIER sind nun auf der Landkarte anwählbar.
 
 P48:
 Seid vorsichtig! Das Land ist voller Gefahren!
@@ -192,7 +192,7 @@ Für 70 Herzen gehört sie Euch.
 
 
 P50:
-Du erhäst die Kettenpeitsche.
+Du erhälst die Kettenpeitsche.
 
 P51:
 Ich bin aus Südösterreich.
@@ -200,7 +200,7 @@ Ich ging nach Ungestadt meine Familie besuchen.
 
 
 P52:
-Dort stellte ich fest, dass die Stadt verlassen war. Ein unheimlicher Nebel umhelmlite die Stadt und gefährliche Ungeheuer suchten sie heim.
+Dort stellte ich fest, dass die Stadt verlassen war. Ein unheimlicher Nebel umhüllte die Stadt und gefähliche Ungeheuer suchten sie heim.
 
 P53:
 Das östliche Kloster war auch verlassen, die Mönche verschwanden.
@@ -209,7 +209,7 @@ P54:
 Oh, warte noch! Ein Reisender den ich traf sagte "Jedem dem sein Leben Wert ist meide das nördliche Gebirge" .. Dies waren seine Worte.
 
 P55:
-UNGESTADT, KLOSTER und NÖRDLICHES GEBIRGE sind nun auf der Karte auswählbar.
+UNGESTADT, KLOSTER und NÖRDLICHES GEBIRGE sind nun auf der Karte anwählbar.
 
 P56:
 Sollen wir das Land verlassen?
@@ -269,7 +269,7 @@ P70:
 Wilhelm ein Virtuose. Er liebte das Geräusch flügelschlagender Fledermäuse.
 
 P71:
-Liese war ein sehr hüsches Mädchen. Sie verstab im jungen Alter.
+Liese war ein sehr hübsches Mädchen. Sie verstab im jungen Alter.
 
 P72:
 Friedrich war ein überragender Wissenschaftler. Er leitete viele Experimente.
@@ -319,10 +319,10 @@ P9:
 Käse
 
 P10:
-Hähnchenkeule
+Hühnchenkeule
 
 P11:
-Hähnchen
+Hühnchen
 
 P12:
 Silberdolch
@@ -443,13 +443,13 @@ P6:
 - text item
 
 P1: 
-Du erhäst ein Herz.
+Du erhälst ein Herz.
 
 P2:
-Du erhäst 5 Herzen.
+Du erhälst 5 Herzen.
 
 P3:
-Du erhäst 20 Herzen.
+Du erhälst 20 Herzen.
 
 P4:
 Grünes Herz Erneuert etwas Spezialenergie.
@@ -467,10 +467,10 @@ P8:
 Nahestehende Feinde erleiden heftige Schäden.
 
 P9:
-Du erhäst etwas Lebensenergie.
+Du erhälst etwas Lebensenergie.
 
 P10:
-Du erhäst mehr Lebensenergie.
+Du erhälst mehr Lebensenergie.
 
 P11:
 Deine gesamte Lebensenergie wird wiederhergestellt.
@@ -491,7 +491,7 @@ P16:
 Prallt von Wänden ab.
 
 P17:
-Du erhäst ein Extraleben.
+Du erhälst ein Extraleben.
 
 P18:
 Du wirst vorübergehend unverwundbar.
@@ -637,6 +637,17 @@ Du hast den Geist von Gerof Von Viltheim vernichtet. Du hast auch eine LANGPEITS
 P1:
 Du hast die WINDSTATUETTE.
 
+P2:
+Nun kannst du den "Wirbelwindangriff" einsetzen.
+
+P3:
+Halte die "SPEZIAL-TASTE" gedrückt während Efrain auf dem Boden steht.
+
+P4:
+Der Wirbelwindangriff nimmt Feinde auseinander und wehrt feindliche Projektile ab.
+
+P5:
+Nütze diese Technik mit bedacht. Schnell leert sie deine SP Leiste..
 
 -----------------------
 
@@ -651,7 +662,7 @@ Herz max erweitert.
 - MP UP get
 
 P1: 
-Spezialenergie max erweitert.
+Spezialenergíe max erweitert.
 
 
 -----------------------
@@ -698,7 +709,7 @@ Das "Bodengleiten" konsumiert keine SP.
 - Get Item Crash upgrade (North Mountain 2, Basement 4)
 
 P1: 
-Du erhäst die Macht: 
+Du erhälst die Macht: 
 ITEM CRASH +1
 
 P2: 
@@ -728,7 +739,7 @@ P3:
 Ich kann dass Schloss nicht betreten. Ich ziehe mich zurück bis ich einen Weg rein gefunden habe.
 
 P4: 
-Da liegt eine Stadt südlich von hier namens "Ruhigestadt". Vielleicht sollte ich dort nach Hinweisen suchen die mir zur öffnung des Siegels weiterhelfen.
+Da liegt eine Stadt südlich von hier namens "Ruhigestadt". Vielleicht sollte ich dort nach Hinweisen suchen die mir zur Öffnung des Siegels weiterhelfen.
 
 P5: 
 Die Von Viltheim Familie muss ein schreckliches Geheimnis verbergen...
@@ -762,7 +773,7 @@ Das LUFTGLEITEN verbraucht ein wenig SP.
 - Main Hall boss
 
 P1: 
-Du rchkst weiter ins Innere des Schlosses vor. Du erreichst den Irrweg der Vorhänge und den Schlosshof.
+Du rückst weiter ins Innere des Schlosses vor. Du erreichst den Irrweg der Vorhänge und den Schlosshof.
 
 
 -----------------------
@@ -863,8 +874,7 @@ Du erreichst den letzten Schlossbereich. Vernichte diesen teuflischen Ort.
 - Moonlight hall boss
 
 P1:
-縋odr韆 ser esta acaso tu ultima batalla? La luna es tan bella esta noche? Sientes deseos de completar tu mision y volver a tus seres amados.
-
+Könnte dass dein letzter Kampf sein? Der Mond ist so hinreißend.
 
 
 -----------------------
