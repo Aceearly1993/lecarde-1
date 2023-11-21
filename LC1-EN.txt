@@ -689,6 +689,18 @@ You've have destroyed the ghost of Gerof Von Viltheim. You've also found the LON
 P1:
   You've got the  WIND STATUETTE.
 
+P2:
+You can now perform the "whirlwind attack".
+
+P3:
+Keep the "SPECIAL BUTTON" pressed down when Efrain is on the ground.
+
+P4:
+The whirlwind attack can tear enemies apart and stop shots.
+
+P5:
+Use it carefully, because it consumes your SP metter..
+
 
 -----------------------
 
