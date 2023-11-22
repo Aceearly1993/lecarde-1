@@ -37,6 +37,15 @@ Also provided in main lobby are save files just in case if any tester wants to c
 
 ### Update History ###
 
+ #### [0.4.3] - 2023/11/22 #### 
+
+`FIXED` - Several missing texts in German localizations reported.   
+`CHANGED` - Added additional commands as an attempt to rule out V-Sync problems.  
+`FIXED` - Corrupted text characters in txt file archived in github page.  
+`ADDED` - Simplified Chinese variant of an easter egg screen.  
+`FIXED` - Position and proportion of several ending pictures.  
+
+
  #### [0.4.2] - 2023/11/14 #### 
 
 `HOTFIX` - An attempt to fix an issue regarding controls after clicking out of window when an action frame is intact.  
@@ -117,6 +126,8 @@ Also provided in main lobby are save files just in case if any tester wants to c
 - Migami Games - The great author of original game; source document provider
 - Kostya (https://github.com/1987kostya1) - Technical support
 - DragonX24 - Principle of Lecarde Chronicles 2 reworked edition control remap
+- Exorion Hagen - German text fixes
+- Orx_ , 铃川千雪 , AngelKawaru - Test plays
 
 
 ... and all the people in game credits.
