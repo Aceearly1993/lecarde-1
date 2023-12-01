@@ -37,6 +37,18 @@ Also provided in main lobby are save files just in case if any tester wants to c
 
 ### Update History ###
 
+ #### [0.4.4] - 2023/12/1 #### 
+
+`FIXED` - Inconsistency of speed of Efrain's jumping frames.  (Aceearly1993)  
+`CHANGED` - Increase vertical hit detection zone of Efrain's whip.  (Aceearly1993)  
+`RETRIEVED` - Source material of original video mode option/launcher in the vanilla game. (Mig)  
+The compatibility should be identical to original by now.  
+
+`ADDED` - Simplified Chinese variant of original video mode option/launcher. (Aceearly1993)  
+`ADDED` - Simplified Chinese variant of credit roll.  (Aceearly1993)  
+`CHANGED` - Minor adjust to other languages in response of the addition of Simplified Chinese variants.  (Aceearly1993)  
+
+
  #### [0.4.3] - 2023/11/22 #### 
 
 `FIXED` - Several missing texts in German localizations reported.   
