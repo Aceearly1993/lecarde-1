@@ -37,7 +37,7 @@ Some capture programs will have compatibility issue with reworked LC1 on Windows
 
 
 #### Read this if you encountered framerate problem in fullscreen mode #### 
-It's something about your setting of VSync under Direct X 9 mode. If your only graphic card is a Nvidia GTX graphic card, toggle VSync in your Nvidia control panel to "fast" if you encountered
+It's something about your setting of VSync under Direct X 9 mode. If your only graphic card is a Nvidia GTX graphic card, toggle VSync in your Nvidia control panel to "fast" or "on" if you encountered
 frame rate problem in fullscreen mode.
 
 
@@ -50,6 +50,11 @@ frame rate problem in fullscreen mode.
 
 
 ### Update History ###
+
+ #### [0.4.7] - 2024/1/4 #### 
+ 
+`HOTFIX` - Condemned room part 3: A vanilla bug which will cause Efrain to lose track after falling from position high enough to cause camera desync.  (Aceearly1993)  
+`HOTFIX` - Condemned room part 3: A bug caused by porting the game project to newer version of the engine, which will cause softlock that traps Efrain in a vertical passage.  (Aceearly1993)
 
  #### [0.4.6] - 2024/1/2 #### 
 
