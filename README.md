@@ -43,7 +43,6 @@ frame rate problem in fullscreen mode.
 
 #### The Issue We Need Additional Helps #### 
 
-- Several music clips and sound effect clips are needed to be replaced in order to get around copyright infringement risks. This case needs additional helps from composers/sound effect creators.
   
 - An overlap of Global values is noticed in control remap GUI reworking process (which uses LC2 rework control remap event) and will lead to unable to remember controller button mapping storage. If anybody has solutions to ease this bug please help us.
  
