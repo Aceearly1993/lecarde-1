@@ -167,7 +167,7 @@ The compatibility should be identical to original by now.
 - palmymkgames - Technical support
 - Migami Games - The great author of original game; source document provider
 - Kostya (https://github.com/1987kostya1) - Technical support
-- DragonX24 - Principle of Lecarde Chronicles 2 reworked edition control remap
+- DragonX24 (https://www.projectdread.com/) - Principle of Lecarde Chronicles 2 reworked edition control remap
 - Exorion Hagen - German text fixes
 - Orx_ , 铃川千雪 , AngelKawaru , 浅野川 - Test plays
 
