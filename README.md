@@ -50,6 +50,15 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.4.8] - 2024/1/29 #### 
+ 
+`ADDED` - Direct X 11 support.  (Aceearly1993)  
+`CHANGED` - Organized all text-related event in Global events region to fit Direct X 11.  (Aceearly1993)  
+`CHANGED` - Formatting of video option application as an attempt to avoid antivirus program malfunction.  
+The reformatted video option application is now "Castlevania The Lecarde Chronicles video system new.exe" 
+to make differences to the original application without "new". (Aceearly1993)  
+
+
  #### [0.4.7] - 2024/1/4 #### 
  
 `HOTFIX` - Condemned room part 3: A vanilla bug which will cause Efrain to lose track after falling from position high enough to cause camera desync.  (Aceearly1993)  
