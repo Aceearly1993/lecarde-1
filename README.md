@@ -50,6 +50,15 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.4.9] - 2024/2/20 #### 
+
+`ADDED` - A simple music room function. (Aceearly1993)  
+`ADDED` - Port a secret command well hidden in original version to somewhere more useful. It may be helpful to someone who still couldn't beat the game.  (Aceearly1993)  
+`ADDED` - Regulations in keyboard remap function so that the hardcoded system keys won't get accidently recognized as valid input in keyboard remap.  (Aceearly1993)  
+`ADDED` - Regulations in keyboard remap function so that multiple keyboard keys won't get registered the same key function. (Aceearly1993)    
+`FIXED` - A bug to text size after resizing the windows display scale to be higher than 100%.  (Aceearly1993)  
+
+
  #### [0.4.8] - 2024/1/29 #### 
  
 `ADDED` - Direct X 11 support.  (Aceearly1993)  
