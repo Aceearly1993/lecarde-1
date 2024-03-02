@@ -25,6 +25,11 @@ o get the reworked game builds, go to "Releases", choose the latest "v*. *. *-al
 Also provided in main lobby are save files just in case if any tester wants to cut the process short and go directly to the places that bugs will happen in original version (spiked ball hazard in: science hall parts 1, 2, 3; Katharina's quarter part 3), they may want themselves to be placed at: C:/User/(User name) (hidden folder)/Appdata/Roaming/MMFApplications
 (extract the save file zip first.)
 
+#### NEW Hotkey Functions #### 
+
+Due to the limitation of original GUI, some new functions cannot be directly embedded in the GUI...
+- Toggle anti-alias on/off: F5/F6
+  
 
 #### Read this if antivirus softwares flagged the game as Malware #### 
 It's something about Clickteam's engine itself. Antivirus softwares don't seem to be too kind towards some Games used Clickteam's engine. 
@@ -49,6 +54,14 @@ frame rate problem in fullscreen mode.
 
 
 ### Update History ###
+
+ #### [0.5.0] - 2024/3/2 #### 
+
+`FIXED` - An awkward moonwalking happened after main character movement plugin swaps. (Aceearly1993)  
+`FIXED` - A bug which caused to be reverted to default upon executing a reset/close to the game.  (DragonX24)
+`ADDED` - A hotkey set so that the game's anti-alias can be toggled on/off to fit the preference of more people.  (Aceearly1993)  
+`ADDED` - Important UIs on start screen to make players not get lost quickly.  (Aceearly1993)  
+
 
  #### [0.4.9] - 2024/2/20 #### 
 
