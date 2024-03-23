@@ -55,6 +55,13 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.5.1] - 2024/3/23 #### 
+
+`FIXED` - A bug (?) that caused efrain to atumatically die when performing air float out of available camera zone. (Aceearly1993)  
+`ADDED` - Simple navigations to music room function.  (Aceearly1993)  
+`CHANGED` - Extra life counter now properly displayed up to 99 lives.   (Aceearly1993)  
+
+
  #### [0.5.0] - 2024/3/2 #### 
 
 `FIXED` - An awkward moonwalking happened after main character movement plugin swaps. (Aceearly1993)  
