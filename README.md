@@ -46,11 +46,6 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 frame rate problem in fullscreen mode.
 
 
-#### The Issue We Need Additional Helps #### 
-
-  
-- An overlap of Global values is noticed in control remap GUI reworking process (which uses LC2 rework control remap event) and will lead to unable to remember controller button mapping storage. If anybody has solutions to ease this bug please help us.
- 
 
 
 ### Update History ###
