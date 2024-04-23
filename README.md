@@ -60,7 +60,7 @@ frame rate problem in fullscreen mode.
  #### [0.5.0] - 2024/3/2 #### 
 
 `FIXED` - An awkward moonwalking happened after main character movement plugin swaps. (Aceearly1993)  
-`FIXED` - A bug which caused controller mapping to be reverted to default upon executing a reset/close to the game.  (DragonX24)
+`FIXED` - A bug which caused controller mapping to be reverted to default upon executing a reset/close to the game.  (DragonX24)  
 `ADDED` - A hotkey set so that the game's anti-alias can be toggled on/off to fit the preference of more people.  (Aceearly1993)  
 `ADDED` - Important UIs on start screen to make players not get lost quickly.  (Aceearly1993)  
 
