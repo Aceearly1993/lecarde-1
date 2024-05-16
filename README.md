@@ -50,6 +50,13 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.5.2] - 2024/5/16 #### 
+
+`ADDED` - System Config function in map screen.    (Aceearly1993)  
+`CHANGED` - Extra life counter's calculation rule to fit the inclusion of System Config function.    (Aceearly1993)  
+`CHANGED` - Adjusted the bonus lives offered by a secret command combination when it's executed in lower difficulty.   (Aceearly1993)  
+
+
  #### [0.5.1] - 2024/3/23 #### 
 
 `FIXED` - A bug (?) that caused efrain to atumatically die when performing air float out of available camera zone. (Aceearly1993)  
