@@ -54,6 +54,7 @@ frame rate problem in fullscreen mode.
 
 `ADDED` - System Config function in map screen.    (Aceearly1993)  
 `CHANGED` - Extra life counter's calculation rule to fit the inclusion of System Config function.    (Aceearly1993)  
+`CHANGED` - Map screen UI logic to fit the inclusion of System Config function.    (Aceearly1993)  
 `CHANGED` - Adjusted the bonus lives offered by a secret command combination when it's executed in lower difficulty.   (Aceearly1993)  
 
 
