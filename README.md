@@ -50,6 +50,13 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.5.3] - 2024/5/28 #### 
+
+`HOTFIX` - Inner yard 2: An attempt to rule out a softlock bug by changing one regulation to an object.    (Aceearly1993)  
+`HOTFIX` - Inner yard 2: An attempt to rule out a softlock bug by moving the position of an object that will trigger 
+the event to back to map screen upon defeated the stage boss of Inner yard and return to the location once again.    (Aceearly1993)  
+
+
  #### [0.5.2] - 2024/5/16 #### 
 
 `ADDED` - System Config function in map screen.    (Aceearly1993)  
