@@ -402,7 +402,7 @@ Liese was a very beautiful girl. She died very young. Her tomb is full of roses.
 P72:
 Friedrich was a great scientist. He conducted many experiments.
 (Spanish script: Friedrich was a great scientist, renowned in the community for his important experiments. He never reached his potential, and gradually lost track of reality.)
-弗雷德里希是一位伟大的科学家，他的各项发明在学术领域颇有知名度。但是他的科研项目始终无法得到更进一步的技术性突破，逐渐地他失去了理智。
+弗雷德里希是一位伟大的科学家，他的各项发明在欧洲的学术领域颇有知名度。但是他的科研项目始终无法得到更进一步的技术性突破，逐渐地他失去了理智。
 
 P73:
 Leopold's library is the largest in Europe. One day he found a necromancy book.
