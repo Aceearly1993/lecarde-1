@@ -52,6 +52,7 @@ frame rate problem in fullscreen mode.
 
  #### [0.5.3] - 2024/5/28 #### 
 
+`ADDED` - Function to remember the value of currently equipped sub weapon into save file.    (Aceearly1993)  
 `HOTFIX` - Inner yard 2: An attempt to rule out a softlock bug by changing one regulation to an object.    (Aceearly1993)  
 `HOTFIX` - Inner yard 2: An attempt to rule out a softlock bug by adjusting positions of several platforms.    (Aceearly1993)  
 `HOTFIX` - Inner yard 3: An attempt to rule out a softlock bug by moving the position of an object that will trigger 
