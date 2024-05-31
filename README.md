@@ -50,6 +50,12 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.5.4] - 2024/5/31 #### 
+
+ `ADDED` - Boss Practice as a function accessible through a secret screen.    (Aceearly1993)  
+ `CHANGED` - Logic of cursor speed in music room function so that it's easier to navigate.  (Aceearly1993)  
+
+
  #### [0.5.3] - 2024/5/28 #### 
 
 `ADDED` - Function to remember the value of currently equipped sub weapon into save file.    (Aceearly1993)  
@@ -69,7 +75,7 @@ the event to back to map screen upon defeated the stage boss of Inner yard and r
 
  #### [0.5.1] - 2024/3/23 #### 
 
-`FIXED` - A bug (?) that caused efrain to atumatically die when performing air float out of available camera zone. (Aceearly1993)  
+`FIXED` - A bug (?) that caused efrain to automatically die when performing air float out of available camera zone. (Aceearly1993)  
 `ADDED` - Simple navigations to music room function.  (Aceearly1993)  
 `CHANGED` - Extra life counter now properly displayed up to 99 lives.   (Aceearly1993)  
 
