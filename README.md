@@ -50,6 +50,12 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.5.5] - 2024/6/6 #### 
+
+`HOTFIX` - An attempt to fix a bug at mirror boss fight in top floor.  (Aceearly1993)  
+`HOTFIX` - An attempt to fix a bug on black panther enemy where corpse object of black panther may stack in loops in rare circumstances. (Aceearly1993)  
+
+
  #### [0.5.4] - 2024/5/31 #### 
 
 `ADDED` - Boss Practice as a function accessible through a secret screen.    (Aceearly1993)  
@@ -226,7 +232,7 @@ The compatibility should be identical to original by now.
 - Kostya (https://github.com/1987kostya1) - Technical support
 - DragonX24 (https://www.projectdread.com/) - Principle of Lecarde Chronicles 2 reworked edition control remap
 - Exorion Hagen - German text fixes
-- Orx_ , 铃川千雪 , AngelKawaru , 浅野川, 玛娜雷纳德, lunatixxx - Test plays/bug hunters
+- Orx_ , 铃川千雪 , AngelKawaru , 浅野川 , 玛娜雷纳德 , lunatixxx - Test plays/bug hunters
 
 
 ... and all the people in game credits.
