@@ -54,6 +54,7 @@ frame rate problem in fullscreen mode.
 
 `HOTFIX` - An attempt to fix a bug at mirror boss fight in top floor.  (Aceearly1993)  
 `HOTFIX` - An attempt to fix a bug on black panther enemy where corpse object of black panther may stack in loops in rare circumstances. (Aceearly1993)  
+`HOTFIX` - Reported sound issues.  (Aceearly1993)  
 
 
  #### [0.5.4] - 2024/5/31 #### 
