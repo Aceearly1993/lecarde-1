@@ -53,7 +53,7 @@ frame rate problem in fullscreen mode.
  #### [0.5.7] - 2024/8/8 #### 
 
 `CHANGED` - Eliminated the strange design choice that system hotkeys had used up "Space" keys; More user friendly for Players whose personal preferences are getting used to assign jump to "Space" key.    (Aceearly1993)  
-`CHANGED` - Map screen UI logic to fit the tweaks of Control Config function in title menu and system config screens.    (Aceearly1993)  
+`CHANGED` - UI logic to fit the tweaks of Control Config function in title menu and system config screens.    (Aceearly1993)  
 
 
  #### [0.5.6] - 2024/6/13 #### 
