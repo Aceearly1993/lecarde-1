@@ -50,6 +50,13 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.5.8] - 2024/9/14 #### 
+
+`ADDED` - Availability of changing and saving controller labels (XBOX/D-input/PS).    (Aceearly1993)  
+`ADDED` - Availability of mapping function keys to joypad's 11th and 12th buttons.    (Aceearly1993)  
+`CHANGED` - The term "DEFAULT CONTROLS" to "CONTROL CONFIG" in control setting screen.     (Aceearly1993)  
+
+
  #### [0.5.7] - 2024/8/8 #### 
 
 `CHANGED` - Eliminated the strange design choice that system hotkeys had used up "Space" keys; More user friendly for Players whose personal preferences are getting used to assign jump to "Space" key.    (Aceearly1993)  
