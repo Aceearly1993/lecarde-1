@@ -54,7 +54,7 @@ frame rate problem in fullscreen mode.
 
 `ADDED` - Availability of changing and saving controller labels (XBOX/D-input/PS).    (Aceearly1993)  
 `ADDED` - Availability of mapping function keys to joypad's 11th and 12th buttons.    (Aceearly1993)  
-`CHANGED` - The term "DEFAULT CONTROLS" to "CONTROL CONFIG" in control setting screen.     (Aceearly1993)  
+`CHANGED` - The term "DEFAULT CONTROLS" to "CONTROLS" in control setting screen.     (Aceearly1993)  
 
 
  #### [0.5.7] - 2024/8/8 #### 
