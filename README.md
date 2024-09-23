@@ -30,6 +30,20 @@ Also provided in main lobby are save files just in case if any tester wants to c
 Due to the limitation of original GUI, some new functions cannot be directly embedded in the GUI...
 - Toggle anti-alias on/off: F5/F6
   
+#### Special Note for Controllers - Read this if your controllers are not working #### 
+
+The original game is infamous for the compatibility issue for PS4/Xbox controllers if your computers are unlucky so it left the controller preference blank. 
+Here's a valid workaround to this issue if you encountered it like us:
+
+In Control Panel→ Devices and printers, find PS4 controller (usually labeled as "Wireless Controller"), 
+right click "Wireless Controller" label to find controller setting, then click "advance..." to go into advance setting of "Wireless Controller", 
+and be sure the "Wireless Controller" is checked as the preference.
+
+The same could be applied to Xbox Controllers by repeating the setup above while your desired Xbox controller is plugged in.
+
+If your controller is NS type we cannot guarantee if it works 100% (too much problems with the game's bottom structure) but we provided baseline support and NS type controller label anyway.
+
+
 
 #### Read this if antivirus softwares flagged the game as Malware #### 
 It's something about Clickteam's engine itself. Antivirus softwares don't seem to be too kind towards some Games used Clickteam's engine. 
