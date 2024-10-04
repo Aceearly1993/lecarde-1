@@ -25,6 +25,13 @@ o get the reworked game builds, go to "Releases", choose the latest "v*. *. *-al
 Also provided in main lobby are save files just in case if any tester wants to cut the process short and go directly to the places that bugs will happen in original version (spiked ball hazard in: science hall parts 1, 2, 3; Katharina's quarter part 3), they may want themselves to be placed at: C:/User/(User name) (hidden folder)/Appdata/Roaming/MMFApplications
 (extract the save file zip first.)
 
+
+#### System compatibility warning #### 
+
+The game is only verified to be working as intended on windows revisions up until Windows 10 20H2 revision. 
+Beyond that revison it's out of my control and nor will there be any hope of making compatibilities specifically for the unintended system (at least from me).
+
+
 #### NEW Hotkey Functions #### 
 
 Due to the limitation of original GUI, some new functions cannot be directly embedded in the GUI...
