@@ -79,6 +79,7 @@ frame rate problem in fullscreen mode.
 `ADDED` - Keyboard confirm/exit prompt label in a secret screen.    (Aceearly1993)  
 `CHANGED` - The term "DEFAULT CONTROLS" to "CONTROLS" in control setting screen.     (Aceearly1993)  
 `CHANGED` - "CONTROLS" event group into fully global event.     (Aceearly1993)  
+`FIXED` - A bug which will cause text messages being clipped out of text box in certain endings.  (Aceearly1993)  
 
 
  #### [0.5.7] - 2024/8/8 #### 
