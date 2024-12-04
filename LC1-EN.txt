@@ -139,7 +139,7 @@ P27:
 Welcome! I see you're also a soul of the church.
 
 P28:
-I don't know what's happening to me... I feel bad ... I'm weak...
+I don't know what's happening to me... I feel bad... I'm weak...
 
 P29:
 That is not a disease... I feel a nasty presence coming from the roof of my church...
@@ -532,7 +532,7 @@ P21:
 Powerful weapon that reverses its movement.
 
 P22:
-Powerful weapon thrown.
+Powerful weapon thrown up.
 
 P23:
 Burns the ground enemies.
@@ -635,6 +635,7 @@ Consumes some SP.
 
 P11:
 While Efrain is jumping or dropping. 
+
 Consumes some SP.
 
 P12:
