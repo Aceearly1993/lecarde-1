@@ -71,6 +71,13 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.5.9] - 2024/12/4 #### 
+
+`FIXED` - Some typos in English language.   (Felipefpl)  
+`FIXED` - Text object size in one instance at Spanish language (D3D11).    (Aceearly1993)  
+`CHANGED` - Very slightly adjusted length of an initialization time to let player out of confusion.     (Aceearly1993)  
+
+
  #### [0.5.8] - 2024/9/14 #### 
 
 `ADDED` - Availability of changing and saving controller labels (XBOX/D-input/PS).    (Aceearly1993)  
