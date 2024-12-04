@@ -73,7 +73,7 @@ frame rate problem in fullscreen mode.
 
  #### [0.5.9] - 2024/12/4 #### 
 
-`FIXED` - Some typos in English language.   (Aceearly1993)  
+`FIXED` - Some typos in English language.   (Felipefpl)  
 `FIXED` - Text object size in one instance at Spanish language (D3D11).    (Aceearly1993)  
 
 
