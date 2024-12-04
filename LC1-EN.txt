@@ -40,7 +40,7 @@ P5:
 The Von Viltheim main castle lies on a lake in northern Austria.
 
 P6:
-Two brothers Wilhelm and Leopold and the sister Katharina live there.
+The two brothers Wilhelm and Leopold and their sister Katharina live there.
 
 P7:
 I should go to Austria and investigate...
@@ -91,7 +91,7 @@ P12:
 Now you can throw 2 subweapons in a row.
 
 P13:
-You found the 
+You got the 
 ORB OF TRUTH
 
 P14:
@@ -173,7 +173,7 @@ P38:
 Some people can master "ITEM CRASH LEVEL 3". At this level you could become invisible, regenerate your life, your SP, etc.
 
 P39:
-Unfortunately these item crashes need lots of hearts to be utilized.
+Unfortunately these item crashes need lots of hearts to be used.
 
 P40:
 Welcome! I have some items you may be interested.
@@ -297,11 +297,11 @@ Friedrich was a great scientist. He conducted many experiments.
 (Spanish script: Friedrich was a great scientist, renowned in the community for his important experiments. He never reached his potential and gradually lost track of reality.)
 
 P73:
-Leopold's library is the biggest in Europe. One day he found a necromancy book.
+Leopold's library is the biggest library in Europe. One day he found a necromancy book.
 (Spanish script: Leopold built the biggest library in Europe. One day he found a book of Necromancy. Little did he know then that his destiny would change forever.)
 
 P74:
-Duchess Katharina was so clever, wise and gorgeous.
+The Duchess Katharina was so clever, wise and gorgeous.
 (Spanish script: Duchess Katharina was so clever, wise and gorgeous. Could everything have been so different?)
 
 P75:
@@ -700,7 +700,7 @@ P4:
 The whirlwind attack can tear enemies apart and stop shots.
 
 P5:
-Use it carefully, because it consumes your SP metter.
+Use it carefully, because it consumes your SP bar.
 
 
 -----------------------
@@ -853,7 +853,7 @@ You got the Iron Rose.
 - Inner yard boss
 
 P1: 
-You cleared this area ot Liese's ghost evil presence. 
+You cleared this area ot Liese's ghost evil presence.
 
 
 -----------------------
@@ -891,7 +891,7 @@ P3:
 Now you can perform: "Air float".
 
 P4: 
-Hold down UP + SPECIAL when Efrain drops.
+Press UP + SPECIAL when Efrain drops.
 
 P5: 
 Efrain will float in air.
