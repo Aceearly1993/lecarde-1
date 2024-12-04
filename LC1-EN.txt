@@ -4,10 +4,10 @@ P1:
 You got the power: ITEM CRASH LEVEL 1
 
 P2:
-You can now use your subweapon in a more powerful way.
+Now you can use your subweapon in a more powerful way.
 
 P3:
-The red numbers indicate how many hearts are needed  to use the current item crash.
+The red numbers indicate how many hearts are needed to use the current item crash.
 
 P4:
 Press UP and item crash button to use it.
@@ -24,7 +24,7 @@ P6:
 - OPENING
 
 P1: 
-Evil energy merges from that stone monument.
+Evil energy emerges from that stone monument.
 
 P2:
 That is the emblem of "Von Viltheim".
@@ -43,7 +43,7 @@ P6:
 Two brothers Wilhelm and Leopold and the sister Katharina live there.
 
 P7:
-I should go in Austria and investigate...
+I should go to Austria and investigate...
 
 
 -----------------------
@@ -98,14 +98,14 @@ P14:
 That valuable item reveal what hidden treasures can be found in an area.
 
 P15:
-When you select an area on the map, the items that can be found are displayed in the bottom-left corner of the screen.
+When you select an area on the map the items that can be found are displayed in the bottom-left corner of the screen.
 
 P16:
 Hello young knight! 
 I'm too old now to explore the world.
 
 P17:
-I've got a very valuable item that will surely help you in your quest.
+I have a very valuable item that will surely help you in your quest.
 
 P18:
 You can pick it up in my room.
@@ -129,7 +129,7 @@ P24:
 I know that the Vatican uses these knights when very unholy and strange events occur in the Christendom.
 
 P25:
-Henri Sardis the priest comes from France. He used to be a very comforting man.
+Henri Sardis, the priest, comes from France. He used to be a very comforting man.
 Now he looks very strange!
 
 P26:
@@ -164,7 +164,7 @@ P35:
 You can also eat very good specialties of Austria.
 
 P36:
-The areas are full of secrets! Sometimes when you strike a wall you will find hidden items.
+The areas are full of secrets! Sometimes when you hit a wall you will find hidden items.
 
 P37:
 Powerful monsters keep the parts of the crest. Be sure to be prepared to fight them.
@@ -176,7 +176,7 @@ P39:
 Unfortunately these item crashes need lots of hearts to be utilized.
 
 P40:
-Welcome! I have some items you may be interested in.
+Welcome! I have some items you may be interested.
 
 P41:
 LIFE MAX EXTEND
@@ -218,7 +218,7 @@ It will increase your strength.
 Give me 70 Hearts and it will be yours.
 
 P50:
-You've got the CHAIN.
+You got the CHAIN.
 
 P51:
 I come from southern Austria.
@@ -246,7 +246,7 @@ P58:
 Oh I feel better. What happened?
 
 P59:
-What! A Yorik was walking on the roof of my church?
+What??? A Yorik was walking on the roof of my church?
 
 P60:
 I'm very glad that you destroyed it.
@@ -294,11 +294,11 @@ Liese was a very beautiful girl. She died very young. Her tomb is full of roses.
 
 P72:
 Friedrich was a great scientist. He conducted many experiments.
-(Spanish script: Friedrich was a great scientist, renowned in the community for his important experiments. He never reached his potential, and gradually lost track of reality.)
+(Spanish script: Friedrich was a great scientist, renowned in the community for his important experiments. He never reached his potential and gradually lost track of reality.)
 
 P73:
-Leopold's library is the largest in Europe. One day he found a necromancy book.
-(Spanish script: Leopold built the largest library in Europe. One day he found a book of Necromancy. Little did he know then that his destiny would change forever.)
+Leopold's library is the biggest in Europe. One day he found a necromancy book.
+(Spanish script: Leopold built the biggest library in Europe. One day he found a book of Necromancy. Little did he know then that his destiny would change forever.)
 
 P74:
 Duchess Katharina was so clever, wise and gorgeous.
@@ -309,7 +309,7 @@ They are all dead now.
 (Spanish script: Nothing remains of them, more than the memory lost in the scrolls of history. Everything is so different...)
 
 P76:
-You can turn back to exit an area but only at the beginning of the area.
+You can go back to exit an area but only at the beginning of the area.
 
 
 -----------------------
@@ -523,7 +523,7 @@ P18:
 Gives invincibility for a while.
 
 P19:
-Increase damages caused by Efrain's main weapon. Be careful it will be lost if Efrain gets touched by the enemy.
+Increase damages caused by Efrain's main weapon. Be careful, it will be lost if Efrain gets touched by the enemy.
 
 P20:
 Thrown straight forward. Fast but not very powerful.
@@ -608,7 +608,7 @@ While Efrain is standing on the ground or jumping.
 Efrain must have enough hearts.
 
 P5:
-Lv 1 can be done while standing on the ground or jumping .LV 2 and 3 only while standing on the ground . The red number indicates the amount of hearts needed.
+Lv 1 can be done while standing on the ground or jumping. LV 2 and 3 only while standing on the ground. The red number indicates the amount of hearts needed.
 
 P6:
 While Efrain is standing on the ground and faces a door or a person.
@@ -635,7 +635,6 @@ Consumes some SP.
 
 P11:
 While Efrain is jumping or dropping. 
-
 Consumes some SP.
 
 P12:
@@ -647,7 +646,7 @@ You have not learned that skill yet.
 - text beyond
 
 P1: 
-From here you cannot turn back or use the save option.
+From here you can not turn back or use the save option.
 
 P2:
 A partir d'ici, vous ne pouvez ni sauvegarder ni revenir en arrière.
@@ -664,7 +663,7 @@ Von hieraus kannst du nicht umkehren oder die Speicheroption auswählen.
 - Boss beaten
 
 P1: 
-You find one of the six parts of the broken crest.
+You found one of the six parts of the broken crest.
 
 
 -----------------------
@@ -680,7 +679,7 @@ MAX HP extended.
 - Defeat Gerof
 
 P1:
-You've have destroyed the ghost of Gerof Von Viltheim. You've also found the LONG WHIP.
+You destroyed the ghost of Gerof Von Viltheim. You also found the LONG WHIP.
 
 
 -----------------------
@@ -691,7 +690,7 @@ P1:
 You got the WIND STATUETTE.
 
 P2:
-You can now perform the "Whirlwind Attack".
+Now you can perform the "Whirlwind Attack".
 
 P3:
 Keep the "SPECIAL BUTTON" pressed down when Efrain is on the ground.
@@ -716,7 +715,7 @@ Hearts max increased.
 - MP UP get
 
 P1: 
-Special power max extended.
+Special power MAX extended.
 
 
 -----------------------
@@ -726,16 +725,16 @@ Special power max extended.
 P1: 
 
 P2: 
-       You got the ANGEL STATUETTE.
+You got the ANGEL STATUETTE.
 
 P3: 
-You can now perform a "double jump".
+Now you can perform a DOUBLE JUMP.
 
 P4: 
 Push the JUMP button another time during a jump.
 
 P5: 
-You can perform a double jump, even if Efrain drops.
+You can perform a double jump even if Efrain drops.
 
 
 -----------------------
@@ -743,10 +742,10 @@ You can perform a double jump, even if Efrain drops.
 - Get slide (Riff Monasetry 2)
 
 P1: 
-You got the  PILGRIM STATUETTE.
+You got the PILGRIM STATUETTE.
 
 P2: 
-You can now perform the GROUND RUSH.
+Now you can perform the GROUND RUSH.
 
 P3: 
 Press the SPECIAL button when Efrain is crouched.
@@ -763,13 +762,13 @@ The "Ground rush" does not consume any SP.
 - Get Item Crash upgrade (North Mountain 2, Basement 4)
 
 P1: 
-Item crash MAX's level increased.
+Item crash MAX level increased.
 
 P2: 
 Your item crash MAX level increased.
 
 P3: 
-You can now use your subweapon in a more powerful way than before.
+Now you can use your subweapon in a more powerful way than before.
 
 P4: 
 You are invincible during an item crash level 2 or 3.
@@ -789,11 +788,11 @@ P2:
 I am repelled by some magic force.
 
 P3: 
-I wont be able to enter the castle!
+I won't be able to enter the castle!
 I must withdraw for now until i find a way to get inside.
 
 P4: 
-There is a little town south of here called " Ruhigestadt".
+There is a little town south of here called "Ruhigestadt".
 Perhaps i should search there for clues to break this barrier.
 
 P5: 
@@ -811,13 +810,13 @@ P1:
 
 
 P2: 
-You get the EAGLE STATUETTE.
+You got the EAGLE STATUETTE.
 
 P3: 
-You can now perform the "AIR RUSH" move.
+Now you can perform the "AIR RUSH" move.
 
 P4: 
-Push the SPECIAL button during a jump or a drop.
+Press the SPECIAL button during a jump or a drop.
 
 P5: 
 The AIR RUSH consumes little SP.
@@ -829,7 +828,7 @@ The AIR RUSH consumes little SP.
 
 P1: 
 You have made progress in the castle.
-You've reached the maze of curtains and the castle yard.
+You reached the maze of curtains and the castle yard.
 
 
 -----------------------
@@ -837,7 +836,7 @@ You've reached the maze of curtains and the castle yard.
 - Maze of Curtain boss
 
 P1: 
-You've cleared this area of Wilhelm's evil presence.
+You cleared this area of Wilhelm's evil presence.
 
 
 -----------------------
@@ -845,7 +844,7 @@ You've cleared this area of Wilhelm's evil presence.
 - Get Iron Rose (inner yard 2)
 
 P1: 
-You've got the Iron Rose.
+You got the Iron Rose.
 
 
 -----------------------
@@ -853,7 +852,7 @@ You've got the Iron Rose.
 - Inner yard boss
 
 P1: 
-You've cleared this area ot Liese's ghost evil presence. 
+You cleared this area ot Liese's ghost evil presence. 
 
 
 -----------------------
@@ -861,11 +860,11 @@ You've cleared this area ot Liese's ghost evil presence.
 - Get Triple shot (Hall of Science 3)
 
 P1: 
-You get the power of the:
+You got the power of the:
 TRIPLE SHOT.
 
 P2: 
-You can now throw 3 subweapons in a row.
+Now you can throw 3 subweapons in a row.
 
 
 -----------------------
@@ -873,7 +872,7 @@ You can now throw 3 subweapons in a row.
 - Hall of Science boss
 
 P1: 
-Be brave. You're fight is not over yet.
+Be brave. Your fight is not over yet.
 
 
 -----------------------
@@ -885,7 +884,7 @@ You got the MEDUSA STATUETTE.
 
 
 P2: 
-You've got the MEDUSA STATUETTE.
+You got the MEDUSA STATUETTE.
 
 P3: 
 Now you can perform: "Air float".
@@ -918,7 +917,7 @@ You found the GILT SLAYER.
 - condemned area boss
 
 P1: 
-You've reached the way to the last part of the castle. This evil place must be destroyed.
+You reached the way to the last part of the castle. This evil place must be destroyed.
 
 
 -----------------------
