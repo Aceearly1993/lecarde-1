@@ -43,7 +43,7 @@ P6:
 The two brothers Wilhelm and Leopold and their sister Katharina live there.
 
 P7:
-I should go to Austria and investigate...
+I should go to Austria and investigate.
 
 
 -----------------------
@@ -428,7 +428,7 @@ P37:
 Medusa statuette
 
 P38:
-Globe of truth
+Orb of truth
 
 P39:
 Crest part
@@ -514,7 +514,7 @@ P15:
 Burns the ground enemies.
 
 P16:
-Bounce against walls.
+Bounces against walls.
 
 P17:
 Gives one extra life.
@@ -523,7 +523,7 @@ P18:
 Gives invincibility for a while.
 
 P19:
-Increase damages caused by Efrain's main weapon. Be careful, it will be lost if Efrain gets touched by the enemy.
+Increases the damage caused by Efrain's main weapon. Be careful, it will be lost if Efrain gets touched by the enemy.
 
 P20:
 Thrown straight forward. Fast but not very powerful.
@@ -538,22 +538,22 @@ P23:
 Burns the ground enemies.
 
 P24:
-Bounce against walls.
+Bounces against walls.
 
 P25:
-Increase the max level of the item crash.
+Increases the max level of the item crash.
 
 P26:
 Piece of the secret.
 
 P27:
-Increase your life max.
+Increases your life max.
 
 P28:
-Increase your SP max.
+Increases your SP max.
 
 P29:
-Increase your maximum of carried hearts.
+Increases your maximum of carried hearts.
 
 P30:
 Allows Efrain to shot 2 subweapons in a row.
@@ -580,7 +580,7 @@ P37:
 Learn the special skill: AIR FLOAT.
 
 P38:
-Reveal the available treasures of an area.
+Reveals the available treasures of an area.
 
 P39:
 Gather the 6 parts to destroy the magic barrier.
@@ -691,7 +691,7 @@ P1:
 You got the WIND STATUETTE.
 
 P2:
-Now you can perform the "Whirlwind Attack".
+Now you can perform the WHIRLWIND ATTACK.
 
 P3:
 Keep the "SPECIAL BUTTON" pressed down when Efrain is on the ground.
@@ -732,7 +732,7 @@ P3:
 Now you can perform a DOUBLE JUMP.
 
 P4: 
-Push the JUMP button another time during a jump.
+Press the JUMP button another time during a jump.
 
 P5: 
 You can perform a double jump even if Efrain drops.
@@ -814,7 +814,7 @@ P2:
 You got the EAGLE STATUETTE.
 
 P3: 
-Now you can perform the "AIR RUSH" move.
+Now you can perform the AIR RUSH.
 
 P4: 
 Press the SPECIAL button during a jump or a drop.
@@ -888,13 +888,13 @@ P2:
 You got the MEDUSA STATUETTE.
 
 P3: 
-Now you can perform: "Air float".
+Now you can perform the AIR FLOAT.
 
 P4: 
-Press UP + SPECIAL when Efrain drops.
+Hold down UP + SPECIAL when Efrain is in the air.
 
 P5: 
-Efrain will float in air.
+Efrain will float in the air.
 
 
 -----------------------
