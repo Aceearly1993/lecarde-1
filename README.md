@@ -75,6 +75,7 @@ frame rate problem in fullscreen mode.
 
 `FIXED` - Some typos in English language.   (Felipefpl)  
 `FIXED` - Text object size in one instance at Spanish language (D3D11).    (Aceearly1993)  
+`FIXED` - A vanilla bug which will cause you to lose stair climb detection and fall down when located in connection spot and hold upward in between a mid-air horizontal platform and a stair.    (Aceearly1993)  
 `CHANGED` - Very slightly adjusted length of an initialization time to let player out of confusion.     (Aceearly1993)  
 `CHANGED` - Stair movement: Now you're less likely to fail when attempting to jump onto stairs than how it was in vanilla.     (Aceearly1993)  
 
