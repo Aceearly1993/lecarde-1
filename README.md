@@ -71,6 +71,12 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.6.0] - 2024/12/28 #### 
+
+`ADDED` - A basic stationery rest stance if stay stationery for too long (beta).     (Aceearly1993)  
+`CHANGED` - Properties for mirrors in Mirror boss fight in an attempt to fix a softlock bug, where Mirror boss may stuck in place and unable to be defeated after breaking a mirror he's supposed to enter, and you're forced to make Efrain suiside and retry in the next extra life. (Not guarantee if the fix will work. Will revert the change if affected more in the structure of Mirror boss badly.)    (Aceearly1993)  
+
+
  #### [0.5.9] - 2024/12/4 #### 
 
 `FIXED` - Some typos in English language.   (Felipefpl)  
