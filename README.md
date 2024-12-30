@@ -77,6 +77,8 @@ frame rate problem in fullscreen mode.
 `ADDED` - Two more regulations in global event as an attempt to fix a bug that you'll occasionally lose collision to a platform if you flip down from a stair when the platform in question is right below the stair. (Not guarantee if the fix will work on every situation. Will revert the change if affected more in the structure of stair movement badly.)     (Aceearly1993)  
 `CHANGED` - Properties for mirrors in Mirror boss fight in an attempt to fix a softlock bug, where Mirror boss may stuck in place and unable to be defeated after breaking a mirror he's supposed to enter, and you're forced to make Efrain suiside and retry in the next extra life. (Not guarantee if the fix will work. Will revert the change if affected more in the structure of Mirror boss badly.)    (Aceearly1993)  
 `CHANGED` - Very slightly adjusted proportion and position of additional UI in a secret screen for better visual presentation.    (Aceearly1993)  
+`HOTFIX` - Old Castle - Ruins 3: Very slightly adjusted height of a ceiling as an attempt to eliminate a reported cheap death capable to randomly happen when maximum jump height getting randomly raised by 1 pixel.  (Aceearly1993)  
+
 
 
  #### [0.5.9] - 2024/12/4 #### 
