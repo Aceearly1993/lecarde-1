@@ -71,6 +71,16 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.6.1] - 2025/3/3 #### 
+
+`CHANGED` - Basic Info so the info bar says "Reworked Edition" to better differ this version from vanilla.     (Aceearly1993)  
+`EXPERIMENT` - Changed Skeleton Gunman's behavior so that his bullet will now be a physical object instead of the bullet instantly reaches you as soon as he fires his gun.   
+This change will have side effects so that the properties of his bullets will no longer be identical to vanilla.   (Aceearly1993)  
+`ADDED` - (Very slight) Differences to Skeleton Gunman's bullet speed based on chosen difficulty.  (Aceearly1993)  
+`FIXED` -  An attempt to fix a irregular, bug-like phenomenon which the knockback animation will be incorrect if try to step on stairs 
+while very close to an airbone enemy who's sticking to the air.  (Aceearly1993)  
+
+
  #### [0.6.0] - 2024/12/28 #### 
 
 `ADDED` - A basic stationery rest stance if stay stationery for too long (beta).     (Aceearly1993)  
