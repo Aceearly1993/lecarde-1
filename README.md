@@ -74,6 +74,7 @@ frame rate problem in fullscreen mode.
  #### [0.6.1] - 2025/3/3 #### 
 
 `CHANGED` - Basic Info so the info bar says "Reworked Edition" to better differ this version from vanilla.     (Aceearly1993)  
+`CHANGED` - Katharina's quarter 3: Unrandomized movement timing of a Bone Dragon at the dark section near the exit of the stage, considering this dark section's difficulty.    (Aceearly1993)  
 `EXPERIMENT` - Changed Skeleton Gunman's behavior so that his bullet will now be a physical object instead of the bullet instantly reaches you as soon as he fires his gun.   
 This change will have side effects so that the properties of his bullets will no longer be identical to vanilla.   (Aceearly1993)  
 `ADDED` - (Very slight) Differences to Skeleton Gunman's bullet speed based on chosen difficulty.  (Aceearly1993)  
