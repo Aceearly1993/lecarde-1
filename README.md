@@ -31,6 +31,20 @@ Also provided in main lobby are save files just in case if any tester wants to c
 The game is only verified to be working as intended on windows revisions up until Windows 10 20H2 revision. 
 Beyond that revison it's out of my control and nor will there be any hope of making compatibilities specifically for the unintended system (at least from me).
 
+#### Read this if you encountered random crash exit when pausing #### 
+
+It may or may not have something to do with system compatibility, but make sure you have all the font installed which the game demanded:
+
+Arial Unicode MS (DX11)  
+Baskerville Old Face (DX9)  
+MS UI Gothic  
+Tahoma  
+Old English Text MT (DX9)  
+Californian FB  (DX9)  
+新宋体 (DX9)  
+黑体 (DX9)  
+
+If some of the fonts did not get installed in you computer, the game will be unable to find them and thus cause problems.
 
 #### NEW Hotkey Functions #### 
 
@@ -78,6 +92,7 @@ frame rate problem in fullscreen mode.
 `EXPERIMENT` - Changed Skeleton Gunman's behavior so that his bullet will now be a physical object instead of the bullet instantly reaches you as soon as he fires his gun.   
 This change will have side effects so that the properties of his bullets will no longer be identical to vanilla.   (Aceearly1993)  
 `ADDED` - (Very slight) Differences to Skeleton Gunman's bullet speed based on chosen difficulty.  (Aceearly1993)  
+`ADDED` - Troubleshooting section if you encountered sudden crash exits for wrong reasons.  (Aceearly1993)  
 `FIXED` -  An attempt to fix a irregular, bug-like phenomenon which the knockback animation will be incorrect if try to step on stairs 
 while very close to an airbone enemy who's sticking to the air.  (Aceearly1993)  
 
