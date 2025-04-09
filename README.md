@@ -1,4 +1,6 @@
+# The LC1 Rework Project
 
+![LC1-5](https://github.com/user-attachments/assets/0c161026-4dbf-4b6a-a6e1-87d28fd586ac)
 
 ## Description
 A portion of source code of the fan-game Castlevania: The Lecarde Chronicles (1) made by Migami Games. Due to a HDD failure, the original source have been lost. This repo is an atempt to preserve, fix and improve this game.
@@ -20,7 +22,9 @@ The release of Lecarde Chronicles (1) got permited by Konami, the game and its a
 
 
 ## Usage
-o get the reworked game builds, go to "Releases", choose the latest "v*. *. *-alpha" tag and find the .exe files in the "Game Binary" zipped file. The .exe file is the generated executable, while the .mfa file in "Source Code" zipped file fis the (recovered) Clickteam Fusion project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened).
+![LC1-3](https://github.com/user-attachments/assets/c901838b-90ce-4db3-bf55-da8b3a5a51ba)
+
+to get the reworked game builds, go to "Releases", choose the latest "v*. *. *-alpha" tag and find the .exe files in the "Game Binary" zipped file. The .exe file is the generated executable, while the .mfa file in "Source Code" zipped file fis the (recovered) Clickteam Fusion project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened).
 
 Also provided in main lobby are save files just in case if any tester wants to cut the process short and go directly to the places that bugs will happen in original version (spiked ball hazard in: science hall parts 1, 2, 3; Katharina's quarter part 3), they may want themselves to be placed at: C:/User/(User name) (hidden folder)/Appdata/Roaming/MMFApplications
 (extract the save file zip first.)
@@ -32,6 +36,7 @@ The game is only verified to be working as intended on windows revisions up unti
 Beyond that revison it's out of my control and nor will there be any hope of making compatibilities specifically for the unintended system (at least from me).
 
 #### Read this if you encountered random crash exit when pausing #### 
+![LC1-4](https://github.com/user-attachments/assets/90c17c62-666e-4adc-ac57-4be34611e825)
 
 It may or may not have something to do with system compatibility, but make sure you have all the font installed which the game demanded:
 
@@ -52,6 +57,7 @@ Due to the limitation of original GUI, some new functions cannot be directly emb
 - Toggle anti-alias on/off: F5/F6
   
 #### Special Note for Controllers - Read this if your controllers are not working #### 
+![LC1-1](https://github.com/user-attachments/assets/403ecb99-56fb-4758-bc94-584eef6083a9)
 
 The original game is infamous for the compatibility issue for PS4/Xbox controllers if your computers are unlucky so it left the controller preference blank. 
 Here's a valid workaround to this issue if you encountered it like us:
@@ -67,6 +73,10 @@ If your controller is NS type we cannot guarantee if it works 100% (too much pro
 
 
 #### Read this if antivirus softwares flagged the game as Malware #### 
+
+![LC1-2](https://github.com/user-attachments/assets/d0555db0-aa11-4a89-bd55-f248d3bd753c)
+
+
 It's something about Clickteam's engine itself. Antivirus softwares don't seem to be too kind towards some Games used Clickteam's engine. 
 If the problem that the antivirus softwares flagged the game as malware occurs, either turn off the antivirus software in question, or add the game to its white list. 
 Also avoid directly sharing the zips or folder(s) which contain the exe file unless really necessary because some net drive safety calculation like Google's, don't seem to be too happy with the game.
