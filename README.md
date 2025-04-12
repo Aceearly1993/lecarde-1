@@ -22,7 +22,9 @@ The release of Lecarde Chronicles (1) got permited by Konami, the game and its a
 
 
 ## Usage
-![LC1-3](https://github.com/user-attachments/assets/c901838b-90ce-4db3-bf55-da8b3a5a51ba)
+![LC1-6](https://github.com/user-attachments/assets/f0da08ce-e9c0-4009-937f-f9b3b1514282)
+
+
 
 to get the reworked game builds, go to "Releases", choose the latest "v*. *. *-alpha" tag and find the .exe files in the "Game Binary" zipped file. The .exe file is the generated executable, while the .mfa file in "Source Code" zipped file fis the (recovered) Clickteam Fusion project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened).
 
@@ -55,9 +57,15 @@ If some of the fonts did not get installed in you computer, the game will be una
 
 Due to the limitation of original GUI, some new functions cannot be directly embedded in the GUI...
 - Toggle anti-alias on/off: F5/F6
+
+#### About "LC2_KeyBinding.ini" #### 
+![LC1-1](https://github.com/user-attachments/assets/403ecb99-56fb-4758-bc94-584eef6083a9)
+
+A reworked version of the keyboard control created by DragonX24. 
+This file must be placed in the same directory the game locates if you downloaded the game and moved the game files to a fresh new location.
+
   
 #### Special Note for Controllers - Read this if your controllers are not working #### 
-![LC1-1](https://github.com/user-attachments/assets/403ecb99-56fb-4758-bc94-584eef6083a9)
 
 The original game is infamous for the compatibility issue for PS4/Xbox controllers if your computers are unlucky so it left the controller preference blank. 
 Here's a valid workaround to this issue if you encountered it like us:
@@ -95,11 +103,18 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.6.2] - 2025/4/12 #### 
+
+`ADDED` - System Config: Now you can adjust windowed mode size and toggle full screen/windowed mode without having to tangle with LC2_KeyBinding.ini.  (Aceearly1993)  
+`ADDED` - Slightly updated some notes on Readme file (Simplified Chinese).  (Aceearly1993)  
+
+
  #### [0.6.1] - 2025/3/3 #### 
 
 `CHANGED` - Basic Info so the info says "Reworked Edition" to better differ this version from vanilla.     (Aceearly1993)  
 `CHANGED` - Katharina's quarter 3: Unrandomized movement timing of a Bone Dragon at the dark section near the exit of the stage, considering this dark section's difficulty.    (Aceearly1993)  
-`CHANGED` - Re-organized control event as an attempt to fix a incompatible case of Xbox controller's D-pad.   (Aceearly1993)  `FIXED` -  A bug which will cause the game to crash exit if unplug and replug the controller, then reset the game.  (Aceearly1993)  
+`CHANGED` - Re-organized control event as an attempt to fix a incompatible case of Xbox controller's D-pad.   (Aceearly1993)  
+`FIXED` -  A bug which will cause the game to crash exit if unplug and replug the controller, then reset the game.  (Aceearly1993)  
 `EXPERIMENT` - Changed Skeleton Gunman's behavior so that his bullet will now be a physical object instead of the bullet instantly reaches you as soon as he fires his gun.   
 This change will have side effects so that the properties of his bullets will no longer be identical to vanilla.   (Aceearly1993)  
 `ADDED` - (Very slight) Differences to Skeleton Gunman's bullet speed based on chosen difficulty.  (Aceearly1993)  
