@@ -107,6 +107,7 @@ frame rate problem in fullscreen mode.
 
 `ADDED` - System Config: Now you can adjust windowed mode size and toggle full screen/windowed mode without having to tangle with LC2_KeyBinding.ini.  (Aceearly1993)  
 `ADDED` - Slightly updated some notes on Readme file (Simplified Chinese).  (Aceearly1993)  
+`FIXED` -  A bug which xbox d-pad is capable to move much earlier than the game's logic should when first introducing an area.  (Aceearly1993)  
 
 
  #### [0.6.1] - 2025/3/3 #### 
