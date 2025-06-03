@@ -108,6 +108,15 @@ frame rate problem in fullscreen mode.
 `ADDED` - System Config: Now you can adjust windowed mode size and toggle full screen/windowed mode without having to tangle with LC2_KeyBinding.ini.  (Aceearly1993)  
 `ADDED` - Slightly updated some notes on Readme file (Simplified Chinese).  (Aceearly1993)  
 `FIXED` -  A bug which xbox d-pad is capable to move much earlier than the game's logic should when first introducing an area.  (Aceearly1993)  
+`ADDED` - A variation of shopkeeper dialogue to make the conversation not too abrupt.  (Aceearly1993)  
+
+Language variation of the dialogue in question:
+
+English - Jeffrey Montoya  
+French - Chernabogue  
+Spanish - Jorge Fuentes  
+German - Exorion Hagen  
+Simplified Chinese - Aceearly1993 
 
 
  #### [0.6.1] - 2025/3/3 #### 
@@ -351,6 +360,7 @@ The compatibility should be identical to original by now.
 - Kostya (https://github.com/1987kostya1) - Technical support
 - DragonX24 (https://www.projectdread.com/) - Principle of Lecarde Chronicles 2 reworked edition control remap
 - Exorion Hagen - German text fixes
+- Jeffrey Montoya, Chernabogue, Jorge Fuentes - New dialogue's language variation
 - Orx_ , 铃川千雪 , AngelKawaru , 浅野川 , 玛娜雷纳德 , lunatixxx - Test plays/bug hunters
 
 
