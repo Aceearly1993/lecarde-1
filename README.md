@@ -118,6 +118,10 @@ Spanish - Jorge Fuentes
 German - Exorion Hagen  
 Simplified Chinese - Aceearly1993 
 
+`FIXED` -  Item pickup: in the pickup recognization system, when [multiple heart pickups of the same type/Variable were in the same spot and you touch 2 or more of them at once], 
+the game will properly recognize each of them instead of only recognize once.  (Aceearly1993)  
+
+
 
  #### [0.6.1] - 2025/3/3 #### 
 
