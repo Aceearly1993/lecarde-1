@@ -105,10 +105,12 @@ frame rate problem in fullscreen mode.
 
  #### [0.6.3] - 2025/9/18 #### 
  
+`ADDED` - Config: Implemented on/off toggle for V-Sync and anti-alias. (Aceearly1993)  
 `CHANGED` - Adjusted the timing of when the game can accept a secret code in order to prevent key overlapping on keyboard caused by inclusion of free keyboard mapping.  (Aceearly1993)  
 `CHANGED` - Repurposed a secret code so that it can also offer another function in addition to instant access boss rush from a fresh save file.  (Aceearly1993)  
 `CHANGED` - Adjusted events at the text introduction screen before the prologue stage and game over screen to fit the secret code.  (Aceearly1993)  
 `FIXED` -  Inner Yard 2: A bug which a spider mid boss will drop a wrong whip upgrade upon a re-visit in extreme situation.   (Aceearly1993)  
+`FIXED` -  Incorrect sound channel volume for most sound effects.   (Aceearly1993)  
 
 
  #### [0.6.2] - 2025/4/12 #### 
