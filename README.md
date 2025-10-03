@@ -112,6 +112,8 @@ frame rate problem in fullscreen mode.
 `CHANGED` - Adjusted events at the text introduction screen before the prologue stage and game over screen to fit the secret code.  (Aceearly1993)  
 `FIXED` -  Inner Yard 2: A bug which a spider mid boss will drop a wrong whip upgrade upon a re-visit in extreme situation.   (Aceearly1993)  
 `FIXED` -  Incorrect sound channel volume for most sound effects.   (Aceearly1993)  
+`FIXED` -  A bug introduced after swapping the controller plugin which will cause Efrain to move much earlier than the vanilla game's logic should 
+on some force-stop scenes if pressing Xbox D-pad.  (Aceearly1993)  
 
 
  #### [0.6.2] - 2025/4/12 #### 
