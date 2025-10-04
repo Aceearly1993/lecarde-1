@@ -103,6 +103,13 @@ frame rate problem in fullscreen mode.
 
 ### Update History ###
 
+ #### [0.6.4] - 2025/10/14 #### 
+
+`CHANGED` - Due to modern demands, have to change the post-hit flash effect on some very large enemies to something else that's not strong white, 
+in order to reduce visual confusions, make flash-sensitive people to be able to get into the game easier.
+Apologize if this breaks the consistency of style in the vanilla game. (Aceearly1993)  
+
+
  #### [0.6.3] - 2025/9/18 #### 
  
 `ADDED` - Config: Implemented on/off toggle for V-Sync and anti-alias. (Aceearly1993)  
