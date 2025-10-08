@@ -108,6 +108,8 @@ frame rate problem in fullscreen mode.
 `CHANGED` - Due to modern demands, have to change the post-hit flash effect on some very large enemies to something else that's not strong white, 
 in order to reduce visual confusions, make flash-sensitive people to be able to get into the game easier.
 Apologize if this breaks the consistency of style in the vanilla game. (Aceearly1993)  
+`CHANGED` - Config: Due to requests, a cursor object had been added so that it's possible to navigate available key remap options like any other normal game, 
+eliminated potential confusions on remap keys. (Aceearly1993)  
 
 
  #### [0.6.3] - 2025/9/18 #### 
