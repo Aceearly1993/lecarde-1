@@ -112,7 +112,7 @@ Apologize if this breaks the consistency of style in the vanilla game. (Aceearly
 `CHANGED` - Config: Due to requests, a cursor object had been added so that it's possible to navigate available key remap options like any other normal game, 
 eliminated potential confusions on remap keys. (Aceearly1993)  
 `FIXED` - A bug after 0.6.1 if controller is unplugged mid-game and proceed with keyboard input, then plugged the controller again, the controller input will then be forever lost. 
-F6 serves as force re-connect hotkey if auto recognization upon re-plug fails. (Aceearly1993)    
+"Backspace" serves as force re-connect hotkey if auto recognization upon re-plug fails. (Aceearly1993)    
 
 
  #### [0.6.3] - 2025/9/18 #### 
