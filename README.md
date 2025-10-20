@@ -56,7 +56,7 @@ If some of the fonts did not get installed in you computer, the game will be una
 #### NEW Hotkey Functions #### 
 
 Due to the limitation of original GUI, some new functions cannot be directly embedded in the GUI...
-- Toggle anti-alias on/off: F5/F6
+- Controller Hot re-connect: "Backspace"
 
 #### About "LC2_KeyBinding.ini" #### 
 <img width="640" height="480" alt="LC2-1" src="https://github.com/user-attachments/assets/2d7588c8-5e85-4b1a-9cf6-d85346864240" />
@@ -98,6 +98,14 @@ Some capture programs will have compatibility issue with reworked LC1 on Windows
 #### Read this if you encountered framerate problem in fullscreen mode #### 
 It's something about your setting of VSync under Direct X 9 mode. If your only graphic card is a Nvidia GTX graphic card, toggle VSync in your Nvidia control panel to "fast" or "on" if you encountered
 frame rate problem in fullscreen mode.
+
+
+
+#### How to re-enable Direct X 8 mode? #### 
+
+If for some legacy reason somebody wanted the vanilla game's DX8 render, manually add "/D3D8" after the game path (the DX9 mode version) in the command line and run the command line.
+
+
 
 
 
