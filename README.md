@@ -121,6 +121,7 @@ Apologize if this breaks the consistency of style in the vanilla game. (Aceearly
 eliminated potential confusions on remap keys. (Aceearly1993)  
 `FIXED` - A bug after 0.6.1 if controller is unplugged mid-game and proceed with keyboard input, then plugged the controller again, the controller input will then be forever lost. 
 "Backspace" serves as force re-connect hotkey if auto recognization upon re-plug fails. (Aceearly1993)    
+`FIXED` - Global control events: Now the game is capable to receive input from joystick slots 2, 3 and 4 instead of only capable to detect joystick slot 1.  (Aceearly1993)  
 
 
  #### [0.6.3] - 2025/9/18 #### 
