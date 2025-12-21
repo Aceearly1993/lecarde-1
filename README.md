@@ -28,6 +28,13 @@ The release of Lecarde Chronicles (1) got permited by Konami, the game and its a
 
 to get the reworked game builds, go to "Releases", choose the latest "v*. *. *-alpha" tag and find the .exe files in the "Game Binary" zipped file. The .exe file is the generated executable, while the .mfa file in "Source Code" zipped file fis the (recovered) Clickteam Fusion project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened).
 
+The "Alternate build method" branch is only needed if the initial build method did not work.
+
+The "native aspect ratio stretched" branch is only needed if you did not like the intended aspect ratio (force 4:3).
+
+They are put there only to fulfill more personal preferences that a lot of people demanded them.
+
+
 Also provided in main lobby are save files just in case if any tester wants to cut the process short and go directly to the places that bugs will happen in original version (spiked ball hazard in: science hall parts 1, 2, 3; Katharina's quarter part 3), they may want themselves to be placed at: C:/User/(User name) (hidden folder)/Appdata/Roaming/MMFApplications
 (extract the save file zip first.)
 
