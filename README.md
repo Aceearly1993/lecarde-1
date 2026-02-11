@@ -119,6 +119,15 @@ If for some legacy reason somebody wanted the vanilla game's DX8 render, manuall
 
 ### Update History ###
 
+ #### [0.6.5] - 2026/2/11 #### 
+
+`CHANGED` - To eliminate a sound bug once and for all, events in vanilla which jumps to the title screen scene upon triggered an ending or boss rush result screen,
+ now changed to soft-reset the game instead. (Aceearly1993)  
+`CHANGED` - Upgraded the game's engine to Clckteam fusion 2.5+ revision 296.9. (Aceearly1993)  
+`CHANGED` - System config: Up/down movement of cursor will stop if players attempt to go beyond the top-most/bottom-most of the menu,
+reduce possible confusion of pointing toward "return to title" in unwanted occasions. (Aceearly1993)  
+
+
  #### [0.6.4] - 2025/10/14 #### 
 
 `CHANGED` - Due to modern demands, have to change the post-hit flash effect on some very large enemies to something else that's not strong white, 
