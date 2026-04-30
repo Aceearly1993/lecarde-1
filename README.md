@@ -126,6 +126,9 @@ If for some legacy reason somebody wanted the vanilla game's DX8 render, manuall
 `CHANGED` - Upgraded the game's engine to Clckteam fusion 2.5+ revision 296.9. (Aceearly1993)  
 `CHANGED` - System config: Up/down movement of cursor will stop if players attempt to go beyond the top-most/bottom-most of the menu,
 reduce possible confusion of pointing toward "return to title" in unwanted occasions. (Aceearly1993)  
+`CHANGED` - Slide: Due to request, unrandomized slide distance in order to end player's confusion with the game's control operation regarding slide.  (Aceearly1993)  
+`CHANGED` - Air dash: Due to request, unrandomized air dash distance in order to end player's confusion with the game's control operation regarding air dash.  (Aceearly1993)  
+`CHANGED` - Boss RUsh result:  More pictures added to indicate boss rush rank.  (Aceearly1993)  
 
 
  #### [0.6.4] - 2025/10/14 #### 
