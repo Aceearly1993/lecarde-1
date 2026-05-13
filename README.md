@@ -114,6 +114,12 @@ frame rate problem in fullscreen mode.
 If for some legacy reason somebody wanted the vanilla game's DX8 render, manually add "/D3D8" after the game path (the DX9 mode version) in the command line and run the command line.
 
 
+Discuss the reworked version of Lecarde 1 and Lecarde 2:   
+https://discord.gg/yuS7VjPfYM 
+
+
+Discuss more Migami games works (mainly their works AFTER their transition into a commercial studio): 
+https://discord.gg/uAVxVqmZXx  
 
 
 
