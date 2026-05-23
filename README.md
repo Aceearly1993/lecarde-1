@@ -39,6 +39,16 @@ They are put there only to fulfill more personal preferences that a lot of peopl
 Also provided in main lobby are save files just in case if any tester wants to cut the process short and go directly to the places that bugs will happen in original version (spiked ball hazard in: science hall parts 1, 2, 3; Katharina's quarter part 3), they may want themselves to be placed at: C:/User/(User name) (hidden folder)/Appdata/Roaming/MMFApplications
 (extract the save file zip first.)
 
+#### PC Specification Requirements #### 
+
+CONFIGURATION:   
+(Based upon vanilla Lecarde Chronicles 2's requirements, which is the most compatible and stable option shared with other Migami games)   
+System OS: Windows XP / Vista / 7 / 8 / 10   
+Processor: Intel Core2Duo 2.20GHZ or higher - Memory 1GB  Ram-   
+
+500 MB free Hard drive space   
+Video Card: Direct 3D9 Compatible   
+
 
 #### System compatibility warning #### 
 
