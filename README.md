@@ -136,6 +136,17 @@ https://discord.gg/uAVxVqmZXx
 
 ### Update History ###
 
+ #### [0.6.6] - 2026/7/1 #### 
+
+`CHANGED` - Main hitbox: Based upon player's feedback, make Main character Hurtbox fully separated from main collision box; Added a new collision box and shrink down the size of main character hurtbox.  (Aceearly1993)  
+`CHANGED` - Added 1 default extra life in the regular state.  (Aceearly1993)  
+`CHANGED` - Hard mode enemy damage scaling is decreased from +40% to +30% so that it fits more in line with the calculation in official Castlevania series.  (Aceearly1993)  
+`CHANGED` - There're very few instances affected, but some of the unnecessary drop dead spots and instant death spots were reduced throughout the game.  (Aceearly1993)  
+`CHANGED` - The MP recover mechanic is changed so that MP will always be recovered over time.  (Aceearly1993)  
+`CHANGED` - Boss Rush status recover rate after getting the boss orb increased from +30% to +40%.  (Aceearly1993)  
+`ADDED` - The suiside button (F7) will become quick retry function if in boss rush.  (Aceearly1993)  
+
+
  #### [0.6.5] - 2026/2/11 #### 
 
 `CHANGED` - To eliminate a sound bug once and for all, events in vanilla which jumps to the title screen scene upon triggered an ending or boss rush result screen,
