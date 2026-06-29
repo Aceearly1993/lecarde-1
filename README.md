@@ -142,7 +142,7 @@ https://discord.gg/uAVxVqmZXx
 `CHANGED` - Added 1 default extra life in the regular state.  (Aceearly1993)  
 `CHANGED` - Hard mode enemy damage scaling is decreased from +40% to +30% so that it fits more in line with the calculation in official Castlevania series.  (Aceearly1993)  
 `CHANGED` - There're very few instances affected, but some of the unnecessary drop dead spots and instant death spots were reduced throughout the game.  (Aceearly1993)  
-`CHANGED` - The MP recover mechanic is changed so that MP will always be recovered over time.  (Aceearly1993)  
+`CHANGED` - The MP (called "SP" in the game) recover mechanic is changed so that MP will always be recovered over time.  (Aceearly1993)  
 `CHANGED` - Boss Rush status recover rate after getting the boss orb increased from +30% to +40%.  (Aceearly1993)  
 `ADDED` - The suiside button (F7) will become quick retry function if in boss rush.  (Aceearly1993)  
 
