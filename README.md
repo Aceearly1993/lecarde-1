@@ -145,6 +145,8 @@ https://discord.gg/uAVxVqmZXx
 `CHANGED` - The MP (called "SP" in the game) recover mechanic is changed so that MP will always be recovered over time.  (Aceearly1993)  
 `CHANGED` - Boss Rush status recover rate after getting the boss orb increased from +30% to +40%.  (Aceearly1993)  
 `ADDED` - The suiside button (F7) will become quick retry function if in boss rush.  (Aceearly1993)  
+`FIXED` - Northern Mountains boss: A phenomenon which will cause the game to not proceed the intended music change, lead to some people's misunderstanding about the game's quality.  (Aceearly1993)  
+`FIXED` - Condemned area part 1: A bug which will cause progression problem at mid-boss fight in very rare circumstances. (Aceearly1993)  
 
 
  #### [0.6.5] - 2026/2/11 #### 
