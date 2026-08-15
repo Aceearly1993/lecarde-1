@@ -144,7 +144,7 @@ not disturbing the original game's 15-color palette rule for each object. (Aceea
 `CHANGED` - Basement part 1/part 2: Further reduced the contact damage of spikes in hard mode. (Aceearly1993)  
 `CHANGED` - Condemned area part 2: Due to requests, very slightly adjusted color of some platforms so that they're slightly more easier to see in color blind people's aspect. (Aceearly1993)  
 `CHANGED` - Condemned area part 3: Revamped how the last freefall mechanic works; Added two platforms at the right-bottom of the area 
-so that it's now fully possble to backtrack from the last freefall, and ditched the old mechanic just in case it doesn't always work in all computers. (Aceearly1993)  
+so that it's now fully possible to backtrack from the last freefall, and ditched the old mechanic just in case it doesn't always work in all computers. (Aceearly1993)  
 `CHANGED` - Katharina's quarters part 2: Further reduced the contact damage of spikes in hard mode. (Aceearly1993)  
 `CHANGED` - Katharina's quarters part 3/boss: Adjusts so that Fake Efrain's standing whip strike can be dodged by crouching. (Aceearly1993)  
 
