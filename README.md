@@ -136,6 +136,20 @@ https://discord.gg/uAVxVqmZXx
 
 ### Update History ###
 
+ #### [0.6.7] - 2026/8/15 #### 
+
+`CHANGED` - Northern Mountains part 3: Adjusted some platforms so that they're slightly more easier to see in color blind people's aspect in a way of 
+not disturbing the original game's 15-color palette rule for each object. (Aceearly1993)  
+`CHANGED` - Entrance main hall part 1: Due to requests, very slightly adjusted color of some platforms so that they're slightly more easier to see in color blind people's aspect. (Aceearly1993)  
+`CHANGED` - Basement part 1/part 2: Further reduced the contact damage of spikes in hard mode. (Aceearly1993)  
+`CHANGED` - Condemned area part 2: Due to requests, very slightly adjusted color of some platforms so that they're slightly more easier to see in color blind people's aspect. (Aceearly1993)  
+`CHANGED` - Condemned area part 3: Revamped how the last freefall mechanic works; Added two platforms at the right-bottom of the area 
+so that it's now fully possble to backtrack from the last freefall, and ditched the old mechanic just in case it doesn't always work in all computers. (Aceearly1993)  
+`CHANGED` - Katharina's quarters part 2: Further reduced the contact damage of spikes in hard mode. (Aceearly1993)  
+`CHANGED` - Katharina's quarters part 3/boss: Adjusts so that Fake Efrain's standing whip strike can be dodged by crouching. (Aceearly1993)  
+
+
+
  #### [0.6.6] - 2026/7/1 #### 
 
 `CHANGED` - Main hitbox: Based upon player's feedback, make Main character Hurtbox fully separated from main collision box; Added a new collision box and shrink down the size of main character hurtbox.  (Aceearly1993)  
