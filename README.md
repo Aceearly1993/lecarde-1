@@ -136,6 +136,11 @@ https://discord.gg/uAVxVqmZXx
 
 ### Update History ###
 
+#### [0.6.8] - 2026/8/31 #### 
+
+`EXPERIMENT` - The joystick 2 object just received a sudden update out of nowhere. I cannot resist the temptation of any possible chance on improvements and will test the new version right in this release. (new version of object updated by NaitorStudios)  
+
+
  #### [0.6.7] - 2026/8/15 #### 
 
 `CHANGED` - Northern Mountains part 3: Adjusted some platforms so that they're slightly more easier to see in color blind people's aspect in a way of 
