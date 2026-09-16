@@ -136,6 +136,20 @@ https://discord.gg/uAVxVqmZXx
 
 ### Update History ###
 
+ #### [0.6.9] - 2026/9/16 #### 
+
+`CHANGED` - Main character sprite: Modify the palette of the sprites to the final version and removed the now redundant [change color] event.  
+It seems that for some reason, the final in-game palette was a last minute change temporarily applied to main character sprite at the start of each action scene. (Aceearly1993)  
+`CHANGED` - Double jump: It's now capable to execute double jump from a ground jump slightly earlier than vanilla. (Aceearly1993)  
+`ADDED` - Double jump: Pre-input windows added after an air dash.  (Aceearly1993)  
+`CHANGED` - Inner Yard part 2: Due to player's complain, slightly improved visibility of moving platforms so that moving platforms can be identified easier.  (Aceearly1993)  
+`CHANGED` - Basement 1: Due to player's complain, slightly improved visibility of moving platforms so that moving platforms can be identified easier.  (Aceearly1993)  
+`CHANGED` - Sickles (Masked Demon, Death): If the sickles appeared right at the coordinate Efrain stands, the sickles will not instantly hurt Efrain as soon as the sickle is active;
+The sickle's valid hurt collision now only occurs after the flames wear off from the summoned sickles, eliminated player's confusion and frustration for a more fair game.  (Aceearly1993)  
+`FIXED` - Boss Rush/Boss Practice: A bug introduced after 0.6.8 which caused controller to stop working when playing via Logitech Cordless Precision controller.  (Aceearly1993)  
+`FIXED` - An unintended behavior which caused Efrain to be sent back to prologue stage via pressing the suiside hotkey (F7) at Ruhigestadt right after beating prologue stage.  (Aceearly1993)  
+
+
 #### [0.6.8] - 2026/8/31 #### 
 
 `EXPERIMENT` - The joystick 2 object just received a sudden update out of nowhere. I cannot resist the temptation of any possible chance on improvements and will test the new version right in this release. (new version of object updated by NaitorStudios)  
