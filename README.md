@@ -142,6 +142,8 @@ https://discord.gg/uAVxVqmZXx
 It seems that for some reason, the final in-game palette was a last minute change temporarily applied to main character sprite at the start of each action scene. (Aceearly1993)  
 `CHANGED` - Double jump: It's now capable to execute double jump from a ground jump slightly earlier than vanilla. (Aceearly1993)  
 `ADDED` - Double jump: Pre-input windows added after an air dash.  (Aceearly1993)  
+`CHANGED` - Ruins Boss: Cloned and separated Hard mode sickle variant into its own entity so that they won't accidently break the routine of Normal mode sickles
+if extend the fight to more than 2 minutes on purpose. Following this change, also make sub weapon and whipping capable to destroy Hard mode exclusive sickles. (Aceearly1993)  
 `CHANGED` - Inner Yard part 2: Due to player's complain, slightly improved visibility of moving platforms so that moving platforms can be identified easier.  (Aceearly1993)  
 `CHANGED` - Basement 1: Due to player's complain, slightly improved visibility of moving platforms so that moving platforms can be identified easier.  (Aceearly1993)  
 `CHANGED` - Sickles (Masked Demon, Death): If the sickles appeared right at the coordinate Efrain stands, the sickles will not instantly hurt Efrain as soon as the sickle is active;
