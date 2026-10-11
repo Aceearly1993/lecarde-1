@@ -150,6 +150,8 @@ if extend the fight to more than 2 minutes on purpose. Following this change, al
 The sickle's valid hurt collision now only occurs after the flames wear off from the summoned sickles, eliminated player's confusion and frustration for a more fair game.  (Aceearly1993)  
 `FIXED` - Boss Rush/Boss Practice: A bug introduced after 0.6.8 which caused controller to stop working when playing via Logitech Cordless Precision controller.  (Aceearly1993)  
 `FIXED` - An unintended behavior which caused Efrain to be sent back to prologue stage via pressing the suiside hotkey (F7) at Ruhigestadt right after beating prologue stage.  (Aceearly1993)  
+`FIXED` - West cave part 1, North Mountain part 1, Castle entrance Main hall part 1: A disease which will cause xbox controller not responding
+if player attempted to quickly retreat back to map screen after first encounter.  (Aceearly1993)  
 
 
 #### [0.6.8] - 2026/8/31 #### 
