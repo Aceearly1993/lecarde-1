@@ -20,6 +20,9 @@ We contacted Migami Games and got approval to keep this repository up.
 
 The release of Lecarde Chronicles (1) got permited by Konami, the game and its assets are freeware and **_SHOULD NOT_** be sold, this also includes the source code. Any modifications you do have also to be free. Castlevania is an intelectual property owned by Konami, please support the company by buying their official releases.
 
+#### Access the Releases ####
+
+The latest stable releases can be accessed at >  http://github.com/Aceearly1993/lecarde-1/releases
 
 
 ## Usage
