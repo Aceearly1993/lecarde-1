@@ -142,6 +142,8 @@ https://discord.gg/uAVxVqmZXx
  #### [0.7.0] - 2026/10/16 #### 
 
 `CHANGED` - Main character Double Jump/Falling: In case the previous edits did not look perfect, I instead sync the animation frame speed to be more closer to other Migami games.  (Aceearly1993)  
+`CHANGED` - Temporarily rolled back the joystick 2 extension to the previous stable version just in case there's report that it doesn't work 100% natively on windows 11 (v.25H2) with this game;
+Waiting for the incompatibility of new extension version to be resolved once and for all.  (Aceearly1993)  
 
 
  #### [0.6.9] - 2026/9/16 #### 
