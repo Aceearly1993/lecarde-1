@@ -139,6 +139,14 @@ https://discord.gg/uAVxVqmZXx
 
 ### Update History ###
 
+ #### [0.7.1] - 2026/10/27 #### 
+
+`ADDED` - Missing conditions on [boss rush boss fight ended] events so that a boss rush boss fight scene will always ended with controls restored, 
+as an attempt to rule out a rare incompatible glitch with controllers in rare systems such as Windows 11 25H2.  (Aceearly1993)  
+`FIXED` - A minor visual glitch when main character catching boss victory balls so that the main character motion's visual in such situation now became as close to vanilla as technically possible.     (Aceearly1993)  
+`FIXED` - Hunting Ground boss 2 (Wasp hive): An unintended out of bound glitch caused by collision box divided from main hurt box, which was missed in all previous checks.  :(    (Aceearly1993)  
+
+
  #### [0.7.0] - 2026/10/16 #### 
 
 `CHANGED` - Main character Double Jump/Falling: In case the previous edits did not look perfect, I instead sync the animation frame speed to be more closer to other Migami games.  (Aceearly1993)  
