@@ -145,7 +145,11 @@ https://discord.gg/uAVxVqmZXx
 as an attempt to rule out a rare incompatible glitch with controllers in rare systems such as Windows 11 25H2.  (Aceearly1993)  
 `FIXED` - A minor visual glitch when main character catching boss victory balls so that the main character motion's visual in such situation now became as close to vanilla as technically possible.     (Aceearly1993)  
 `FIXED` - Hunting Ground boss 2 (Wasp hive): An unintended out of bound glitch caused by collision box divided from main hurt box, which was missed in all previous checks.  :(    (Aceearly1993)  
-`CHANGED` - Collision box: Further reduced Hurt collision during falling/air dash so that the game is more generous to play than before.  (Aceearly1993) 
+`FIXED` - Boss practice: A glitch where the difficulty sector failed to be visible in very rare circumstances.  (Aceearly1993)  
+`CHANGED` - Collision box: Further reducing Hurt collision during falling/air dash so that the game is more generous to play than before.  (Aceearly1993)  
+`CHANGED` - Control config: Due to repeated complains about player cannot find [joypad type] option easily, adding text so that 
+[joypad type] option is now as visible as technically could without breaking pre-existed setting screen formula.   (Aceearly1993)  
+
 
 
  #### [0.7.0] - 2026/10/16 #### 
