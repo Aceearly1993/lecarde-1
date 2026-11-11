@@ -149,7 +149,8 @@ as an attempt to rule out a rare incompatible glitch with controllers in rare sy
 `CHANGED` - Collision box: Further reducing Hurt collision during falling/air dash so that the game is more generous to play than before.  (Aceearly1993)  
 `CHANGED` - Control config: Due to repeated complains about player cannot find [joypad type] option easily, adding text so that 
 [joypad type] option is now as visible as technically could without breaking pre-existed setting screen formula.   (Aceearly1993)  
-
+`CHANGED` - Control config: Due to repeated complains about player cannot read correct XBOX controller label, The check of [if the current controller is XBOX controller] had been also applied to joystick slots 2, 3 and 4 instead of only reading slot 1.  (Aceearly1993)  
+`CHANGED` - Control config: Due to repeated complains about player cannot read correct XBOX controller label, it's now capable to choose XBOX controller lable even if player isn't actually using first-party XBOX controller.    (Aceearly1993)  
 
 
  #### [0.7.0] - 2026/10/16 #### 
